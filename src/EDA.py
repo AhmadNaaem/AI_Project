@@ -3,6 +3,8 @@ import numpy as np
 import seaborn as sns
 
 def EDA(a):
-    print(a.head())
-    print(a.info())
+    ch_data = a.drop(columns=['math score', 'reading score', 'writing score'])
+    print(ch_data.head())
+    print(ch_data.info())
+    print(ch_data.nunique())
     
