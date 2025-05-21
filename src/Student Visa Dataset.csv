@@ -1,0 +1,1001 @@
+gender,race/ethnicity,parental level of education,math score,reading score,writing score,percentage,grade,extracurricular activities,ielts,financial sponsorship,visa eligible
+female,group B,bachelor's degree,72,72,74,72.66666667,C,sports,9,family-sponsored,no
+female,group C,some college,69,90,88,82.33333333,B,volunteering,6.7,self-funded,yes
+female,group B,master's degree,90,95,93,92.66666667,A,none,6.1,scholarship,no
+male,group A,associate's degree,47,57,44,49.33333333,F,multiple,7.3,scholarship,no
+male,group C,some college,76,78,75,76.33333333,B,sports,8.5,scholarship,no
+female,group B,associate's degree,71,83,78,77.33333333,B,none,7,self-funded,no
+female,group B,some college,88,95,92,91.66666667,A,volunteering,6.3,family-sponsored,yes
+male,group B,some college,40,43,39,40.66666667,F,none,6.7,self-funded,no
+male,group D,high school,64,64,67,65,C,sports,5,family-sponsored,yes
+female,group B,high school,38,60,50,49.33333333,F,arts,6.2,government-funded,no
+male,group C,associate's degree,58,54,52,54.66666667,C,none,8.6,government-funded,no
+male,group D,associate's degree,40,52,43,45,F,sports,7,scholarship,no
+female,group B,high school,65,81,73,73,C,volunteering,8.5,self-funded,no
+male,group A,some college,78,72,70,73.33333333,C,sports,7.9,scholarship,yes
+female,group A,master's degree,50,53,58,53.66666667,C,sports,6.9,scholarship,no
+female,group C,some high school,69,75,78,74,C,arts,6.7,self-funded,no
+male,group C,high school,88,89,86,87.66666667,B,sports,7.5,self-funded,no
+female,group B,some high school,18,32,28,26,F,multiple,7.9,self-funded,no
+male,group C,master's degree,46,42,46,44.66666667,F,multiple,5.5,scholarship,yes
+female,group C,associate's degree,54,58,61,57.66666667,C,volunteering,6.3,family-sponsored,no
+male,group D,high school,66,69,63,66,C,multiple,8.6,family-sponsored,no
+female,group B,some college,65,75,70,70,C,none,8.2,scholarship,yes
+male,group D,some college,44,54,53,50.33333333,C,arts,5.7,self-funded,no
+female,group C,some high school,69,73,73,71.66666667,C,none,7.5,government-funded,no
+male,group D,bachelor's degree,74,71,80,75,B,sports,8.8,government-funded,yes
+male,group A,master's degree,73,74,72,73,C,sports,5.5,scholarship,no
+male,group B,some college,69,54,55,59.33333333,C,none,8.4,scholarship,no
+female,group C,bachelor's degree,67,69,75,70.33333333,C,volunteering,9,scholarship,no
+male,group C,high school,70,70,65,68.33333333,C,arts,5.2,scholarship,no
+female,group D,master's degree,62,70,75,69,C,sports,6,self-funded,no
+female,group D,some college,69,74,74,72.33333333,C,arts,6.8,family-sponsored,no
+female,group B,some college,63,65,61,63,C,sports,5.6,family-sponsored,no
+female,group E,master's degree,56,72,65,64.33333333,C,volunteering,8.4,family-sponsored,no
+male,group D,some college,40,42,38,40,F,sports,6.1,government-funded,no
+male,group E,some college,97,87,82,88.66666667,B,multiple,5.9,government-funded,no
+male,group E,associate's degree,81,81,79,80.33333333,B,sports,8.2,government-funded,yes
+female,group D,associate's degree,74,81,83,79.33333333,B,sports,6.3,scholarship,no
+female,group D,some high school,50,64,59,57.66666667,C,none,6.3,government-funded,no
+female,group D,associate's degree,75,90,88,84.33333333,B,multiple,8.1,self-funded,yes
+male,group B,associate's degree,57,56,57,56.66666667,C,arts,7.7,scholarship,no
+male,group C,associate's degree,55,61,54,56.66666667,C,multiple,6.8,family-sponsored,no
+female,group C,associate's degree,58,73,68,66.33333333,C,sports,6.5,self-funded,no
+female,group B,associate's degree,53,58,65,58.66666667,C,arts,6.7,scholarship,no
+male,group B,some college,59,65,66,63.33333333,C,volunteering,8.4,scholarship,yes
+female,group E,associate's degree,50,56,54,53.33333333,C,volunteering,7.4,self-funded,no
+male,group B,associate's degree,65,54,57,58.66666667,C,none,7.2,family-sponsored,no
+female,group A,associate's degree,55,65,62,60.66666667,C,arts,6.3,government-funded,yes
+female,group C,high school,66,71,76,71,C,none,7.9,family-sponsored,no
+female,group D,associate's degree,57,74,76,69,C,none,8.5,family-sponsored,yes
+male,group C,high school,82,84,82,82.66666667,B,multiple,8.6,family-sponsored,yes
+male,group E,some college,53,55,48,52,C,multiple,5.7,scholarship,no
+male,group E,associate's degree,77,69,68,71.33333333,C,none,6.8,family-sponsored,yes
+male,group C,some college,53,44,42,46.33333333,F,none,6.1,self-funded,no
+male,group D,high school,88,78,75,80.33333333,B,arts,6.7,government-funded,no
+female,group C,some high school,71,84,87,80.66666667,B,arts,7.9,government-funded,yes
+female,group C,high school,33,41,43,39,F,multiple,7.5,scholarship,no
+female,group E,associate's degree,82,85,86,84.33333333,B,none,7.1,self-funded,yes
+male,group D,associate's degree,52,55,49,52,C,volunteering,8.8,self-funded,no
+male,group D,some college,58,59,58,58.33333333,C,multiple,6.7,family-sponsored,yes
+female,group C,some high school,0,17,10,9,F,sports,7.2,family-sponsored,no
+male,group E,bachelor's degree,79,74,72,75,B,sports,7.1,scholarship,yes
+male,group A,some high school,39,39,34,37.33333333,F,none,5.6,government-funded,no
+male,group A,associate's degree,62,61,55,59.33333333,C,sports,5.2,government-funded,no
+female,group C,associate's degree,69,80,71,73.33333333,C,volunteering,5.8,scholarship,no
+female,group D,some high school,59,58,59,58.66666667,C,multiple,7.7,government-funded,no
+male,group B,some high school,67,64,61,64,C,arts,5,scholarship,no
+male,group D,some high school,45,37,37,39.66666667,F,multiple,8.3,self-funded,no
+female,group C,some college,60,72,74,68.66666667,C,sports,7.3,scholarship,no
+male,group B,associate's degree,61,58,56,58.33333333,C,multiple,7.7,scholarship,no
+female,group C,associate's degree,39,64,57,53.33333333,C,sports,7.9,self-funded,no
+female,group D,some college,58,63,73,64.66666667,C,volunteering,5.6,self-funded,yes
+male,group D,some college,63,55,63,60.33333333,C,sports,8.4,self-funded,yes
+female,group A,associate's degree,41,51,48,46.66666667,F,sports,8.8,scholarship,no
+male,group C,some high school,61,57,56,58,C,arts,5.6,government-funded,no
+male,group C,some high school,49,49,41,46.33333333,F,volunteering,7.1,scholarship,no
+male,group B,associate's degree,44,41,38,41,F,arts,7.1,self-funded,no
+male,group E,some high school,30,26,22,26,F,none,6.7,government-funded,no
+male,group A,bachelor's degree,80,78,81,79.66666667,B,arts,8,self-funded,yes
+female,group D,some high school,61,74,72,69,C,arts,6.3,self-funded,yes
+female,group E,master's degree,62,68,68,66,C,volunteering,7.1,family-sponsored,no
+female,group B,associate's degree,47,49,50,48.66666667,F,volunteering,7.4,self-funded,no
+male,group B,high school,49,45,45,46.33333333,F,sports,6.9,family-sponsored,no
+male,group A,some college,50,47,54,50.33333333,C,volunteering,7.5,family-sponsored,yes
+male,group E,associate's degree,72,64,63,66.33333333,C,sports,7.5,self-funded,no
+male,group D,high school,42,39,34,38.33333333,F,multiple,8,government-funded,no
+female,group C,some college,73,80,82,78.33333333,B,sports,9,government-funded,no
+female,group C,some college,76,83,88,82.33333333,B,none,8.8,scholarship,no
+female,group D,associate's degree,71,71,74,72,C,none,7.8,government-funded,no
+female,group A,some college,58,70,67,65,C,sports,9,scholarship,no
+female,group D,some high school,73,86,82,80.33333333,B,volunteering,9,scholarship,no
+female,group C,bachelor's degree,65,72,74,70.33333333,C,arts,5.2,government-funded,no
+male,group C,high school,27,34,36,32.33333333,F,multiple,8,self-funded,no
+male,group C,high school,71,79,71,73.66666667,C,multiple,6.6,scholarship,no
+male,group C,associate's degree,43,45,50,46,F,volunteering,6.3,self-funded,yes
+female,group B,some college,79,86,92,85.66666667,B,sports,6.1,self-funded,no
+male,group C,associate's degree,78,81,82,80.33333333,B,arts,7,family-sponsored,yes
+male,group B,some high school,65,66,62,64.33333333,C,none,8.5,government-funded,yes
+female,group E,some college,63,72,70,68.33333333,C,none,5.8,scholarship,yes
+female,group D,some college,58,67,62,62.33333333,C,volunteering,5.3,self-funded,no
+female,group D,bachelor's degree,65,67,62,64.66666667,C,sports,7.5,family-sponsored,no
+male,group B,some college,79,67,67,71,C,sports,8.4,family-sponsored,no
+male,group D,bachelor's degree,68,74,74,72,C,sports,8.2,scholarship,yes
+female,group D,associate's degree,85,91,89,88.33333333,B,multiple,5.1,scholarship,no
+male,group B,high school,60,44,47,50.33333333,C,arts,7.9,family-sponsored,yes
+male,group C,some college,98,86,90,91.33333333,A,arts,8.6,family-sponsored,yes
+female,group C,some college,58,67,72,65.66666667,C,none,8.4,scholarship,no
+female,group D,master's degree,87,100,100,95.66666667,A,multiple,8.9,government-funded,no
+male,group E,associate's degree,66,63,64,64.33333333,C,arts,5.8,self-funded,yes
+female,group B,associate's degree,52,76,70,66,C,none,5.3,self-funded,no
+female,group B,some high school,70,64,72,68.66666667,C,multiple,5,self-funded,no
+female,group D,associate's degree,77,89,98,88,B,volunteering,8.6,family-sponsored,yes
+male,group C,high school,62,55,49,55.33333333,C,none,8.3,family-sponsored,no
+male,group A,associate's degree,54,53,47,51.33333333,C,none,9,scholarship,no
+female,group D,some college,51,58,54,54.33333333,C,volunteering,8.6,self-funded,no
+female,group E,bachelor's degree,99,100,100,99.66666667,A,multiple,7.7,government-funded,yes
+male,group C,high school,84,77,74,78.33333333,B,none,7.7,scholarship,no
+female,group B,bachelor's degree,75,85,82,80.66666667,B,sports,7,scholarship,no
+female,group D,bachelor's degree,78,82,79,79.66666667,B,multiple,8.9,self-funded,no
+female,group D,some high school,51,63,61,58.33333333,C,arts,7.2,government-funded,no
+female,group C,some college,55,69,65,63,C,arts,7.3,family-sponsored,no
+female,group C,bachelor's degree,79,92,89,86.66666667,B,none,7.8,family-sponsored,yes
+male,group B,associate's degree,91,89,92,90.66666667,A,volunteering,8.2,family-sponsored,yes
+female,group C,some college,88,93,93,91.33333333,A,volunteering,8.1,government-funded,yes
+male,group D,high school,63,57,56,58.66666667,C,volunteering,8.8,family-sponsored,no
+male,group E,some college,83,80,73,78.66666667,B,multiple,8.8,scholarship,no
+female,group B,high school,87,95,86,89.33333333,B,none,5.1,family-sponsored,no
+male,group B,some high school,72,68,67,69,C,none,5,government-funded,no
+male,group D,some college,65,77,74,72,C,multiple,7,scholarship,yes
+male,group D,master's degree,82,82,74,79.33333333,B,none,6.9,government-funded,no
+female,group A,bachelor's degree,51,49,51,50.33333333,C,arts,8.4,government-funded,no
+male,group D,master's degree,89,84,82,85,B,arts,5,family-sponsored,no
+male,group C,some high school,53,37,40,43.33333333,F,none,5.1,family-sponsored,yes
+male,group E,some college,87,74,70,77,B,sports,8.4,government-funded,yes
+female,group C,some college,75,81,84,80,B,sports,6.9,self-funded,yes
+male,group D,bachelor's degree,74,79,75,76,B,volunteering,8.6,scholarship,yes
+male,group C,bachelor's degree,58,55,48,53.66666667,C,sports,7.1,self-funded,no
+male,group B,some high school,51,54,41,48.66666667,F,arts,5.9,self-funded,yes
+male,group E,high school,70,55,56,60.33333333,C,volunteering,5,scholarship,no
+female,group C,associate's degree,59,66,67,64,C,sports,7.5,family-sponsored,no
+male,group D,some college,71,61,69,67,C,volunteering,8.6,scholarship,yes
+female,group D,some high school,76,72,71,73,C,volunteering,7.2,scholarship,no
+female,group C,some college,59,62,64,61.66666667,C,volunteering,7.7,family-sponsored,no
+female,group E,some college,42,55,54,50.33333333,C,arts,6.8,self-funded,yes
+male,group A,high school,57,43,47,49,F,sports,8.4,self-funded,no
+male,group D,some college,88,73,78,79.66666667,B,arts,6.9,government-funded,no
+female,group C,some college,22,39,33,31.33333333,F,none,6,scholarship,no
+male,group B,some high school,88,84,75,82.33333333,B,multiple,6.5,government-funded,no
+male,group C,associate's degree,73,68,66,69,C,sports,5.8,self-funded,no
+female,group D,bachelor's degree,68,75,81,74.66666667,C,arts,7.6,family-sponsored,yes
+male,group E,associate's degree,100,100,93,97.66666667,A,sports,6.7,family-sponsored,yes
+male,group A,some high school,62,67,69,66,C,multiple,7.4,self-funded,yes
+male,group A,bachelor's degree,77,67,68,70.66666667,C,none,8.7,scholarship,no
+female,group B,associate's degree,59,70,66,65,C,multiple,6.4,self-funded,yes
+male,group D,bachelor's degree,54,49,47,50,C,volunteering,5.5,scholarship,no
+male,group D,some high school,62,67,61,63.33333333,C,multiple,7.2,scholarship,no
+female,group C,some college,70,89,88,82.33333333,B,multiple,8.4,family-sponsored,yes
+female,group E,high school,66,74,78,72.66666667,C,multiple,8.6,scholarship,yes
+male,group B,some college,60,60,60,60,C,volunteering,5,scholarship,no
+female,group B,associate's degree,61,86,87,78,B,multiple,7,self-funded,yes
+male,group D,associate's degree,66,62,64,64,C,arts,8.6,family-sponsored,no
+male,group B,associate's degree,82,78,74,78,B,arts,6.3,government-funded,yes
+female,group E,some college,75,88,85,82.66666667,B,none,8.7,scholarship,yes
+male,group B,master's degree,49,53,52,51.33333333,C,multiple,8.1,family-sponsored,no
+male,group C,high school,52,53,49,51.33333333,C,volunteering,6.4,government-funded,no
+female,group E,master's degree,81,92,91,88,B,arts,7.7,family-sponsored,no
+female,group C,bachelor's degree,96,100,100,98.66666667,A,arts,6.5,scholarship,yes
+male,group C,high school,53,51,51,51.66666667,C,none,7.2,scholarship,yes
+female,group B,master's degree,58,76,78,70.66666667,C,sports,8.8,scholarship,yes
+female,group B,high school,68,83,78,76.33333333,B,volunteering,7.8,self-funded,yes
+female,group C,some college,67,75,70,70.66666667,C,volunteering,7.9,self-funded,yes
+male,group A,high school,72,73,74,73,C,arts,5.8,family-sponsored,yes
+male,group E,some high school,94,88,78,86.66666667,B,none,5,self-funded,no
+female,group D,some college,79,86,81,82,B,multiple,8.3,self-funded,no
+female,group C,associate's degree,63,67,70,66.66666667,C,sports,7.1,scholarship,no
+female,group C,bachelor's degree,43,51,54,49.33333333,F,arts,7.9,self-funded,yes
+female,group C,master's degree,81,91,87,86.33333333,B,volunteering,8.4,government-funded,yes
+female,group B,high school,46,54,58,52.66666667,C,none,6.8,self-funded,yes
+female,group C,associate's degree,71,77,77,75,B,none,6.2,self-funded,yes
+female,group B,master's degree,52,70,62,61.33333333,C,multiple,5.6,self-funded,yes
+female,group D,some high school,97,100,100,99,A,multiple,5.3,self-funded,yes
+male,group C,master's degree,62,68,75,68.33333333,C,volunteering,8.8,scholarship,yes
+female,group C,some college,46,64,66,58.66666667,C,arts,5.4,family-sponsored,no
+female,group E,high school,50,50,47,49,F,none,8.8,self-funded,no
+female,group D,associate's degree,65,69,70,68,C,none,5.1,scholarship,no
+male,group C,some high school,45,52,49,48.66666667,F,none,8.4,scholarship,yes
+male,group C,associate's degree,65,67,65,65.66666667,C,none,5.4,self-funded,yes
+male,group E,high school,80,76,65,73.66666667,C,multiple,5,government-funded,no
+male,group D,some high school,62,66,68,65.33333333,C,arts,6.6,self-funded,yes
+male,group B,some high school,48,52,45,48.33333333,F,multiple,5,scholarship,no
+female,group C,bachelor's degree,77,88,87,84,B,none,8.4,scholarship,no
+female,group E,associate's degree,66,65,69,66.66666667,C,sports,8.2,scholarship,no
+male,group D,some college,76,83,79,79.33333333,B,sports,6.7,family-sponsored,yes
+female,group B,some high school,62,64,66,64,C,multiple,8,government-funded,no
+male,group D,some college,77,62,62,67,C,multiple,8.6,government-funded,yes
+female,group C,master's degree,69,84,85,79.33333333,B,arts,8.8,scholarship,yes
+male,group D,associate's degree,61,55,52,56,C,multiple,5.2,self-funded,no
+male,group C,some high school,59,69,65,64.33333333,C,volunteering,7.2,government-funded,yes
+male,group E,high school,55,56,51,54,C,multiple,7.2,family-sponsored,no
+female,group B,some college,45,53,55,51,C,sports,5.8,self-funded,no
+female,group B,bachelor's degree,78,79,76,77.66666667,B,sports,6.6,scholarship,no
+female,group C,associate's degree,67,84,86,79,B,none,7.1,family-sponsored,yes
+female,group D,some college,65,81,77,74.33333333,C,none,8.6,government-funded,no
+male,group C,associate's degree,69,77,69,71.66666667,C,volunteering,7.6,scholarship,no
+female,group B,associate's degree,57,69,68,64.66666667,C,sports,5.9,government-funded,no
+male,group C,some college,59,41,42,47.33333333,F,sports,7.4,government-funded,no
+male,group D,some high school,74,71,78,74.33333333,C,none,7.3,self-funded,yes
+male,group E,bachelor's degree,82,62,62,68.66666667,C,none,6.3,government-funded,no
+male,group E,high school,81,80,76,79,B,volunteering,9,family-sponsored,yes
+female,group B,some college,74,81,76,77,B,arts,6.2,self-funded,no
+female,group B,some college,58,61,66,61.66666667,C,arts,8.5,self-funded,no
+male,group D,some high school,80,79,79,79.33333333,B,arts,8.4,self-funded,yes
+male,group C,some college,35,28,27,30,F,none,6.8,family-sponsored,no
+female,group C,high school,42,62,60,54.66666667,C,multiple,5.5,government-funded,no
+male,group C,associate's degree,60,51,56,55.66666667,C,arts,8.6,self-funded,yes
+male,group E,high school,87,91,81,86.33333333,B,arts,7.3,self-funded,yes
+male,group B,some high school,84,83,75,80.66666667,B,volunteering,5.4,family-sponsored,yes
+female,group E,associate's degree,83,86,88,85.66666667,B,volunteering,7.4,self-funded,yes
+female,group C,high school,34,42,39,38.33333333,F,volunteering,5.8,scholarship,no
+male,group B,high school,66,77,70,71,C,arts,8,scholarship,no
+male,group B,some high school,61,56,56,57.66666667,C,volunteering,6.6,government-funded,yes
+female,group D,high school,56,68,74,66,C,volunteering,5.2,government-funded,yes
+male,group B,associate's degree,87,85,73,81.66666667,B,sports,8.1,scholarship,no
+female,group C,some high school,55,65,62,60.66666667,C,sports,6.3,family-sponsored,no
+male,group D,some high school,86,80,75,80.33333333,B,none,5.1,scholarship,no
+female,group B,associate's degree,52,66,73,63.66666667,C,volunteering,7.4,self-funded,yes
+female,group E,master's degree,45,56,54,51.66666667,C,sports,8.7,self-funded,no
+female,group C,some college,72,72,71,71.66666667,C,none,8.7,government-funded,no
+male,group D,high school,57,50,54,53.66666667,C,arts,8.5,scholarship,no
+male,group A,some high school,68,72,64,68,C,none,8.1,self-funded,no
+female,group C,some college,88,95,94,92.33333333,A,multiple,7.7,family-sponsored,yes
+male,group D,some college,76,64,66,68.66666667,C,volunteering,6.1,government-funded,no
+male,group C,associate's degree,46,43,42,43.66666667,F,sports,6.5,family-sponsored,no
+female,group B,bachelor's degree,67,86,83,78.66666667,B,arts,7.7,scholarship,no
+male,group E,some high school,92,87,78,85.66666667,B,none,5.5,family-sponsored,no
+male,group C,bachelor's degree,83,82,84,83,B,multiple,5.9,self-funded,yes
+male,group D,associate's degree,80,75,77,77.33333333,B,arts,5,scholarship,no
+male,group D,bachelor's degree,63,66,67,65.33333333,C,sports,5.9,family-sponsored,no
+female,group D,some high school,64,60,74,66,C,arts,9,family-sponsored,yes
+male,group B,some college,54,52,51,52.33333333,C,volunteering,6.6,government-funded,no
+male,group C,associate's degree,84,80,80,81.33333333,B,none,8.5,scholarship,no
+male,group D,high school,73,68,66,69,C,arts,8.5,self-funded,yes
+female,group E,bachelor's degree,80,83,83,82,B,sports,7.9,family-sponsored,no
+female,group D,high school,56,52,55,54.33333333,C,volunteering,6.6,family-sponsored,no
+male,group E,some college,59,51,43,51,C,multiple,6.8,government-funded,no
+male,group D,some high school,75,74,69,72.66666667,C,sports,7.7,self-funded,no
+male,group C,associate's degree,85,76,71,77.33333333,B,multiple,5.1,self-funded,no
+male,group E,associate's degree,89,76,74,79.66666667,B,sports,7.3,family-sponsored,no
+female,group B,high school,58,70,68,65.33333333,C,volunteering,7.1,family-sponsored,yes
+female,group B,high school,65,64,62,63.66666667,C,multiple,5.2,scholarship,no
+male,group C,high school,68,60,53,60.33333333,C,sports,5.8,scholarship,no
+male,group A,some high school,47,49,49,48.33333333,F,volunteering,5.7,scholarship,yes
+female,group D,some college,71,83,83,79,B,none,7.5,family-sponsored,no
+female,group B,some high school,60,70,70,66.66666667,C,sports,6.8,government-funded,yes
+male,group D,master's degree,80,80,72,77.33333333,B,volunteering,5,scholarship,no
+male,group D,high school,54,52,52,52.66666667,C,arts,5.6,family-sponsored,no
+female,group E,some college,62,73,70,68.33333333,C,arts,5.2,scholarship,no
+female,group C,associate's degree,64,73,68,68.33333333,C,none,7.2,scholarship,no
+male,group C,associate's degree,78,77,77,77.33333333,B,arts,6.7,government-funded,yes
+female,group B,some college,70,75,78,74.33333333,C,volunteering,7.9,scholarship,no
+female,group C,master's degree,65,81,81,75.66666667,B,volunteering,8.8,family-sponsored,yes
+female,group C,some high school,64,79,77,73.33333333,C,none,8.2,scholarship,yes
+male,group C,some college,79,79,78,78.66666667,B,volunteering,6.1,family-sponsored,yes
+female,group C,some high school,44,50,51,48.33333333,F,arts,5.2,self-funded,no
+female,group E,high school,99,93,90,94,A,sports,6.8,government-funded,no
+male,group D,high school,76,73,68,72.33333333,C,none,6.8,government-funded,no
+male,group D,some high school,59,42,41,47.33333333,F,sports,7.5,government-funded,no
+female,group C,bachelor's degree,63,75,81,73,C,arts,9,self-funded,no
+female,group D,high school,69,72,77,72.66666667,C,arts,8,self-funded,no
+female,group D,associate's degree,88,92,95,91.66666667,A,multiple,8.7,family-sponsored,yes
+female,group E,some college,71,76,70,72.33333333,C,arts,6.3,self-funded,no
+male,group C,bachelor's degree,69,63,61,64.33333333,C,arts,5.4,self-funded,no
+male,group C,some college,58,49,42,49.66666667,F,multiple,5.6,family-sponsored,no
+female,group D,associate's degree,47,53,58,52.66666667,C,multiple,8.4,government-funded,no
+female,group D,some college,65,70,71,68.66666667,C,arts,9,family-sponsored,no
+male,group B,some college,88,85,76,83,B,volunteering,6.3,government-funded,yes
+male,group C,bachelor's degree,83,78,73,78,B,none,7,government-funded,no
+female,group C,some high school,85,92,93,90,A,volunteering,8.6,government-funded,yes
+female,group E,high school,59,63,75,65.66666667,C,none,5.9,government-funded,yes
+female,group C,some high school,65,86,80,77,B,multiple,7.5,family-sponsored,no
+male,group B,bachelor's degree,73,56,57,62,C,arts,5.2,self-funded,no
+male,group D,high school,53,52,42,49,F,none,6.2,scholarship,no
+male,group D,high school,45,48,46,46.33333333,F,volunteering,7.9,family-sponsored,no
+female,group D,bachelor's degree,73,79,84,78.66666667,B,none,8.6,government-funded,no
+female,group D,some college,70,78,78,75.33333333,B,sports,5.6,scholarship,yes
+female,group B,some high school,37,46,46,43,F,none,7.1,family-sponsored,no
+male,group B,associate's degree,81,82,82,81.66666667,B,none,5.4,self-funded,yes
+male,group E,associate's degree,97,82,88,89,B,sports,7.9,family-sponsored,yes
+female,group B,some high school,67,89,82,79.33333333,B,multiple,8,scholarship,no
+male,group B,bachelor's degree,88,75,76,79.66666667,B,arts,8.3,family-sponsored,no
+male,group E,some high school,77,76,77,76.66666667,B,none,6.3,government-funded,yes
+male,group C,associate's degree,76,70,68,71.33333333,C,none,8.4,self-funded,no
+male,group D,some high school,86,73,70,76.33333333,B,volunteering,5.4,scholarship,no
+male,group C,some high school,63,60,57,60,C,volunteering,8.7,scholarship,yes
+female,group E,bachelor's degree,65,73,75,71,C,multiple,7.2,government-funded,no
+male,group D,high school,78,77,80,78.33333333,B,volunteering,6.4,family-sponsored,yes
+male,group B,associate's degree,67,62,60,63,C,none,6.7,self-funded,no
+male,group A,some high school,46,41,43,43.33333333,F,arts,7.8,scholarship,yes
+male,group E,associate's degree,71,74,68,71,C,multiple,5.3,scholarship,yes
+male,group C,high school,40,46,50,45.33333333,F,sports,8.1,self-funded,yes
+male,group D,associate's degree,90,87,75,84,B,volunteering,6.8,self-funded,no
+male,group A,some college,81,78,81,80,B,volunteering,7.2,family-sponsored,yes
+male,group D,some high school,56,54,52,54,C,volunteering,6.8,family-sponsored,no
+female,group C,associate's degree,67,84,81,77.33333333,B,volunteering,7.7,family-sponsored,yes
+male,group B,associate's degree,80,76,64,73.33333333,C,multiple,8.6,scholarship,no
+female,group C,associate's degree,74,75,83,77.33333333,B,arts,8.4,government-funded,yes
+male,group A,some college,69,67,69,68.33333333,C,volunteering,8.1,self-funded,no
+male,group E,some college,99,87,81,89,B,sports,5.4,government-funded,yes
+male,group C,some high school,51,52,44,49,F,sports,8.3,family-sponsored,no
+female,group B,associate's degree,53,71,67,63.66666667,C,arts,5,family-sponsored,no
+female,group D,high school,49,57,52,52.66666667,C,arts,8.1,scholarship,no
+female,group B,associate's degree,73,76,80,76.33333333,B,arts,5.7,scholarship,no
+male,group B,bachelor's degree,66,60,57,61,C,volunteering,6.9,self-funded,no
+male,group D,bachelor's degree,67,61,68,65.33333333,C,multiple,5.4,self-funded,yes
+female,group C,associate's degree,68,67,69,68,C,volunteering,5.3,government-funded,yes
+female,group C,bachelor's degree,59,64,75,66,C,sports,6.3,government-funded,yes
+male,group C,high school,71,66,65,67.33333333,C,multiple,7.9,scholarship,no
+female,group D,master's degree,77,82,91,83.33333333,B,none,8,family-sponsored,yes
+male,group C,associate's degree,83,72,78,77.66666667,B,multiple,7.4,scholarship,no
+male,group B,bachelor's degree,63,71,69,67.66666667,C,multiple,5.9,government-funded,no
+female,group D,associate's degree,56,65,63,61.33333333,C,multiple,8.9,scholarship,no
+female,group C,high school,67,79,84,76.66666667,B,sports,8.1,scholarship,yes
+female,group E,high school,75,86,79,80,B,sports,7.8,family-sponsored,no
+female,group C,some college,71,81,80,77.33333333,B,none,5.5,self-funded,no
+female,group C,some high school,43,53,53,49.66666667,F,arts,7.3,family-sponsored,no
+female,group C,high school,41,46,43,43.33333333,F,arts,8.4,government-funded,no
+female,group C,some college,82,90,94,88.66666667,B,multiple,7.4,self-funded,no
+male,group C,some college,61,61,62,61.33333333,C,arts,6.3,self-funded,no
+male,group A,some college,28,23,19,23.33333333,F,sports,7.3,family-sponsored,no
+male,group C,associate's degree,82,75,77,78,B,arts,7.5,family-sponsored,yes
+female,group B,some high school,41,55,51,49,F,sports,5,self-funded,no
+male,group C,high school,71,60,61,64,C,arts,6.7,scholarship,no
+male,group C,associate's degree,47,37,35,39.66666667,F,multiple,5,self-funded,no
+male,group E,associate's degree,62,56,53,57,C,multiple,5.1,self-funded,yes
+male,group B,associate's degree,90,78,81,83,B,sports,8.1,family-sponsored,no
+female,group C,bachelor's degree,83,93,95,90.33333333,A,arts,7.2,scholarship,no
+female,group B,some college,61,68,66,65,C,arts,6.4,government-funded,no
+male,group D,some high school,76,70,69,71.66666667,C,volunteering,6.3,scholarship,yes
+male,group C,associate's degree,49,51,43,47.66666667,F,none,8.3,self-funded,no
+female,group B,some high school,24,38,27,29.66666667,F,arts,7.1,scholarship,no
+female,group D,some high school,35,55,60,50,C,volunteering,6.1,scholarship,yes
+male,group C,high school,58,61,52,57,C,multiple,7.9,family-sponsored,no
+female,group C,high school,61,73,63,65.66666667,C,sports,5.8,self-funded,no
+female,group B,high school,69,76,74,73,C,none,8.8,family-sponsored,yes
+male,group D,associate's degree,67,72,67,68.66666667,C,none,7.9,government-funded,yes
+male,group D,some college,79,73,67,73,C,multiple,8.4,government-funded,no
+female,group C,high school,72,80,75,75.66666667,B,volunteering,5.1,scholarship,no
+male,group B,some college,62,61,57,60,C,sports,8.8,government-funded,no
+female,group C,bachelor's degree,77,94,95,88.66666667,B,multiple,6.8,family-sponsored,yes
+male,group D,high school,75,74,66,71.66666667,C,multiple,7.3,scholarship,no
+male,group E,associate's degree,87,74,76,79,B,sports,5,family-sponsored,no
+female,group B,bachelor's degree,52,65,69,62,C,none,6.3,government-funded,no
+male,group E,some college,66,57,52,58.33333333,C,volunteering,8.4,scholarship,no
+female,group C,some college,63,78,80,73.66666667,C,multiple,5,self-funded,yes
+female,group C,associate's degree,46,58,57,53.66666667,C,none,5.5,family-sponsored,no
+female,group C,some college,59,71,70,66.66666667,C,sports,6.7,self-funded,no
+female,group B,bachelor's degree,61,72,70,67.66666667,C,volunteering,7.3,government-funded,no
+male,group A,associate's degree,63,61,61,61.66666667,C,volunteering,7.2,government-funded,no
+female,group C,some college,42,66,69,59,C,multiple,8.8,self-funded,yes
+male,group D,some college,59,62,61,60.66666667,C,none,7,government-funded,no
+female,group D,some college,80,90,89,86.33333333,B,volunteering,5.4,family-sponsored,no
+female,group B,high school,58,62,59,59.66666667,C,multiple,5.8,self-funded,no
+male,group B,some high school,85,84,78,82.33333333,B,arts,6.1,family-sponsored,yes
+female,group C,some college,52,58,58,56,C,multiple,9,self-funded,no
+female,group D,some high school,27,34,32,31,F,sports,7.7,self-funded,no
+male,group C,some college,59,60,58,59,C,sports,7.5,scholarship,no
+male,group A,bachelor's degree,49,58,60,55.66666667,C,sports,8.5,scholarship,yes
+male,group C,high school,69,58,53,60,C,multiple,5.3,government-funded,yes
+male,group C,bachelor's degree,61,66,61,62.66666667,C,multiple,7.5,family-sponsored,no
+female,group A,some high school,44,64,58,55.33333333,C,none,5.8,self-funded,no
+female,group D,some high school,73,84,85,80.66666667,B,volunteering,8.2,family-sponsored,no
+male,group E,some college,84,77,71,77.33333333,B,volunteering,8.3,scholarship,no
+female,group C,some college,45,73,70,62.66666667,C,none,6.2,self-funded,yes
+male,group D,some high school,74,74,72,73.33333333,C,arts,6.9,self-funded,no
+female,group D,some college,82,97,96,91.66666667,A,volunteering,5.3,self-funded,yes
+female,group D,bachelor's degree,59,70,73,67.33333333,C,volunteering,8.4,self-funded,no
+male,group E,associate's degree,46,43,41,43.33333333,F,arts,7.5,government-funded,no
+female,group D,some high school,80,90,82,84,B,multiple,8.4,family-sponsored,no
+female,group D,master's degree,85,95,100,93.33333333,A,multiple,5.3,self-funded,yes
+female,group A,some high school,71,83,77,77,B,multiple,5.2,scholarship,no
+male,group A,bachelor's degree,66,64,62,64,C,volunteering,5.6,family-sponsored,no
+female,group B,associate's degree,80,86,83,83,B,none,8.9,scholarship,no
+male,group C,associate's degree,87,100,95,94,A,none,8.1,self-funded,yes
+male,group C,master's degree,79,81,71,77,B,volunteering,8.5,family-sponsored,no
+female,group E,some high school,38,49,45,44,F,sports,8.6,self-funded,no
+female,group A,some high school,38,43,43,41.33333333,F,sports,7.4,self-funded,no
+female,group E,some college,67,76,75,72.66666667,C,arts,7.8,self-funded,no
+female,group E,bachelor's degree,64,73,70,69,C,none,8.3,government-funded,no
+female,group C,associate's degree,57,78,67,67.33333333,C,volunteering,5.7,scholarship,no
+female,group D,high school,62,64,64,63.33333333,C,sports,5.6,scholarship,no
+male,group D,master's degree,73,70,75,72.66666667,C,none,8.1,self-funded,no
+male,group E,some high school,73,67,59,66.33333333,C,arts,5.8,family-sponsored,yes
+female,group D,some college,77,68,77,74,C,sports,8.5,government-funded,no
+male,group E,some college,76,67,67,70,C,volunteering,7.1,family-sponsored,no
+male,group C,associate's degree,57,54,56,55.66666667,C,arts,7.6,self-funded,yes
+female,group C,some high school,65,74,77,72,C,arts,8.6,scholarship,yes
+male,group A,high school,48,45,41,44.66666667,F,none,5.4,self-funded,no
+female,group B,high school,50,67,63,60,C,none,8.3,government-funded,no
+female,group C,associate's degree,85,89,95,89.66666667,B,none,5.9,scholarship,no
+male,group B,some high school,74,63,57,64.66666667,C,multiple,8.7,scholarship,no
+male,group D,some high school,60,59,54,57.66666667,C,arts,6.3,government-funded,no
+female,group C,some high school,59,54,67,60,C,multiple,5.4,self-funded,yes
+male,group A,some college,53,43,43,46.33333333,F,arts,5.1,government-funded,no
+female,group A,some college,49,65,55,56.33333333,C,volunteering,8,scholarship,no
+female,group D,high school,88,99,100,95.66666667,A,sports,8.8,scholarship,yes
+female,group C,high school,54,59,62,58.33333333,C,arts,6,scholarship,no
+female,group C,some high school,63,73,68,68,C,multiple,9,self-funded,no
+male,group B,associate's degree,65,65,63,64.33333333,C,sports,8.9,self-funded,yes
+female,group B,associate's degree,82,80,77,79.66666667,B,volunteering,8.3,scholarship,no
+female,group D,high school,52,57,56,55,C,arts,7.7,government-funded,yes
+male,group D,associate's degree,87,84,85,85.33333333,B,multiple,5.4,government-funded,yes
+female,group D,master's degree,70,71,74,71.66666667,C,arts,8.8,scholarship,yes
+male,group E,some college,84,83,78,81.66666667,B,none,8.4,family-sponsored,yes
+male,group D,associate's degree,71,66,60,65.66666667,C,volunteering,7,scholarship,no
+male,group B,some high school,63,67,67,65.66666667,C,arts,6.4,self-funded,yes
+female,group C,bachelor's degree,51,72,79,67.33333333,C,arts,7.5,self-funded,yes
+male,group E,high school,84,73,69,75.33333333,B,sports,6.6,government-funded,no
+male,group C,bachelor's degree,71,74,68,71,C,arts,6.4,government-funded,yes
+male,group C,associate's degree,74,73,67,71.33333333,C,arts,6.6,family-sponsored,no
+male,group D,some college,68,59,62,63,C,arts,7.5,family-sponsored,no
+male,group E,high school,57,56,54,55.66666667,C,multiple,5.2,self-funded,yes
+female,group C,associate's degree,82,93,93,89.33333333,B,multiple,7.5,self-funded,yes
+female,group D,high school,57,58,64,59.66666667,C,volunteering,8.3,scholarship,yes
+female,group D,master's degree,47,58,67,57.33333333,C,arts,6.4,family-sponsored,yes
+female,group A,some high school,59,85,80,74.66666667,C,arts,6.6,scholarship,yes
+male,group B,some college,41,39,34,38,F,volunteering,7.7,government-funded,no
+female,group C,some college,62,67,62,63.66666667,C,none,7.1,government-funded,no
+male,group C,bachelor's degree,86,83,86,85,B,arts,6.4,scholarship,no
+male,group C,some high school,69,71,65,68.33333333,C,arts,7.9,self-funded,no
+male,group A,some high school,65,59,53,59,C,none,6.2,scholarship,no
+male,group C,some high school,68,63,54,61.66666667,C,sports,8.4,government-funded,no
+male,group C,associate's degree,64,66,59,63,C,volunteering,7.8,self-funded,no
+female,group C,high school,61,72,70,67.66666667,C,multiple,8.5,self-funded,no
+male,group C,high school,61,56,55,57.33333333,C,none,5.6,self-funded,no
+female,group A,some high school,47,59,50,52,C,arts,6.7,government-funded,no
+male,group C,some high school,73,66,66,68.33333333,C,multiple,8.6,family-sponsored,no
+male,group C,some college,50,48,53,50.33333333,C,none,7.3,scholarship,yes
+male,group D,associate's degree,75,68,64,69,C,volunteering,8.3,scholarship,no
+male,group D,associate's degree,75,66,73,71.33333333,C,sports,9,scholarship,no
+male,group C,high school,70,56,51,59,C,volunteering,7.2,family-sponsored,no
+male,group D,some high school,89,88,82,86.33333333,B,arts,5,scholarship,yes
+female,group C,some college,67,81,79,75.66666667,B,sports,6.7,government-funded,yes
+female,group D,high school,78,81,80,79.66666667,B,sports,7.6,family-sponsored,no
+female,group A,some high school,59,73,69,67,C,sports,6.6,family-sponsored,no
+female,group B,associate's degree,73,83,76,77.33333333,B,volunteering,7.7,self-funded,no
+male,group A,some high school,79,82,73,78,B,volunteering,7.8,family-sponsored,no
+female,group C,some high school,67,74,77,72.66666667,C,sports,5.5,self-funded,yes
+male,group D,some college,69,66,60,65,C,arts,6.6,scholarship,no
+male,group C,high school,86,81,80,82.33333333,B,multiple,8,government-funded,yes
+male,group B,high school,47,46,42,45,F,none,8.6,scholarship,no
+male,group B,associate's degree,81,73,72,75.33333333,B,multiple,5.5,self-funded,no
+female,group C,some college,64,85,85,78,B,multiple,5.2,government-funded,yes
+female,group E,some college,100,92,97,96.33333333,A,sports,6.1,government-funded,no
+female,group C,associate's degree,65,77,74,72,C,multiple,5.8,government-funded,no
+male,group C,some college,65,58,49,57.33333333,C,none,5.6,scholarship,no
+female,group C,associate's degree,53,61,62,58.66666667,C,arts,6.9,self-funded,no
+male,group C,bachelor's degree,37,56,47,46.66666667,F,none,8,self-funded,no
+female,group D,bachelor's degree,79,89,89,85.66666667,B,volunteering,5.5,government-funded,no
+male,group D,associate's degree,53,54,48,51.66666667,C,none,8.8,self-funded,no
+female,group E,bachelor's degree,100,100,100,100,A,sports,6.1,scholarship,no
+male,group B,high school,72,65,68,68.33333333,C,sports,5.4,scholarship,yes
+male,group C,bachelor's degree,53,58,55,55.33333333,C,arts,7.6,self-funded,no
+male,group B,some college,54,54,45,51,C,arts,8.9,family-sponsored,no
+female,group E,some college,71,70,76,72.33333333,C,volunteering,8.8,government-funded,no
+female,group C,some college,77,90,91,86,B,none,5,scholarship,no
+male,group A,bachelor's degree,75,58,62,65,C,none,5.8,self-funded,yes
+female,group C,some college,84,87,91,87.33333333,B,arts,6.5,scholarship,no
+female,group D,associate's degree,26,31,38,31.66666667,F,volunteering,7.1,scholarship,no
+male,group A,high school,72,67,65,68,C,sports,6.5,self-funded,yes
+female,group A,high school,77,88,85,83.33333333,B,volunteering,8.3,government-funded,yes
+male,group C,some college,91,74,76,80.33333333,B,multiple,7.6,family-sponsored,no
+female,group C,associate's degree,83,85,90,86,B,sports,7.7,government-funded,yes
+female,group C,high school,63,69,74,68.66666667,C,sports,5,self-funded,no
+female,group C,associate's degree,68,86,84,79.33333333,B,none,7.5,family-sponsored,yes
+female,group D,some high school,59,67,61,62.33333333,C,arts,7.5,self-funded,no
+female,group B,associate's degree,90,90,91,90.33333333,A,none,6.8,self-funded,yes
+female,group D,bachelor's degree,71,76,83,76.66666667,B,multiple,6.1,scholarship,yes
+male,group E,bachelor's degree,76,62,66,68,C,none,6.9,family-sponsored,yes
+male,group D,associate's degree,80,68,72,73.33333333,C,none,8.1,family-sponsored,no
+female,group D,master's degree,55,64,70,63,C,sports,7.9,scholarship,no
+male,group E,associate's degree,76,71,67,71.33333333,C,arts,7.9,family-sponsored,no
+male,group B,high school,73,71,68,70.66666667,C,sports,8.7,family-sponsored,yes
+female,group D,associate's degree,52,59,56,55.66666667,C,arts,6.1,scholarship,no
+male,group C,some college,68,68,61,65.66666667,C,multiple,5.2,scholarship,no
+male,group A,high school,59,52,46,52.33333333,C,arts,8.4,government-funded,no
+female,group B,associate's degree,49,52,54,51.66666667,C,none,5.4,government-funded,no
+male,group C,high school,70,74,71,71.66666667,C,none,5,self-funded,no
+male,group D,some college,61,47,56,54.66666667,C,arts,7.8,self-funded,no
+female,group C,associate's degree,60,75,74,69.66666667,C,none,5.2,government-funded,no
+male,group B,some high school,64,53,57,58,C,multiple,7.9,scholarship,yes
+male,group A,associate's degree,79,82,82,81,B,arts,7.7,scholarship,yes
+female,group A,associate's degree,65,85,76,75.33333333,B,arts,6.8,family-sponsored,no
+female,group C,associate's degree,64,64,70,66,C,volunteering,8.1,family-sponsored,no
+female,group C,some college,83,83,90,85.33333333,B,multiple,5.4,scholarship,no
+female,group C,bachelor's degree,81,88,90,86.33333333,B,sports,8.8,government-funded,no
+female,group B,high school,54,64,68,62,C,sports,8.6,self-funded,no
+male,group D,high school,68,64,66,66,C,none,7.6,government-funded,yes
+female,group C,some college,54,48,52,51.33333333,C,multiple,8.4,government-funded,no
+female,group D,some college,59,78,76,71,C,arts,8.6,government-funded,yes
+female,group B,some high school,66,69,68,67.66666667,C,none,8.4,government-funded,no
+male,group E,some college,76,71,72,73,C,arts,6.3,scholarship,no
+female,group D,master's degree,74,79,82,78.33333333,B,arts,7,self-funded,no
+female,group B,associate's degree,94,87,92,91,A,volunteering,8.3,family-sponsored,yes
+male,group C,some college,63,61,54,59.33333333,C,volunteering,7,self-funded,no
+female,group E,associate's degree,95,89,92,92,A,volunteering,6.3,family-sponsored,yes
+female,group D,master's degree,40,59,54,51,C,none,6.5,family-sponsored,no
+female,group B,some high school,82,82,80,81.33333333,B,sports,6.2,self-funded,no
+male,group A,high school,68,70,66,68,C,volunteering,7.3,family-sponsored,no
+male,group B,bachelor's degree,55,59,54,56,C,none,6.4,scholarship,no
+male,group C,master's degree,79,78,77,78,B,volunteering,8.8,government-funded,no
+female,group C,bachelor's degree,86,92,87,88.33333333,B,none,6.9,self-funded,no
+male,group D,some college,76,71,73,73.33333333,C,multiple,6.5,family-sponsored,no
+male,group A,some high school,64,50,43,52.33333333,C,volunteering,5.4,government-funded,no
+male,group D,some high school,62,49,52,54.33333333,C,none,5.7,scholarship,no
+female,group B,some high school,54,61,62,59,C,volunteering,7.2,family-sponsored,yes
+female,group B,master's degree,77,97,94,89.33333333,B,multiple,5.8,scholarship,yes
+female,group C,some high school,76,87,85,82.66666667,B,sports,8.8,scholarship,yes
+female,group D,some college,74,89,84,82.33333333,B,volunteering,7.8,self-funded,no
+female,group E,some college,66,74,73,71,C,volunteering,5.8,self-funded,yes
+female,group D,some high school,66,78,78,74,C,volunteering,7.9,family-sponsored,yes
+female,group B,high school,67,78,79,74.66666667,C,arts,8.3,scholarship,yes
+male,group D,some college,71,49,52,57.33333333,C,none,5.3,scholarship,no
+female,group C,associate's degree,91,86,84,87,B,sports,5.9,self-funded,no
+male,group D,bachelor's degree,69,58,57,61.33333333,C,none,8.2,government-funded,no
+male,group C,master's degree,54,59,50,54.33333333,C,sports,5.4,family-sponsored,no
+male,group C,high school,53,52,49,51.33333333,C,arts,8.4,self-funded,yes
+male,group E,some college,68,60,59,62.33333333,C,arts,7.5,scholarship,no
+male,group C,some high school,56,61,60,59,C,multiple,6.4,government-funded,yes
+female,group C,high school,36,53,43,44,F,sports,6.7,scholarship,no
+female,group D,bachelor's degree,29,41,47,39,F,sports,8.7,family-sponsored,no
+female,group C,associate's degree,62,74,70,68.66666667,C,volunteering,5.5,government-funded,no
+female,group C,associate's degree,68,67,73,69.33333333,C,volunteering,8.4,self-funded,yes
+female,group C,some high school,47,54,53,51.33333333,C,sports,5.3,scholarship,no
+male,group E,associate's degree,62,61,58,60.33333333,C,sports,6.5,family-sponsored,yes
+female,group E,associate's degree,79,88,94,87,B,arts,7.1,family-sponsored,yes
+male,group B,high school,73,69,68,70,C,volunteering,6.7,self-funded,yes
+female,group C,bachelor's degree,66,83,83,77.33333333,B,volunteering,5.9,government-funded,yes
+male,group C,associate's degree,51,60,58,56.33333333,C,none,7.8,family-sponsored,yes
+female,group D,high school,51,66,62,59.66666667,C,none,8.4,scholarship,no
+male,group E,bachelor's degree,85,66,71,74,C,none,5.5,scholarship,yes
+male,group A,associate's degree,97,92,86,91.66666667,A,arts,7.1,self-funded,yes
+male,group C,high school,75,69,68,70.66666667,C,sports,8.1,family-sponsored,yes
+male,group D,associate's degree,79,82,80,80.33333333,B,none,5.4,scholarship,yes
+female,group C,associate's degree,81,77,79,79,B,volunteering,8.8,family-sponsored,no
+female,group D,associate's degree,82,95,89,88.66666667,B,none,6.6,scholarship,no
+female,group D,master's degree,64,63,66,64.33333333,C,sports,8.4,government-funded,no
+male,group E,some high school,78,83,80,80.33333333,B,arts,6.6,government-funded,yes
+female,group A,some high school,92,100,97,96.33333333,A,none,5.8,government-funded,yes
+male,group C,high school,72,67,64,67.66666667,C,arts,5.6,self-funded,yes
+female,group C,high school,62,67,64,64.33333333,C,multiple,7.4,government-funded,no
+male,group C,master's degree,79,72,69,73.33333333,C,volunteering,6.5,scholarship,no
+male,group C,some high school,79,76,65,73.33333333,C,sports,8.6,scholarship,no
+male,group B,bachelor's degree,87,90,88,88.33333333,B,multiple,7.1,family-sponsored,yes
+female,group B,associate's degree,40,48,50,46,F,multiple,5.8,scholarship,no
+male,group D,some college,77,62,64,67.66666667,C,none,6.3,government-funded,no
+male,group E,associate's degree,53,45,40,46,F,sports,6.7,government-funded,no
+female,group C,some college,32,39,33,34.66666667,F,sports,7.9,scholarship,no
+female,group C,associate's degree,55,72,79,68.66666667,C,volunteering,8.4,scholarship,yes
+male,group C,master's degree,61,67,66,64.66666667,C,volunteering,6.7,scholarship,no
+female,group B,associate's degree,53,70,70,64.33333333,C,arts,8.7,scholarship,no
+male,group D,some high school,73,66,62,67,C,arts,6.1,family-sponsored,no
+female,group D,some college,74,75,79,76,B,volunteering,5.7,family-sponsored,yes
+female,group C,some college,63,74,74,70.33333333,C,sports,8.7,scholarship,no
+male,group C,bachelor's degree,96,90,92,92.66666667,A,volunteering,7.1,scholarship,yes
+female,group D,some college,63,80,80,74.33333333,C,volunteering,6.4,self-funded,yes
+male,group B,bachelor's degree,48,51,46,48.33333333,F,arts,6.1,scholarship,no
+male,group B,associate's degree,48,43,45,45.33333333,F,sports,8.8,government-funded,no
+female,group E,bachelor's degree,92,100,100,97.33333333,A,arts,7.4,scholarship,yes
+female,group D,master's degree,61,71,78,70,C,sports,5.5,self-funded,yes
+male,group B,high school,63,48,47,52.66666667,C,volunteering,8.8,government-funded,no
+male,group D,bachelor's degree,68,68,67,67.66666667,C,sports,5.6,government-funded,no
+male,group B,some college,71,75,70,72,C,arts,5.4,family-sponsored,yes
+male,group A,bachelor's degree,91,96,92,93,A,none,7.1,family-sponsored,no
+female,group C,some college,53,62,56,57,C,multiple,7.2,scholarship,no
+female,group C,high school,50,66,64,60,C,multiple,6.5,self-funded,yes
+female,group E,high school,74,81,71,75.33333333,B,arts,8.4,scholarship,no
+male,group A,associate's degree,40,55,53,49.33333333,F,sports,7.5,self-funded,yes
+male,group A,some college,61,51,52,54.66666667,C,multiple,6.8,government-funded,yes
+female,group B,high school,81,91,89,87,B,sports,8.8,self-funded,no
+female,group B,some college,48,56,58,54,C,arts,6.3,government-funded,yes
+female,group D,master's degree,53,61,68,60.66666667,C,sports,8.3,scholarship,no
+female,group D,some high school,81,97,96,91.33333333,A,none,5.5,family-sponsored,no
+female,group E,some high school,77,79,80,78.66666667,B,multiple,6.3,government-funded,no
+female,group D,bachelor's degree,63,73,78,71.33333333,C,sports,5,government-funded,no
+female,group D,associate's degree,73,75,80,76,B,none,5,family-sponsored,yes
+female,group D,some college,69,77,77,74.33333333,C,none,7.9,government-funded,no
+female,group C,associate's degree,65,76,76,72.33333333,C,volunteering,8.6,scholarship,no
+female,group A,high school,55,73,73,67,C,arts,5.5,family-sponsored,no
+female,group C,bachelor's degree,44,63,62,56.33333333,C,multiple,5,self-funded,no
+female,group C,some college,54,64,65,61,C,none,7,family-sponsored,no
+female,group A,some high school,48,66,65,59.66666667,C,volunteering,7.1,family-sponsored,no
+male,group C,some college,58,57,54,56.33333333,C,volunteering,7.6,family-sponsored,no
+male,group A,some high school,71,62,50,61,C,none,6.1,family-sponsored,no
+male,group E,bachelor's degree,68,68,64,66.66666667,C,none,7.6,family-sponsored,no
+female,group E,high school,74,76,73,74.33333333,C,multiple,5.2,scholarship,no
+female,group C,bachelor's degree,92,100,99,97,A,none,6.3,self-funded,yes
+female,group C,bachelor's degree,56,79,72,69,C,none,7.6,family-sponsored,yes
+male,group B,high school,30,24,15,23,F,arts,6.4,government-funded,no
+male,group A,some high school,53,54,48,51.66666667,C,multiple,5.4,family-sponsored,no
+female,group D,high school,69,77,73,73,C,multiple,8.2,family-sponsored,no
+female,group D,some high school,65,82,81,76,B,none,5.3,family-sponsored,no
+female,group D,master's degree,54,60,63,59,C,multiple,6.4,government-funded,no
+female,group C,high school,29,29,30,29.33333333,F,none,9,scholarship,no
+female,group E,some college,76,78,80,78,B,sports,8.8,government-funded,no
+male,group D,high school,60,57,51,56,C,none,8.7,self-funded,no
+male,group D,master's degree,84,89,90,87.66666667,B,sports,6.4,scholarship,yes
+male,group C,some high school,75,72,62,69.66666667,C,volunteering,6.9,family-sponsored,no
+female,group C,associate's degree,85,84,82,83.66666667,B,arts,8.9,scholarship,no
+female,group C,master's degree,40,58,54,50.66666667,C,arts,7.7,family-sponsored,no
+female,group E,some college,61,64,62,62.33333333,C,arts,7,scholarship,no
+female,group B,associate's degree,58,63,65,62,C,sports,7.7,self-funded,no
+male,group D,some college,69,60,63,64,C,none,7.6,family-sponsored,yes
+female,group C,some college,58,59,66,61,C,sports,5.6,family-sponsored,no
+male,group C,bachelor's degree,94,90,91,91.66666667,A,arts,5.8,family-sponsored,yes
+female,group C,associate's degree,65,77,74,72,C,sports,5.6,scholarship,no
+female,group A,associate's degree,82,93,93,89.33333333,B,none,6.3,scholarship,no
+female,group C,high school,60,68,72,66.66666667,C,arts,5,scholarship,no
+female,group E,bachelor's degree,37,45,38,40,F,sports,8.2,scholarship,no
+male,group D,bachelor's degree,88,78,83,83,B,none,7.1,scholarship,no
+male,group D,master's degree,95,81,84,86.66666667,B,multiple,6.2,scholarship,no
+male,group C,associate's degree,65,73,68,68.66666667,C,sports,8.1,scholarship,yes
+female,group C,high school,35,61,54,50,C,none,8.5,self-funded,no
+male,group B,bachelor's degree,62,63,56,60.33333333,C,volunteering,8.1,government-funded,no
+male,group C,high school,58,51,52,53.66666667,C,volunteering,5.4,family-sponsored,yes
+male,group A,some college,100,96,86,94,A,multiple,5.5,government-funded,yes
+female,group E,bachelor's degree,61,58,62,60.33333333,C,volunteering,5.3,self-funded,no
+male,group D,some college,100,97,99,98.66666667,A,none,5.6,scholarship,yes
+male,group B,associate's degree,69,70,63,67.33333333,C,multiple,7.2,government-funded,yes
+male,group D,associate's degree,61,48,46,51.66666667,C,volunteering,6.9,government-funded,no
+male,group D,some college,49,57,46,50.66666667,C,none,5.3,self-funded,no
+female,group C,some high school,44,51,55,50,C,arts,5.1,self-funded,yes
+male,group D,some college,67,64,70,67,C,none,7.7,family-sponsored,no
+male,group B,high school,79,60,65,68,C,multiple,6.8,family-sponsored,no
+female,group B,bachelor's degree,66,74,81,73.66666667,C,arts,6.9,self-funded,yes
+female,group C,high school,75,88,85,82.66666667,B,none,6.1,scholarship,no
+male,group D,some high school,84,84,80,82.66666667,B,multiple,7.7,scholarship,no
+male,group A,high school,71,74,64,69.66666667,C,volunteering,7.8,scholarship,no
+female,group B,high school,67,80,81,76,B,multiple,6.1,family-sponsored,yes
+female,group D,some high school,80,92,88,86.66666667,B,multiple,5,family-sponsored,yes
+male,group E,some college,86,76,74,78.66666667,B,volunteering,6.1,family-sponsored,no
+female,group D,associate's degree,76,74,73,74.33333333,C,sports,8,family-sponsored,no
+male,group D,high school,41,52,51,48,F,arts,7.9,family-sponsored,no
+female,group D,associate's degree,74,88,90,84,B,none,7.6,self-funded,yes
+female,group B,some high school,72,81,79,77.33333333,B,multiple,6.5,scholarship,no
+female,group E,high school,74,79,80,77.66666667,B,none,7.5,scholarship,yes
+male,group B,high school,70,65,60,65,C,volunteering,5.2,scholarship,no
+female,group B,bachelor's degree,65,81,81,75.66666667,B,arts,7.2,scholarship,yes
+female,group D,associate's degree,59,70,65,64.66666667,C,multiple,7.1,scholarship,no
+female,group E,high school,64,62,68,64.66666667,C,multiple,7.4,scholarship,no
+female,group B,high school,50,53,55,52.66666667,C,sports,6.9,self-funded,no
+female,group D,some college,69,79,81,76.33333333,B,multiple,6.9,self-funded,yes
+male,group C,some high school,51,56,53,53.33333333,C,volunteering,8,self-funded,yes
+female,group A,high school,68,80,76,74.66666667,C,multiple,7.5,family-sponsored,yes
+female,group D,some college,85,86,98,89.66666667,B,volunteering,8,self-funded,yes
+female,group A,associate's degree,65,70,74,69.66666667,C,multiple,8.2,scholarship,yes
+female,group B,some high school,73,79,79,77,B,arts,7.5,self-funded,no
+female,group B,some college,62,67,67,65.33333333,C,sports,7.7,scholarship,no
+male,group C,associate's degree,77,67,64,69.33333333,C,sports,8.5,government-funded,no
+male,group D,some high school,69,66,61,65.33333333,C,multiple,8.8,government-funded,no
+female,group D,associate's degree,43,60,58,53.66666667,C,sports,8.6,self-funded,no
+male,group D,associate's degree,90,87,85,87.33333333,B,multiple,7.4,scholarship,no
+male,group C,some college,74,77,73,74.66666667,C,multiple,8.5,self-funded,no
+male,group C,some high school,73,66,63,67.33333333,C,sports,5,government-funded,no
+female,group D,some college,55,71,69,65,C,sports,9,government-funded,no
+female,group C,high school,65,69,67,67,C,none,6.9,self-funded,no
+male,group D,associate's degree,80,63,63,68.66666667,C,volunteering,8.5,family-sponsored,no
+female,group C,some high school,50,60,60,56.66666667,C,none,8.7,family-sponsored,yes
+female,group C,some college,63,73,71,69,C,volunteering,7.6,scholarship,yes
+female,group B,bachelor's degree,77,85,87,83,B,sports,7.8,family-sponsored,no
+male,group C,some college,73,74,61,69.33333333,C,volunteering,7.4,scholarship,no
+male,group D,associate's degree,81,72,77,76.66666667,B,arts,5.7,government-funded,yes
+female,group C,high school,66,76,68,70,C,arts,7.4,family-sponsored,no
+male,group D,associate's degree,52,57,50,53,C,volunteering,8.5,government-funded,no
+female,group C,some college,69,78,76,74.33333333,C,arts,6.7,self-funded,no
+female,group C,associate's degree,65,84,84,77.66666667,B,multiple,8.3,scholarship,yes
+female,group D,high school,69,77,78,74.66666667,C,arts,8.8,government-funded,yes
+female,group B,some college,50,64,66,60,C,arts,8.1,family-sponsored,yes
+female,group E,some college,73,78,76,75.66666667,B,arts,7.6,self-funded,yes
+female,group C,some high school,70,82,76,76,B,arts,8.9,government-funded,yes
+male,group D,associate's degree,81,75,78,78,B,arts,8.7,self-funded,no
+male,group D,some college,63,61,60,61.33333333,C,arts,6.3,scholarship,no
+female,group D,high school,67,72,74,71,C,sports,5,family-sponsored,no
+male,group B,high school,60,68,60,62.66666667,C,arts,5.3,self-funded,no
+male,group B,high school,62,55,54,57,C,multiple,7.7,family-sponsored,no
+female,group C,some high school,29,40,44,37.66666667,F,multiple,6.4,family-sponsored,yes
+male,group B,some college,62,66,68,65.33333333,C,multiple,8.6,scholarship,yes
+female,group E,master's degree,94,99,100,97.66666667,A,multiple,7.9,self-funded,yes
+male,group E,some college,85,75,68,76,B,volunteering,5.9,family-sponsored,yes
+male,group D,associate's degree,77,78,73,76,B,arts,8.7,government-funded,no
+male,group A,high school,53,58,44,51.66666667,C,volunteering,6,self-funded,no
+male,group E,some college,93,90,83,88.66666667,B,multiple,5.9,government-funded,no
+female,group C,associate's degree,49,53,53,51.66666667,C,multiple,6.9,family-sponsored,no
+female,group E,associate's degree,73,76,78,75.66666667,B,volunteering,8.6,family-sponsored,no
+female,group C,bachelor's degree,66,74,81,73.66666667,C,multiple,8.5,family-sponsored,yes
+female,group D,associate's degree,77,77,73,75.66666667,B,multiple,5.9,government-funded,no
+female,group C,some high school,49,63,56,56,C,sports,7.6,scholarship,no
+female,group D,some college,79,89,86,84.66666667,B,multiple,8,family-sponsored,no
+female,group C,associate's degree,75,82,90,82.33333333,B,arts,6.5,scholarship,yes
+female,group A,bachelor's degree,59,72,70,67,C,multiple,7.7,government-funded,no
+female,group D,associate's degree,57,78,79,71.33333333,C,arts,6.7,scholarship,yes
+male,group C,high school,66,66,59,63.66666667,C,sports,6,family-sponsored,no
+female,group E,bachelor's degree,79,81,82,80.66666667,B,volunteering,6.8,self-funded,yes
+female,group B,some high school,57,67,72,65.33333333,C,none,6.6,scholarship,no
+male,group A,bachelor's degree,87,84,87,86,B,none,7.7,scholarship,yes
+female,group D,some college,63,64,67,64.66666667,C,arts,5.4,self-funded,no
+female,group B,some high school,59,63,64,62,C,sports,7.9,scholarship,yes
+male,group A,bachelor's degree,62,72,65,66.33333333,C,arts,5.2,scholarship,no
+male,group D,high school,46,34,36,38.66666667,F,multiple,5.4,scholarship,no
+male,group C,some college,66,59,52,59,C,multiple,7.6,scholarship,no
+male,group D,high school,89,87,79,85,B,multiple,6.7,family-sponsored,no
+female,group D,associate's degree,42,61,58,53.66666667,C,sports,7.5,government-funded,yes
+male,group C,some college,93,84,90,89,B,volunteering,9,scholarship,yes
+female,group E,some high school,80,85,85,83.33333333,B,volunteering,8.3,family-sponsored,yes
+female,group D,some college,98,100,99,99,A,arts,6.5,self-funded,no
+male,group D,master's degree,81,81,84,82,B,sports,6.5,scholarship,no
+female,group B,some high school,60,70,74,68,C,arts,9,scholarship,yes
+female,group B,associate's degree,76,94,87,85.66666667,B,volunteering,5.3,scholarship,yes
+male,group C,associate's degree,73,78,72,74.33333333,C,none,5.7,government-funded,yes
+female,group C,associate's degree,96,96,99,97,A,multiple,7.4,self-funded,yes
+female,group C,high school,76,76,74,75.33333333,B,arts,8.7,self-funded,no
+male,group E,associate's degree,91,73,80,81.33333333,B,arts,6.5,government-funded,yes
+female,group C,some college,62,72,70,68,C,volunteering,7.5,scholarship,no
+male,group D,some high school,55,59,59,57.66666667,C,sports,7.3,scholarship,yes
+female,group B,some high school,74,90,88,84,B,volunteering,6.2,government-funded,yes
+male,group C,high school,50,48,42,46.66666667,F,sports,8.8,scholarship,no
+male,group B,some college,47,43,41,43.66666667,F,arts,7.7,government-funded,no
+male,group E,some college,81,74,71,75.33333333,B,volunteering,6.7,scholarship,yes
+female,group E,associate's degree,65,75,77,72.33333333,C,volunteering,5.7,government-funded,yes
+male,group E,some high school,68,51,57,58.66666667,C,sports,5.7,scholarship,yes
+female,group D,high school,73,92,84,83,B,sports,8.6,government-funded,no
+male,group C,some college,53,39,37,43,F,sports,7.7,self-funded,no
+female,group B,associate's degree,68,77,80,75,B,none,8.7,government-funded,yes
+male,group A,some high school,55,46,43,48,F,arts,5.7,family-sponsored,no
+female,group C,some college,87,89,94,90,A,arts,8.5,government-funded,yes
+male,group D,some high school,55,47,44,48.66666667,F,arts,8.6,family-sponsored,no
+female,group E,some college,53,58,57,56,C,multiple,8.2,self-funded,no
+male,group C,master's degree,67,57,59,61,C,volunteering,7.7,family-sponsored,no
+male,group C,associate's degree,92,79,84,85,B,volunteering,6.1,scholarship,no
+female,group B,some college,53,66,73,64,C,none,5.2,government-funded,yes
+male,group D,associate's degree,81,71,73,75,B,multiple,8.1,self-funded,no
+male,group C,high school,61,60,55,58.66666667,C,sports,5.3,scholarship,no
+male,group D,bachelor's degree,80,73,72,75,B,sports,7.1,family-sponsored,no
+female,group A,associate's degree,37,57,56,50,C,multiple,7.9,family-sponsored,no
+female,group C,high school,81,84,82,82.33333333,B,sports,8.4,self-funded,no
+female,group C,associate's degree,59,73,72,68,C,none,7.6,government-funded,yes
+male,group B,some college,55,55,47,52.33333333,C,multiple,6.7,self-funded,no
+male,group D,associate's degree,72,79,74,75,B,arts,8.1,scholarship,no
+male,group D,high school,69,75,71,71.66666667,C,arts,8.6,family-sponsored,no
+male,group C,some college,69,64,68,67,C,volunteering,6.6,government-funded,no
+female,group C,bachelor's degree,50,60,59,56.33333333,C,volunteering,5.9,family-sponsored,no
+male,group B,some college,87,84,86,85.66666667,B,sports,7.7,self-funded,yes
+male,group D,some high school,71,69,68,69.33333333,C,volunteering,5,government-funded,yes
+male,group E,some college,68,72,65,68.33333333,C,none,6.8,self-funded,no
+male,group C,master's degree,79,77,75,77,B,none,5.6,government-funded,yes
+female,group C,some high school,77,90,85,84,B,volunteering,6.3,family-sponsored,yes
+male,group C,associate's degree,58,55,53,55.33333333,C,none,5.6,scholarship,no
+female,group E,associate's degree,84,95,92,90.33333333,A,sports,7.3,scholarship,no
+male,group D,some college,55,58,52,55,C,sports,5.3,family-sponsored,no
+male,group E,bachelor's degree,70,68,72,70,C,arts,5,family-sponsored,yes
+female,group D,some college,52,59,65,58.66666667,C,none,8.4,self-funded,yes
+male,group B,some college,69,77,77,74.33333333,C,multiple,5.6,scholarship,yes
+female,group C,high school,53,72,64,63,C,volunteering,5.2,self-funded,no
+female,group D,some high school,48,58,54,53.33333333,C,arts,5.4,scholarship,no
+male,group D,some high school,78,81,86,81.66666667,B,none,6.6,self-funded,yes
+female,group B,high school,62,62,63,62.33333333,C,none,6.9,family-sponsored,no
+male,group D,some college,60,63,59,60.66666667,C,none,5,family-sponsored,no
+female,group B,high school,74,72,72,72.66666667,C,sports,5,self-funded,no
+female,group C,high school,58,75,77,70,C,sports,6,scholarship,yes
+male,group B,high school,76,62,60,66,C,sports,6.7,government-funded,yes
+female,group D,some high school,68,71,75,71.33333333,C,sports,8,family-sponsored,no
+male,group A,some college,58,60,57,58.33333333,C,sports,7.8,self-funded,no
+male,group B,high school,52,48,49,49.66666667,F,multiple,5.6,self-funded,no
+male,group D,bachelor's degree,75,73,74,74,C,none,7.3,self-funded,no
+female,group B,some high school,52,67,72,63.66666667,C,sports,7.4,family-sponsored,yes
+female,group C,bachelor's degree,62,78,79,73,C,sports,7.8,self-funded,no
+male,group B,some college,66,65,60,63.66666667,C,multiple,7.8,government-funded,no
+female,group B,some high school,49,58,55,54,C,multiple,8.8,family-sponsored,no
+female,group B,high school,66,72,70,69.33333333,C,arts,7.1,self-funded,no
+female,group C,some college,35,44,43,40.66666667,F,sports,6.6,scholarship,no
+female,group A,some college,72,79,82,77.66666667,B,sports,6,government-funded,yes
+male,group E,associate's degree,94,85,82,87,B,volunteering,6,scholarship,yes
+female,group D,associate's degree,46,56,57,53,C,none,5.8,government-funded,no
+female,group B,master's degree,77,90,84,83.66666667,B,arts,5,self-funded,no
+female,group B,high school,76,85,82,81,B,none,8.2,scholarship,yes
+female,group C,associate's degree,52,59,62,57.66666667,C,volunteering,5.6,family-sponsored,yes
+male,group C,bachelor's degree,91,81,79,83.66666667,B,volunteering,6.2,scholarship,yes
+female,group B,some high school,32,51,44,42.33333333,F,multiple,7.4,scholarship,yes
+female,group E,some high school,72,79,77,76,B,sports,5.7,scholarship,no
+female,group B,some college,19,38,32,29.66666667,F,volunteering,6.2,self-funded,no
+male,group C,associate's degree,68,65,61,64.66666667,C,arts,6.8,scholarship,no
+female,group C,master's degree,52,65,61,59.33333333,C,sports,5,scholarship,no
+female,group B,high school,48,62,60,56.66666667,C,multiple,5.9,government-funded,no
+female,group D,some college,60,66,70,65.33333333,C,sports,7.3,self-funded,no
+male,group D,high school,66,74,69,69.66666667,C,sports,5.4,government-funded,no
+male,group E,some high school,89,84,77,83.33333333,B,sports,5.3,scholarship,yes
+female,group B,high school,42,52,51,48.33333333,F,volunteering,8.3,government-funded,no
+female,group E,associate's degree,57,68,73,66,C,none,5,scholarship,yes
+male,group D,high school,70,70,70,70,C,arts,5.7,self-funded,no
+female,group E,associate's degree,70,84,81,78.33333333,B,none,6.6,scholarship,no
+male,group E,some college,69,60,54,61,C,multiple,7.2,government-funded,no
+female,group C,associate's degree,52,55,57,54.66666667,C,sports,6.7,scholarship,no
+male,group C,some high school,67,73,68,69.33333333,C,volunteering,6.3,self-funded,yes
+male,group C,some high school,76,80,73,76.33333333,B,multiple,7.6,self-funded,yes
+female,group E,associate's degree,87,94,95,92,A,none,8.7,self-funded,no
+female,group B,some college,82,85,87,84.66666667,B,arts,6.6,scholarship,no
+female,group C,some college,73,76,78,75.66666667,B,multiple,9,government-funded,no
+male,group A,some college,75,81,74,76.66666667,B,none,8.3,family-sponsored,no
+female,group D,some college,64,74,75,71,C,sports,9,self-funded,no
+female,group E,high school,41,45,40,42,F,none,7.5,self-funded,no
+male,group C,high school,90,75,69,78,B,sports,8.6,scholarship,no
+male,group B,bachelor's degree,59,54,51,54.66666667,C,sports,7.5,self-funded,no
+male,group A,some high school,51,31,36,39.33333333,F,volunteering,6.7,scholarship,no
+male,group A,high school,45,47,49,47,F,sports,7.1,scholarship,no
+female,group C,master's degree,54,64,67,61.66666667,C,sports,7.2,self-funded,yes
+male,group E,some high school,87,84,76,82.33333333,B,none,6.3,government-funded,yes
+female,group C,high school,72,80,83,78.33333333,B,volunteering,5.6,self-funded,no
+male,group B,some high school,94,86,87,89,B,multiple,8.5,government-funded,yes
+female,group A,bachelor's degree,45,59,64,56,C,none,7.6,government-funded,no
+male,group D,bachelor's degree,61,70,76,69,C,multiple,5.4,government-funded,yes
+female,group B,high school,60,72,68,66.66666667,C,none,7.7,self-funded,no
+female,group C,some high school,77,91,88,85.33333333,B,volunteering,7.4,family-sponsored,no
+female,group A,some high school,85,90,92,89,B,sports,5.3,self-funded,yes
+female,group D,bachelor's degree,78,90,93,87,B,multiple,6.5,family-sponsored,no
+male,group E,some college,49,52,51,50.66666667,C,volunteering,8.2,family-sponsored,yes
+female,group B,high school,71,87,82,80,B,arts,7.6,self-funded,no
+female,group C,some high school,48,58,52,52.66666667,C,arts,5,government-funded,no
+male,group C,high school,62,67,58,62.33333333,C,none,7.5,self-funded,no
+female,group C,associate's degree,56,68,70,64.66666667,C,volunteering,6.3,scholarship,yes
+female,group C,some high school,65,69,76,70,C,multiple,8.3,government-funded,no
+female,group D,some high school,69,86,81,78.66666667,B,sports,6.9,scholarship,yes
+male,group B,some high school,68,54,53,58.33333333,C,volunteering,7.9,government-funded,no
+female,group A,some college,61,60,57,59.33333333,C,multiple,5.9,family-sponsored,no
+female,group C,bachelor's degree,74,86,89,83,B,sports,8.8,self-funded,yes
+male,group A,bachelor's degree,64,60,58,60.66666667,C,volunteering,6.9,government-funded,no
+female,group B,high school,77,82,89,82.66666667,B,arts,7.7,scholarship,yes
+male,group B,some college,58,50,45,51,C,none,7.1,family-sponsored,no
+female,group C,high school,60,64,74,66,C,multiple,7.6,family-sponsored,yes
+male,group E,high school,73,64,57,64.66666667,C,none,9,government-funded,no
+female,group A,high school,75,82,79,78.66666667,B,volunteering,6.5,government-funded,yes
+male,group B,associate's degree,58,57,53,56,C,multiple,6.3,self-funded,yes
+female,group C,associate's degree,66,77,73,72,C,arts,7.6,family-sponsored,no
+female,group D,high school,39,52,46,45.66666667,F,none,7.7,government-funded,no
+male,group C,some high school,64,58,51,57.66666667,C,volunteering,5.4,government-funded,no
+female,group B,high school,23,44,36,34.33333333,F,multiple,5.1,government-funded,yes
+male,group B,some college,74,77,76,75.66666667,B,sports,5,government-funded,yes
+female,group D,some high school,40,65,64,56.33333333,C,arts,8.4,scholarship,yes
+male,group E,master's degree,90,85,84,86.33333333,B,volunteering,8.7,self-funded,no
+male,group C,master's degree,91,85,85,87,B,none,8.1,family-sponsored,yes
+male,group D,high school,64,54,50,56,C,multiple,6.3,government-funded,no
+female,group C,high school,59,72,68,66.33333333,C,volunteering,5.2,scholarship,no
+male,group D,associate's degree,80,75,69,74.66666667,C,arts,6.8,family-sponsored,no
+male,group C,master's degree,71,67,67,68.33333333,C,sports,5.3,family-sponsored,no
+female,group A,high school,61,68,63,64,C,volunteering,7.8,government-funded,no
+female,group E,some college,87,85,93,88.33333333,B,none,5.8,government-funded,no
+male,group E,some high school,82,67,61,70,C,none,7.7,family-sponsored,no
+male,group C,some high school,62,64,55,60.33333333,C,sports,7.4,self-funded,no
+female,group B,bachelor's degree,97,97,96,96.66666667,A,arts,8.4,scholarship,no
+male,group B,some college,75,68,65,69.33333333,C,arts,7.6,self-funded,no
+female,group C,bachelor's degree,65,79,81,75,B,sports,7.5,scholarship,no
+male,group B,high school,52,49,46,49,F,multiple,5.4,family-sponsored,yes
+male,group C,associate's degree,87,73,72,77.33333333,B,arts,8.4,government-funded,no
+female,group C,associate's degree,53,62,53,56,C,arts,7.3,self-funded,no
+female,group E,master's degree,81,86,87,84.66666667,B,none,5.8,government-funded,no
+male,group D,bachelor's degree,39,42,38,39.66666667,F,multiple,5.8,self-funded,yes
+female,group C,some college,71,71,80,74,C,arts,5.8,scholarship,yes
+male,group C,associate's degree,97,93,91,93.66666667,A,arts,8.5,self-funded,no
+male,group D,some college,82,82,88,84,B,none,5.2,self-funded,yes
+male,group C,high school,59,53,52,54.66666667,C,volunteering,7,government-funded,no
+male,group B,associate's degree,61,42,41,48,F,none,5.8,family-sponsored,no
+male,group E,associate's degree,78,74,72,74.66666667,C,arts,7.5,scholarship,yes
+male,group C,associate's degree,49,51,51,50.33333333,C,sports,6.3,government-funded,no
+male,group B,high school,59,58,47,54.66666667,C,sports,7.1,government-funded,no
+female,group C,some college,70,72,76,72.66666667,C,multiple,6.6,self-funded,yes
+male,group B,associate's degree,82,84,78,81.33333333,B,multiple,5,scholarship,yes
+male,group E,associate's degree,90,90,82,87.33333333,B,sports,6.8,family-sponsored,no
+female,group C,bachelor's degree,43,62,61,55.33333333,C,arts,5,government-funded,no
+male,group C,some college,80,64,66,70,C,arts,6.3,family-sponsored,no
+male,group D,some college,81,82,84,82.33333333,B,arts,6.5,family-sponsored,no
+male,group C,some high school,57,61,54,57.33333333,C,sports,7.1,scholarship,no
+female,group D,some high school,59,72,80,70.33333333,C,arts,7.1,government-funded,no
+female,group D,associate's degree,64,76,74,71.33333333,C,volunteering,7,self-funded,no
+male,group C,bachelor's degree,63,64,66,64.33333333,C,volunteering,8.8,family-sponsored,yes
+female,group E,bachelor's degree,71,70,70,70.33333333,C,volunteering,5,family-sponsored,yes
+female,group B,high school,64,73,71,69.33333333,C,volunteering,7.4,family-sponsored,no
+male,group D,bachelor's degree,55,46,44,48.33333333,F,multiple,6.4,scholarship,no
+female,group E,associate's degree,51,51,54,52,C,volunteering,8.8,government-funded,no
+female,group C,associate's degree,62,76,80,72.66666667,C,none,9,family-sponsored,yes
+female,group E,associate's degree,93,100,95,96,A,multiple,6,scholarship,yes
+male,group C,high school,54,72,59,61.66666667,C,multiple,6,family-sponsored,no
+female,group D,some college,69,65,74,69.33333333,C,arts,7.8,family-sponsored,no
+male,group D,high school,44,51,48,47.66666667,F,volunteering,5.1,self-funded,no
+female,group E,some college,86,85,91,87.33333333,B,none,5.2,government-funded,yes
+female,group E,associate's degree,85,92,85,87.33333333,B,multiple,8.5,self-funded,no
+female,group A,master's degree,50,67,73,63.33333333,C,volunteering,7.5,self-funded,no
+male,group D,some high school,88,74,75,79,B,multiple,5.5,self-funded,yes
+female,group E,associate's degree,59,62,69,63.33333333,C,multiple,7.7,family-sponsored,no
+female,group E,some high school,32,34,38,34.66666667,F,multiple,8,scholarship,no
+male,group B,high school,36,29,27,30.66666667,F,none,6.7,scholarship,no
+female,group B,some high school,63,78,79,73.33333333,C,arts,5.7,government-funded,yes
+male,group D,associate's degree,67,54,63,61.33333333,C,sports,6.1,self-funded,yes
+female,group D,some high school,65,78,82,75,B,volunteering,6.7,family-sponsored,yes
+male,group D,master's degree,85,84,89,86,B,sports,7.2,government-funded,no
+female,group C,master's degree,73,78,74,75,B,sports,7.5,scholarship,no
+female,group A,high school,34,48,41,41,F,arts,6.3,government-funded,yes
+female,group D,bachelor's degree,93,100,100,97.66666667,A,sports,7.8,government-funded,yes
+female,group D,some high school,67,84,84,78.33333333,B,volunteering,5.2,scholarship,no
+male,group D,some college,88,77,77,80.66666667,B,multiple,7.6,government-funded,no
+male,group B,high school,57,48,51,52,C,volunteering,6.3,scholarship,no
+female,group D,some college,79,84,91,84.66666667,B,volunteering,7.6,family-sponsored,yes
+female,group C,bachelor's degree,67,75,72,71.33333333,C,none,8.9,scholarship,no
+male,group E,bachelor's degree,70,64,70,68,C,volunteering,6.3,family-sponsored,yes
+male,group D,bachelor's degree,50,42,48,46.66666667,F,none,5.1,government-funded,no
+female,group A,some college,69,84,82,78.33333333,B,none,8,self-funded,no
+female,group C,bachelor's degree,52,61,66,59.66666667,C,arts,7.2,self-funded,yes
+female,group C,bachelor's degree,47,62,66,58.33333333,C,volunteering,8.8,self-funded,yes
+female,group B,associate's degree,46,61,55,54,C,none,5.5,self-funded,no
+female,group E,some college,68,70,66,68,C,volunteering,7.4,self-funded,no
+male,group E,bachelor's degree,100,100,100,100,A,multiple,7.9,scholarship,yes
+female,group C,high school,44,61,52,52.33333333,C,sports,8.5,scholarship,no
+female,group C,associate's degree,57,77,80,71.33333333,C,sports,5.1,government-funded,yes
+male,group B,some college,91,96,91,92.66666667,A,none,7.6,family-sponsored,yes
+male,group D,high school,69,70,67,68.66666667,C,volunteering,7.1,government-funded,no
+female,group C,high school,35,53,46,44.66666667,F,none,5.3,family-sponsored,no
+male,group D,high school,72,66,66,68,C,none,8.8,self-funded,no
+female,group B,associate's degree,54,65,65,61.33333333,C,volunteering,5,family-sponsored,no
+male,group D,high school,74,70,69,71,C,sports,8.4,self-funded,no
+male,group E,some high school,74,64,60,66,C,arts,7.7,government-funded,yes
+male,group E,associate's degree,64,56,52,57.33333333,C,volunteering,8.8,family-sponsored,no
+female,group D,high school,65,61,71,65.66666667,C,volunteering,8.1,family-sponsored,yes
+male,group E,associate's degree,46,43,44,44.33333333,F,multiple,8.3,self-funded,yes
+female,group C,some high school,48,56,51,51.66666667,C,none,7.3,government-funded,no
+male,group C,some college,67,74,70,70.33333333,C,none,8.7,government-funded,yes
+male,group D,some college,62,57,62,60.33333333,C,none,8.8,scholarship,no
+male,group D,associate's degree,61,71,73,68.33333333,C,multiple,8.5,self-funded,yes
+male,group C,bachelor's degree,70,75,74,73,C,sports,8.7,self-funded,yes
+male,group C,associate's degree,98,87,90,91.66666667,A,none,7.5,government-funded,yes
+male,group D,some college,70,63,58,63.66666667,C,multiple,5.4,family-sponsored,no
+male,group A,associate's degree,67,57,53,59,C,multiple,6,family-sponsored,no
+female,group E,high school,57,58,57,57.33333333,C,sports,7.9,self-funded,no
+male,group D,some college,85,81,85,83.66666667,B,arts,5.7,family-sponsored,yes
+male,group D,some high school,77,68,69,71.33333333,C,none,7.2,self-funded,yes
+male,group C,master's degree,72,66,72,70,C,volunteering,8.3,government-funded,yes
+female,group D,master's degree,78,91,96,88.33333333,B,multiple,5.6,government-funded,no
+male,group C,high school,81,66,64,70.33333333,C,arts,6.1,self-funded,no
+male,group A,some high school,61,62,61,61.33333333,C,none,5.5,self-funded,yes
+female,group B,high school,58,68,61,62.33333333,C,sports,8.9,government-funded,no
+female,group C,associate's degree,54,61,58,57.66666667,C,multiple,7.9,scholarship,no
+male,group B,high school,82,82,80,81.33333333,B,arts,5.3,family-sponsored,no
+female,group D,some college,49,58,60,55.66666667,C,sports,5.9,family-sponsored,no
+male,group B,some high school,49,50,52,50.33333333,C,multiple,6.8,family-sponsored,yes
+female,group E,high school,57,75,73,68.33333333,C,none,5.2,self-funded,yes
+male,group E,high school,94,73,71,79.33333333,B,none,7.5,self-funded,no
+female,group D,some college,75,77,83,78.33333333,B,arts,9,family-sponsored,yes
+female,group E,some high school,74,74,72,73.33333333,C,arts,8.4,self-funded,no
+male,group C,high school,58,52,54,54.66666667,C,none,7.9,government-funded,yes
+female,group C,some college,62,69,69,66.66666667,C,multiple,8.4,family-sponsored,no
+male,group E,associate's degree,72,57,62,63.66666667,C,volunteering,7.2,family-sponsored,no
+male,group C,some college,84,87,81,84,B,multiple,7.5,government-funded,no
+female,group D,master's degree,92,100,100,97.33333333,A,sports,7.9,self-funded,no
+female,group D,high school,45,63,59,55.66666667,C,multiple,5.8,scholarship,no
+male,group C,high school,75,81,71,75.66666667,B,sports,7.5,family-sponsored,no
+female,group A,some college,56,58,64,59.33333333,C,arts,7.1,family-sponsored,no
+female,group D,some high school,48,54,53,51.66666667,C,multiple,6,government-funded,no
+female,group E,associate's degree,100,100,100,100,A,sports,7,self-funded,no
+female,group C,some high school,65,76,75,72,C,sports,5.4,scholarship,yes
+male,group D,some college,72,57,58,62.33333333,C,arts,6,government-funded,no
+female,group D,some college,62,70,72,68,C,sports,7.9,self-funded,no
+male,group A,some high school,66,68,64,66,C,sports,6.7,self-funded,yes
+male,group C,some college,63,63,60,62,C,none,8.5,family-sponsored,no
+female,group E,associate's degree,68,76,67,70.33333333,C,arts,7.5,scholarship,no
+female,group B,bachelor's degree,75,84,80,79.66666667,B,none,5.3,scholarship,no
+female,group D,bachelor's degree,89,100,100,96.33333333,A,sports,6.4,family-sponsored,no
+male,group C,some high school,78,72,69,73,C,sports,8.3,self-funded,yes
+female,group A,high school,53,50,60,54.33333333,C,volunteering,7.9,self-funded,yes
+female,group D,some college,49,65,61,58.33333333,C,multiple,7.1,government-funded,no
+female,group A,some college,54,63,67,61.33333333,C,none,6.4,scholarship,no
+female,group C,some college,64,82,77,74.33333333,C,multiple,6.5,government-funded,yes
+male,group B,some college,60,62,60,60.66666667,C,multiple,7.9,self-funded,yes
+male,group C,associate's degree,62,65,58,61.66666667,C,multiple,7.1,self-funded,no
+male,group D,high school,55,41,48,48,F,none,8.8,self-funded,yes
+female,group C,associate's degree,91,95,94,93.33333333,A,none,9,family-sponsored,no
+female,group B,high school,8,24,23,18.33333333,F,multiple,5.8,scholarship,no
+male,group D,some high school,81,78,78,79,B,none,5,government-funded,no
+male,group B,some high school,79,85,86,83.33333333,B,none,6.6,government-funded,yes
+female,group A,some college,78,87,91,85.33333333,B,sports,6.6,family-sponsored,yes
+female,group C,some high school,74,75,82,77,B,arts,5.3,government-funded,no
+male,group A,high school,57,51,54,54,C,arts,6.2,government-funded,no
+female,group C,associate's degree,40,59,51,50,C,multiple,6.5,family-sponsored,no
+male,group E,some high school,81,75,76,77.33333333,B,multiple,6.5,self-funded,yes
+female,group A,some high school,44,45,45,44.66666667,F,arts,6.4,government-funded,no
+female,group D,some college,67,86,83,78.66666667,B,volunteering,6.1,family-sponsored,yes
+male,group E,high school,86,81,75,80.66666667,B,arts,5.4,government-funded,yes
+female,group B,some high school,65,82,78,75,B,multiple,7.5,government-funded,yes
+female,group D,associate's degree,55,76,76,69,C,arts,8.8,family-sponsored,no
+female,group D,bachelor's degree,62,72,74,69.33333333,C,none,7.4,scholarship,no
+male,group A,high school,63,63,62,62.66666667,C,arts,5.8,government-funded,no
+female,group E,master's degree,88,99,95,94,A,none,8.7,scholarship,yes
+male,group C,high school,62,55,55,57.33333333,C,none,8,self-funded,no
+female,group C,high school,59,71,65,65,C,none,5.2,family-sponsored,yes
+female,group D,some college,68,78,77,74.33333333,C,sports,7.4,scholarship,yes
+female,group D,some college,77,86,86,83,B,arts,7.9,family-sponsored,no
