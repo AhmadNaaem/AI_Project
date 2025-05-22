@@ -1,4 +1,4 @@
-gender,race/ethnicity,parental level of education,math score,reading score,writing score,percentage,grade,extracurricular activities,ielts,financial sponsorship,visa eligible
+gender,race/ethnicity,parental level of education,math score,reading score,writing score,percentage,grade,extracurricular activities,IELTS,financial sponsorship,visa eligible
 female,group B,bachelor's degree,72,72,74,72.66666667,C,sports,9,family-sponsored,no
 female,group C,some college,69,90,88,82.33333333,B,volunteering,6.7,self-funded,yes
 female,group B,master's degree,90,95,93,92.66666667,A,none,6.1,scholarship,no
