@@ -1,8 +1,7 @@
 # AI_Project
 Project Name: Education Visa Advisor
-This project predicts visa eligibility using machine learning techniques.
 
-# Description
+## Description
 
 This project uses machine learning to predict whether a student is eligible for a visa based on their profile data. We perform data analysis and train a Naive Bayes model to make eligibility predictions from the provided dataset.
 
