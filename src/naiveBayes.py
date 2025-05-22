@@ -22,7 +22,7 @@ def train_model(df, label_encoders):
 
     print("Accuracy:", (accuracy_score(y_test, y_pred)*100), "%")    
     
-    print("\nEnter feature values to predict 'visa eligible':")
+    print("\nEnter feature values to predict 'visa eligible':" )
     sample = []
     for col in X.columns:
         prompt = f"Enter value for '{col}': "
