@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 # import pandas_profiling
 
 def EDA(a):
-    ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage']) #dropping unnecessary columns
+    ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage','IELTS','age']) #dropping unnecessary columns
     ch_data= ch_data.drop_duplicates() #dropping duplicates
     ch_data= ch_data.dropna() 
     
@@ -34,14 +34,14 @@ def EDA(a):
             plt.show()
     
     label_encoders = {}
-    selected_cols = ['gender','race/ethnicity','parental level of education','grade','extracurricular activities','financial sponsorship','visa eligible']
+    selected_cols = ['gender','age_group','parental level of education','grade','extracurricular activities','ielts_group','financial sponsorship','visa eligible']
     for col in selected_cols:
         if col in ch_data.columns:
             le = LabelEncoder()
             ch_data[col] = le.fit_transform(ch_data[col])
             label_encoders[col] = le
 
-  
+
     plt.figure(figsize=(13,8))
     sns.heatmap(ch_data.corr(), annot=True, fmt=".2f", cmap='coolwarm')
     plt.title('Feature Correlation Heatmap')
