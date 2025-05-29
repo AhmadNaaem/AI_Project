@@ -26,16 +26,6 @@ def featureEng(df):
                         np.where(df['IELTS'] < 7, '6-6.9',
                         np.where(df['IELTS'] < 8, '7-7.9', '8 and above')))
     
-    edu_order = {
-        "some high school": 0,
-        "high school": 1,
-        "some college": 2,
-        "associate's degree": 3,
-        "bachelor's degree": 4,
-        "master's degree": 5
-    }
-    df['parental_education_ord'] = df['parental level of education'].map(edu_order)
-    
     
     return df
     

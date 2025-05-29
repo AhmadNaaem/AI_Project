@@ -2,6 +2,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import pandas as pd
+import numpy as np
 
 def tree_model(df, label_encoders):
 
@@ -23,6 +24,7 @@ def tree_model(df, label_encoders):
     print("Accuracy:", (accuracy_score(y_test, y_pred)*100), "%")
     print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
+    
     print("\nEnter feature values to predict 'visa eligible':")
     sample = []
     for col in X.columns:
