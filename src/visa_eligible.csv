@@ -1,1001 +1,1285 @@
 gender,age,parental level of education,math score,reading score,writing score,extracurricular activities,IELTS,financial sponsorship,visa eligible
-female,25,bachelor's degree,72,72,74,sports,9.0,family-sponsored,no
-female,22,some college,69,90,88,volunteering,6.7,self-funded,yes
-female,20,master's degree,90,95,93,none,6.1,scholarship,no
-male,22,associate's degree,47,57,44,multiple,7.3,scholarship,no
-male,25,some college,76,78,75,sports,8.5,scholarship,no
-female,22,associate's degree,71,83,78,none,7.0,self-funded,no
-female,19,some college,88,95,92,volunteering,6.3,family-sponsored,yes
-male,22,some college,40,43,39,none,6.7,self-funded,no
-male,19,high school,64,64,67,sports,5.0,family-sponsored,yes
-female,20,high school,38,60,50,arts,6.2,government-funded,no
-male,24,associate's degree,58,54,52,none,8.6,government-funded,no
-male,21,associate's degree,40,52,43,sports,7.0,scholarship,no
-female,25,high school,65,81,73,volunteering,8.5,self-funded,no
-male,24,some college,78,72,70,sports,7.9,scholarship,yes
-female,22,master's degree,50,53,58,sports,6.9,scholarship,no
-female,22,some high school,69,75,78,arts,6.7,self-funded,no
-male,23,high school,88,89,86,sports,7.5,self-funded,no
-female,24,some high school,18,32,28,multiple,7.9,self-funded,no
-male,20,master's degree,46,42,46,multiple,5.5,scholarship,yes
-female,20,associate's degree,54,58,61,volunteering,6.3,family-sponsored,no
-male,25,high school,66,69,63,multiple,8.6,family-sponsored,no
-female,23,some college,65,75,70,none,8.2,scholarship,yes
-male,20,some college,44,54,53,arts,5.7,self-funded,no
-female,24,some high school,69,73,73,none,7.5,government-funded,no
-male,24,bachelor's degree,74,71,80,sports,8.8,government-funded,yes
-male,20,master's degree,73,74,72,sports,5.5,scholarship,no
-male,24,some college,69,54,55,none,8.4,scholarship,no
-female,24,bachelor's degree,67,69,75,volunteering,9.0,scholarship,no
-male,19,high school,70,70,65,arts,5.2,scholarship,no
-female,19,master's degree,62,70,75,sports,6.0,self-funded,no
-female,22,some college,69,74,74,arts,6.8,family-sponsored,no
-female,20,some college,63,65,61,sports,5.6,family-sponsored,no
-female,23,master's degree,56,72,65,volunteering,8.4,family-sponsored,no
-male,20,some college,40,42,38,sports,6.1,government-funded,no
-male,20,some college,97,87,82,multiple,5.9,government-funded,no
-male,23,associate's degree,81,81,79,sports,8.2,government-funded,yes
-female,19,associate's degree,74,81,83,sports,6.3,scholarship,no
-female,20,some high school,50,64,59,none,6.3,government-funded,no
-female,23,associate's degree,75,90,88,multiple,8.1,self-funded,yes
-male,24,associate's degree,57,56,57,arts,7.7,scholarship,no
-male,22,associate's degree,55,61,54,multiple,6.8,family-sponsored,no
-female,22,associate's degree,58,73,68,sports,6.5,self-funded,no
-female,22,associate's degree,53,58,65,arts,6.7,scholarship,no
-male,23,some college,59,65,66,volunteering,8.4,scholarship,yes
-female,21,associate's degree,50,56,54,volunteering,7.4,self-funded,no
-male,22,associate's degree,65,54,57,none,7.2,family-sponsored,no
-female,20,associate's degree,55,65,62,arts,6.3,government-funded,yes
-female,24,high school,66,71,76,none,7.9,family-sponsored,no
-female,24,associate's degree,57,74,76,none,8.5,family-sponsored,yes
-male,24,high school,82,84,82,multiple,8.6,family-sponsored,yes
-male,20,some college,53,55,48,multiple,5.7,scholarship,no
-male,22,associate's degree,77,69,68,none,6.8,family-sponsored,yes
-male,20,some college,53,44,42,none,6.1,self-funded,no
-male,21,high school,88,78,75,arts,6.7,government-funded,no
-female,24,some high school,71,84,87,arts,7.9,government-funded,yes
-female,23,high school,33,41,43,multiple,7.5,scholarship,no
-female,22,associate's degree,82,85,86,none,7.1,self-funded,yes
-male,25,associate's degree,52,55,49,volunteering,8.8,self-funded,no
-male,22,some college,58,59,58,multiple,6.7,family-sponsored,yes
-female,21,some high school,0,17,10,sports,7.2,family-sponsored,no
-male,22,bachelor's degree,79,74,72,sports,7.1,scholarship,yes
-male,19,some high school,39,39,34,none,5.6,government-funded,no
-male,19,associate's degree,62,61,55,sports,5.2,government-funded,no
-female,20,associate's degree,69,80,71,volunteering,5.8,scholarship,no
-female,23,some high school,59,58,59,multiple,7.7,government-funded,no
-male,19,some high school,67,64,61,arts,5.0,scholarship,no
-male,24,some high school,45,37,37,multiple,8.3,self-funded,no
-female,21,some college,60,72,74,sports,7.3,scholarship,no
-male,24,associate's degree,61,58,56,multiple,7.7,scholarship,no
-female,23,associate's degree,39,64,57,sports,7.9,self-funded,no
-female,19,some college,58,63,73,volunteering,5.6,self-funded,yes
-male,23,some college,63,55,63,sports,8.4,self-funded,yes
-female,25,associate's degree,41,51,48,sports,8.8,scholarship,no
-male,19,some high school,61,57,56,arts,5.6,government-funded,no
-male,21,some high school,49,49,41,volunteering,7.1,scholarship,no
-male,21,associate's degree,44,41,38,arts,7.1,self-funded,no
-male,21,some high school,30,26,22,none,6.7,government-funded,no
-male,23,bachelor's degree,80,78,81,arts,8.0,self-funded,yes
-female,20,some high school,61,74,72,arts,6.3,self-funded,yes
-female,21,master's degree,62,68,68,volunteering,7.1,family-sponsored,no
-female,22,associate's degree,47,49,50,volunteering,7.4,self-funded,no
-male,21,high school,49,45,45,sports,6.9,family-sponsored,no
-male,24,some college,50,47,54,volunteering,7.5,family-sponsored,yes
-male,23,associate's degree,72,64,63,sports,7.5,self-funded,no
-male,23,high school,42,39,34,multiple,8.0,government-funded,no
-female,25,some college,73,80,82,sports,9.0,government-funded,no
-female,24,some college,76,83,88,none,8.8,scholarship,no
-female,23,associate's degree,71,71,74,none,7.8,government-funded,no
-female,25,some college,58,70,67,sports,9.0,scholarship,no
-female,25,some high school,73,86,82,volunteering,9.0,scholarship,no
-female,19,bachelor's degree,65,72,74,arts,5.2,government-funded,no
-male,23,high school,27,34,36,multiple,8.0,self-funded,no
-male,21,high school,71,79,71,multiple,6.6,scholarship,no
-male,20,associate's degree,43,45,50,volunteering,6.3,self-funded,yes
-female,20,some college,79,86,92,sports,6.1,self-funded,no
-male,22,associate's degree,78,81,82,arts,7.0,family-sponsored,yes
-male,24,some high school,65,66,62,none,8.5,government-funded,yes
-female,19,some college,63,72,70,none,5.8,scholarship,yes
-female,19,some college,58,67,62,volunteering,5.3,self-funded,no
-female,23,bachelor's degree,65,67,62,sports,7.5,family-sponsored,no
-male,24,some college,79,67,67,sports,8.4,family-sponsored,no
-male,23,bachelor's degree,68,74,74,sports,8.2,scholarship,yes
-female,19,associate's degree,85,91,89,multiple,5.1,scholarship,no
-male,24,high school,60,44,47,arts,7.9,family-sponsored,yes
-male,24,some college,98,86,90,arts,8.6,family-sponsored,yes
-female,23,some college,58,67,72,none,8.4,scholarship,no
-female,25,master's degree,87,100,100,multiple,8.9,government-funded,no
-male,20,associate's degree,66,63,64,arts,5.8,self-funded,yes
-female,19,associate's degree,52,76,70,none,5.3,self-funded,no
-female,19,some high school,70,64,72,multiple,5.0,self-funded,no
-female,24,associate's degree,77,89,98,volunteering,8.6,family-sponsored,yes
-male,24,high school,62,55,49,none,8.3,family-sponsored,no
-male,24,associate's degree,54,53,47,none,9.0,scholarship,no
-female,25,some college,51,58,54,volunteering,8.6,self-funded,no
-female,23,bachelor's degree,99,100,100,multiple,7.7,government-funded,yes
-male,23,high school,84,77,74,none,7.7,scholarship,no
-female,22,bachelor's degree,75,85,82,sports,7.0,scholarship,no
-female,24,bachelor's degree,78,82,79,multiple,8.9,self-funded,no
-female,22,some high school,51,63,61,arts,7.2,government-funded,no
-female,21,some college,55,69,65,arts,7.3,family-sponsored,no
-female,23,bachelor's degree,79,92,89,none,7.8,family-sponsored,yes
-male,23,associate's degree,91,89,92,volunteering,8.2,family-sponsored,yes
-female,23,some college,88,93,93,volunteering,8.1,government-funded,yes
-male,25,high school,63,57,56,volunteering,8.8,family-sponsored,no
-male,25,some college,83,80,73,multiple,8.8,scholarship,no
-female,19,high school,87,95,86,none,5.1,family-sponsored,no
-male,19,some high school,72,68,67,none,5.0,government-funded,no
-male,22,some college,65,77,74,multiple,7.0,scholarship,yes
-male,22,master's degree,82,82,74,none,6.9,government-funded,no
-female,23,bachelor's degree,51,49,51,arts,8.4,government-funded,no
-male,19,master's degree,89,84,82,arts,5.0,family-sponsored,no
-male,19,some high school,53,37,40,none,5.1,family-sponsored,yes
-male,23,some college,87,74,70,sports,8.4,government-funded,yes
-female,22,some college,75,81,84,sports,6.9,self-funded,yes
-male,25,bachelor's degree,74,79,75,volunteering,8.6,scholarship,yes
-male,22,bachelor's degree,58,55,48,sports,7.1,self-funded,no
-male,19,some high school,51,54,41,arts,5.9,self-funded,yes
-male,19,high school,70,55,56,volunteering,5.0,scholarship,no
-female,24,associate's degree,59,66,67,sports,7.5,family-sponsored,no
-male,24,some college,71,61,69,volunteering,8.6,scholarship,yes
-female,21,some high school,76,72,71,volunteering,7.2,scholarship,no
-female,23,some college,59,62,64,volunteering,7.7,family-sponsored,no
-female,21,some college,42,55,54,arts,6.8,self-funded,yes
-male,24,high school,57,43,47,sports,8.4,self-funded,no
-male,21,some college,88,73,78,arts,6.9,government-funded,no
-female,19,some college,22,39,33,none,6.0,scholarship,no
-male,21,some high school,88,84,75,multiple,6.5,government-funded,no
-male,20,associate's degree,73,68,66,sports,5.8,self-funded,no
-female,24,bachelor's degree,68,75,81,arts,7.6,family-sponsored,yes
-male,22,associate's degree,100,100,93,sports,6.7,family-sponsored,yes
-male,22,some high school,62,67,69,multiple,7.4,self-funded,yes
-male,25,bachelor's degree,77,67,68,none,8.7,scholarship,no
-female,20,associate's degree,59,70,66,multiple,6.4,self-funded,yes
-male,20,bachelor's degree,54,49,47,volunteering,5.5,scholarship,no
-male,22,some high school,62,67,61,multiple,7.2,scholarship,no
-female,24,some college,70,89,88,multiple,8.4,family-sponsored,yes
-female,25,high school,66,74,78,multiple,8.6,scholarship,yes
-male,19,some college,60,60,60,volunteering,5.0,scholarship,no
-female,22,associate's degree,61,86,87,multiple,7.0,self-funded,yes
-male,24,associate's degree,66,62,64,arts,8.6,family-sponsored,no
-male,19,associate's degree,82,78,74,arts,6.3,government-funded,yes
-female,24,some college,75,88,85,none,8.7,scholarship,yes
-male,24,master's degree,49,53,52,multiple,8.1,family-sponsored,no
-male,19,high school,52,53,49,volunteering,6.4,government-funded,no
-female,23,master's degree,81,92,91,arts,7.7,family-sponsored,no
-female,21,bachelor's degree,96,100,100,arts,6.5,scholarship,yes
-male,22,high school,53,51,51,none,7.2,scholarship,yes
-female,24,master's degree,58,76,78,sports,8.8,scholarship,yes
-female,24,high school,68,83,78,volunteering,7.8,self-funded,yes
-female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
-male,20,high school,72,73,74,arts,5.8,family-sponsored,yes
-male,19,some high school,94,88,78,none,5.0,self-funded,no
-female,23,some college,79,86,81,multiple,8.3,self-funded,no
-female,21,associate's degree,63,67,70,sports,7.1,scholarship,no
-female,24,bachelor's degree,43,51,54,arts,7.9,self-funded,yes
-female,24,master's degree,81,91,87,volunteering,8.4,government-funded,yes
-female,21,high school,46,54,58,none,6.8,self-funded,yes
-female,19,associate's degree,71,77,77,none,6.2,self-funded,yes
-female,19,master's degree,52,70,62,multiple,5.6,self-funded,yes
-female,19,some high school,97,100,100,multiple,5.3,self-funded,yes
-male,24,master's degree,62,68,75,volunteering,8.8,scholarship,yes
-female,19,some college,46,64,66,arts,5.4,family-sponsored,no
-female,24,high school,50,50,47,none,8.8,self-funded,no
-female,19,associate's degree,65,69,70,none,5.1,scholarship,no
-male,24,some high school,45,52,49,none,8.4,scholarship,yes
-male,19,associate's degree,65,67,65,none,5.4,self-funded,yes
-male,19,high school,80,76,65,multiple,5.0,government-funded,no
-male,22,some high school,62,66,68,arts,6.6,self-funded,yes
-male,19,some high school,48,52,45,multiple,5.0,scholarship,no
-female,23,bachelor's degree,77,88,87,none,8.4,scholarship,no
-female,23,associate's degree,66,65,69,sports,8.2,scholarship,no
-male,21,some college,76,83,79,sports,6.7,family-sponsored,yes
-female,23,some high school,62,64,66,multiple,8.0,government-funded,no
-male,25,some college,77,62,62,multiple,8.6,government-funded,yes
-female,25,master's degree,69,84,85,arts,8.8,scholarship,yes
-male,19,associate's degree,61,55,52,multiple,5.2,self-funded,no
-male,22,some high school,59,69,65,volunteering,7.2,government-funded,yes
-male,22,high school,55,56,51,multiple,7.2,family-sponsored,no
-female,19,some college,45,53,55,sports,5.8,self-funded,no
-female,22,bachelor's degree,78,79,76,sports,6.6,scholarship,no
-female,21,associate's degree,67,84,86,none,7.1,family-sponsored,yes
-female,24,some college,65,81,77,none,8.6,government-funded,no
-male,24,associate's degree,69,77,69,volunteering,7.6,scholarship,no
-female,20,associate's degree,57,69,68,sports,5.9,government-funded,no
-male,22,some college,59,41,42,sports,7.4,government-funded,no
-male,21,some high school,74,71,78,none,7.3,self-funded,yes
-male,19,bachelor's degree,82,62,62,none,6.3,government-funded,no
-male,24,high school,81,80,76,volunteering,9.0,family-sponsored,yes
-female,20,some college,74,81,76,arts,6.2,self-funded,no
-female,24,some college,58,61,66,arts,8.5,self-funded,no
-male,23,some high school,80,79,79,arts,8.4,self-funded,yes
-male,21,some college,35,28,27,none,6.8,family-sponsored,no
-female,20,high school,42,62,60,multiple,5.5,government-funded,no
-male,25,associate's degree,60,51,56,arts,8.6,self-funded,yes
-male,22,high school,87,91,81,arts,7.3,self-funded,yes
-male,19,some high school,84,83,75,volunteering,5.4,family-sponsored,yes
-female,22,associate's degree,83,86,88,volunteering,7.4,self-funded,yes
-female,20,high school,34,42,39,volunteering,5.8,scholarship,no
-male,24,high school,66,77,70,arts,8.0,scholarship,no
-male,22,some high school,61,56,56,volunteering,6.6,government-funded,yes
-female,19,high school,56,68,74,volunteering,5.2,government-funded,yes
-male,23,associate's degree,87,85,73,sports,8.1,scholarship,no
-female,19,some high school,55,65,62,sports,6.3,family-sponsored,no
-male,19,some high school,86,80,75,none,5.1,scholarship,no
-female,22,associate's degree,52,66,73,volunteering,7.4,self-funded,yes
-female,25,master's degree,45,56,54,sports,8.7,self-funded,no
-female,24,some college,72,72,71,none,8.7,government-funded,no
-male,25,high school,57,50,54,arts,8.5,scholarship,no
-male,23,some high school,68,72,64,none,8.1,self-funded,no
-female,23,some college,88,95,94,multiple,7.7,family-sponsored,yes
-male,19,some college,76,64,66,volunteering,6.1,government-funded,no
-male,21,associate's degree,46,43,42,sports,6.5,family-sponsored,no
-female,23,bachelor's degree,67,86,83,arts,7.7,scholarship,no
-male,20,some high school,92,87,78,none,5.5,family-sponsored,no
-male,19,bachelor's degree,83,82,84,multiple,5.9,self-funded,yes
-male,19,associate's degree,80,75,77,arts,5.0,scholarship,no
-male,20,bachelor's degree,63,66,67,sports,5.9,family-sponsored,no
-female,24,some high school,64,60,74,arts,9.0,family-sponsored,yes
-male,22,some college,54,52,51,volunteering,6.6,government-funded,no
-male,24,associate's degree,84,80,80,none,8.5,scholarship,no
-male,25,high school,73,68,66,arts,8.5,self-funded,yes
-female,23,bachelor's degree,80,83,83,sports,7.9,family-sponsored,no
-female,21,high school,56,52,55,volunteering,6.6,family-sponsored,no
-male,21,some college,59,51,43,multiple,6.8,government-funded,no
-male,23,some high school,75,74,69,sports,7.7,self-funded,no
-male,19,associate's degree,85,76,71,multiple,5.1,self-funded,no
-male,22,associate's degree,89,76,74,sports,7.3,family-sponsored,no
-female,21,high school,58,70,68,volunteering,7.1,family-sponsored,yes
-female,19,high school,65,64,62,multiple,5.2,scholarship,no
-male,20,high school,68,60,53,sports,5.8,scholarship,no
-male,20,some high school,47,49,49,volunteering,5.7,scholarship,yes
-female,23,some college,71,83,83,none,7.5,family-sponsored,no
-female,21,some high school,60,70,70,sports,6.8,government-funded,yes
-male,19,master's degree,80,80,72,volunteering,5.0,scholarship,no
-male,20,high school,54,52,52,arts,5.6,family-sponsored,no
-female,19,some college,62,73,70,arts,5.2,scholarship,no
-female,22,associate's degree,64,73,68,none,7.2,scholarship,no
-male,21,associate's degree,78,77,77,arts,6.7,government-funded,yes
-female,24,some college,70,75,78,volunteering,7.9,scholarship,no
-female,24,master's degree,65,81,81,volunteering,8.8,family-sponsored,yes
-female,24,some high school,64,79,77,none,8.2,scholarship,yes
-male,19,some college,79,79,78,volunteering,6.1,family-sponsored,yes
-female,19,some high school,44,50,51,arts,5.2,self-funded,no
-female,21,high school,99,93,90,sports,6.8,government-funded,no
-male,21,high school,76,73,68,none,6.8,government-funded,no
-male,24,some high school,59,42,41,sports,7.5,government-funded,no
-female,24,bachelor's degree,63,75,81,arts,9.0,self-funded,no
-female,24,high school,69,72,77,arts,8.0,self-funded,no
-female,25,associate's degree,88,92,95,multiple,8.7,family-sponsored,yes
-female,19,some college,71,76,70,arts,6.3,self-funded,no
-male,19,bachelor's degree,69,63,61,arts,5.4,self-funded,no
-male,20,some college,58,49,42,multiple,5.6,family-sponsored,no
-female,23,associate's degree,47,53,58,multiple,8.4,government-funded,no
-female,24,some college,65,70,71,arts,9.0,family-sponsored,no
-male,20,some college,88,85,76,volunteering,6.3,government-funded,yes
-male,22,bachelor's degree,83,78,73,none,7.0,government-funded,no
-female,25,some high school,85,92,93,volunteering,8.6,government-funded,yes
-female,20,high school,59,63,75,none,5.9,government-funded,yes
-female,23,some high school,65,86,80,multiple,7.5,family-sponsored,no
-male,19,bachelor's degree,73,56,57,arts,5.2,self-funded,no
-male,20,high school,53,52,42,none,6.2,scholarship,no
-male,23,high school,45,48,46,volunteering,7.9,family-sponsored,no
-female,24,bachelor's degree,73,79,84,none,8.6,government-funded,no
-female,19,some college,70,78,78,sports,5.6,scholarship,yes
-female,22,some high school,37,46,46,none,7.1,family-sponsored,no
-male,19,associate's degree,81,82,82,none,5.4,self-funded,yes
-male,24,associate's degree,97,82,88,sports,7.9,family-sponsored,yes
-female,23,some high school,67,89,82,multiple,8.0,scholarship,no
-male,24,bachelor's degree,88,75,76,arts,8.3,family-sponsored,no
-male,19,some high school,77,76,77,none,6.3,government-funded,yes
-male,23,associate's degree,76,70,68,none,8.4,self-funded,no
-male,19,some high school,86,73,70,volunteering,5.4,scholarship,no
-male,25,some high school,63,60,57,volunteering,8.7,scholarship,yes
-female,21,bachelor's degree,65,73,75,multiple,7.2,government-funded,no
-male,19,high school,78,77,80,volunteering,6.4,family-sponsored,yes
-male,21,associate's degree,67,62,60,none,6.7,self-funded,no
-male,23,some high school,46,41,43,arts,7.8,scholarship,yes
-male,19,associate's degree,71,74,68,multiple,5.3,scholarship,yes
-male,23,high school,40,46,50,sports,8.1,self-funded,yes
-male,22,associate's degree,90,87,75,volunteering,6.8,self-funded,no
-male,22,some college,81,78,81,volunteering,7.2,family-sponsored,yes
-male,22,some high school,56,54,52,volunteering,6.8,family-sponsored,no
-female,24,associate's degree,67,84,81,volunteering,7.7,family-sponsored,yes
-male,25,associate's degree,80,76,64,multiple,8.6,scholarship,no
-female,23,associate's degree,74,75,83,arts,8.4,government-funded,yes
-male,24,some college,69,67,69,volunteering,8.1,self-funded,no
-male,19,some college,99,87,81,sports,5.4,government-funded,yes
-male,23,some high school,51,52,44,sports,8.3,family-sponsored,no
-female,19,associate's degree,53,71,67,arts,5.0,family-sponsored,no
-female,23,high school,49,57,52,arts,8.1,scholarship,no
-female,20,associate's degree,73,76,80,arts,5.7,scholarship,no
-male,22,bachelor's degree,66,60,57,volunteering,6.9,self-funded,no
-male,19,bachelor's degree,67,61,68,multiple,5.4,self-funded,yes
-female,19,associate's degree,68,67,69,volunteering,5.3,government-funded,yes
-female,19,bachelor's degree,59,64,75,sports,6.3,government-funded,yes
-male,23,high school,71,66,65,multiple,7.9,scholarship,no
-female,23,master's degree,77,82,91,none,8.0,family-sponsored,yes
-male,21,associate's degree,83,72,78,multiple,7.4,scholarship,no
-male,19,bachelor's degree,63,71,69,multiple,5.9,government-funded,no
-female,25,associate's degree,56,65,63,multiple,8.9,scholarship,no
-female,23,high school,67,79,84,sports,8.1,scholarship,yes
-female,23,high school,75,86,79,sports,7.8,family-sponsored,no
-female,19,some college,71,81,80,none,5.5,self-funded,no
-female,22,some high school,43,53,53,arts,7.3,family-sponsored,no
-female,23,high school,41,46,43,arts,8.4,government-funded,no
-female,22,some college,82,90,94,multiple,7.4,self-funded,no
-male,20,some college,61,61,62,arts,6.3,self-funded,no
-male,21,some college,28,23,19,sports,7.3,family-sponsored,no
-male,24,associate's degree,82,75,77,arts,7.5,family-sponsored,yes
-female,19,some high school,41,55,51,sports,5.0,self-funded,no
-male,22,high school,71,60,61,arts,6.7,scholarship,no
-male,19,associate's degree,47,37,35,multiple,5.0,self-funded,no
-male,19,associate's degree,62,56,53,multiple,5.1,self-funded,yes
-male,24,associate's degree,90,78,81,sports,8.1,family-sponsored,no
-female,22,bachelor's degree,83,93,95,arts,7.2,scholarship,no
-female,20,some college,61,68,66,arts,6.4,government-funded,no
-male,20,some high school,76,70,69,volunteering,6.3,scholarship,yes
-male,23,associate's degree,49,51,43,none,8.3,self-funded,no
-female,21,some high school,24,38,27,arts,7.1,scholarship,no
-female,19,some high school,35,55,60,volunteering,6.1,scholarship,yes
-male,23,high school,58,61,52,multiple,7.9,family-sponsored,no
-female,19,high school,61,73,63,sports,5.8,self-funded,no
-female,25,high school,69,76,74,none,8.8,family-sponsored,yes
-male,23,associate's degree,67,72,67,none,7.9,government-funded,yes
-male,23,some college,79,73,67,multiple,8.4,government-funded,no
-female,19,high school,72,80,75,volunteering,5.1,scholarship,no
-male,24,some college,62,61,57,sports,8.8,government-funded,no
-female,22,bachelor's degree,77,94,95,multiple,6.8,family-sponsored,yes
-male,21,high school,75,74,66,multiple,7.3,scholarship,no
-male,19,associate's degree,87,74,76,sports,5.0,family-sponsored,no
-female,20,bachelor's degree,52,65,69,none,6.3,government-funded,no
-male,24,some college,66,57,52,volunteering,8.4,scholarship,no
-female,19,some college,63,78,80,multiple,5.0,self-funded,yes
-female,19,associate's degree,46,58,57,none,5.5,family-sponsored,no
-female,22,some college,59,71,70,sports,6.7,self-funded,no
-female,21,bachelor's degree,61,72,70,volunteering,7.3,government-funded,no
-male,22,associate's degree,63,61,61,volunteering,7.2,government-funded,no
-female,25,some college,42,66,69,multiple,8.8,self-funded,yes
-male,21,some college,59,62,61,none,7.0,government-funded,no
-female,19,some college,80,90,89,volunteering,5.4,family-sponsored,no
-female,20,high school,58,62,59,multiple,5.8,self-funded,no
-male,19,some high school,85,84,78,arts,6.1,family-sponsored,yes
-female,24,some college,52,58,58,multiple,9.0,self-funded,no
-female,24,some high school,27,34,32,sports,7.7,self-funded,no
-male,24,some college,59,60,58,sports,7.5,scholarship,no
-male,24,bachelor's degree,49,58,60,sports,8.5,scholarship,yes
-male,19,high school,69,58,53,multiple,5.3,government-funded,yes
-male,23,bachelor's degree,61,66,61,multiple,7.5,family-sponsored,no
-female,20,some high school,44,64,58,none,5.8,self-funded,no
-female,24,some high school,73,84,85,volunteering,8.2,family-sponsored,no
-male,24,some college,84,77,71,volunteering,8.3,scholarship,no
-female,19,some college,45,73,70,none,6.2,self-funded,yes
-male,22,some high school,74,74,72,arts,6.9,self-funded,no
-female,19,some college,82,97,96,volunteering,5.3,self-funded,yes
-female,23,bachelor's degree,59,70,73,volunteering,8.4,self-funded,no
-male,23,associate's degree,46,43,41,arts,7.5,government-funded,no
-female,24,some high school,80,90,82,multiple,8.4,family-sponsored,no
-female,19,master's degree,85,95,100,multiple,5.3,self-funded,yes
-female,19,some high school,71,83,77,multiple,5.2,scholarship,no
-male,19,bachelor's degree,66,64,62,volunteering,5.6,family-sponsored,no
-female,24,associate's degree,80,86,83,none,8.9,scholarship,no
-male,24,associate's degree,87,100,95,none,8.1,self-funded,yes
-male,24,master's degree,79,81,71,volunteering,8.5,family-sponsored,no
-female,25,some high school,38,49,45,sports,8.6,self-funded,no
-female,21,some high school,38,43,43,sports,7.4,self-funded,no
-female,24,some college,67,76,75,arts,7.8,self-funded,no
-female,23,bachelor's degree,64,73,70,none,8.3,government-funded,no
-female,20,associate's degree,57,78,67,volunteering,5.7,scholarship,no
-female,20,high school,62,64,64,sports,5.6,scholarship,no
-male,23,master's degree,73,70,75,none,8.1,self-funded,no
-male,19,some high school,73,67,59,arts,5.8,family-sponsored,yes
-female,25,some college,77,68,77,sports,8.5,government-funded,no
-male,22,some college,76,67,67,volunteering,7.1,family-sponsored,no
-male,24,associate's degree,57,54,56,arts,7.6,self-funded,yes
-female,24,some high school,65,74,77,arts,8.6,scholarship,yes
-male,19,high school,48,45,41,none,5.4,self-funded,no
-female,24,high school,50,67,63,none,8.3,government-funded,no
-female,19,associate's degree,85,89,95,none,5.9,scholarship,no
-male,25,some high school,74,63,57,multiple,8.7,scholarship,no
-male,19,some high school,60,59,54,arts,6.3,government-funded,no
-female,19,some high school,59,54,67,multiple,5.4,self-funded,yes
-male,19,some college,53,43,43,arts,5.1,government-funded,no
-female,24,some college,49,65,55,volunteering,8.0,scholarship,no
-female,24,high school,88,99,100,sports,8.8,scholarship,yes
-female,19,high school,54,59,62,arts,6.0,scholarship,no
-female,24,some high school,63,73,68,multiple,9.0,self-funded,no
-male,24,associate's degree,65,65,63,sports,8.9,self-funded,yes
-female,23,associate's degree,82,80,77,volunteering,8.3,scholarship,no
-female,24,high school,52,57,56,arts,7.7,government-funded,yes
-male,19,associate's degree,87,84,85,multiple,5.4,government-funded,yes
-female,24,master's degree,70,71,74,arts,8.8,scholarship,yes
-male,23,some college,84,83,78,none,8.4,family-sponsored,yes
-male,21,associate's degree,71,66,60,volunteering,7.0,scholarship,no
-male,20,some high school,63,67,67,arts,6.4,self-funded,yes
-female,23,bachelor's degree,51,72,79,arts,7.5,self-funded,yes
-male,22,high school,84,73,69,sports,6.6,government-funded,no
-male,20,bachelor's degree,71,74,68,arts,6.4,government-funded,yes
-male,22,associate's degree,74,73,67,arts,6.6,family-sponsored,no
-male,23,some college,68,59,62,arts,7.5,family-sponsored,no
-male,19,high school,57,56,54,multiple,5.2,self-funded,yes
-female,23,associate's degree,82,93,93,multiple,7.5,self-funded,yes
-female,23,high school,57,58,64,volunteering,8.3,scholarship,yes
-female,19,master's degree,47,58,67,arts,6.4,family-sponsored,yes
-female,21,some high school,59,85,80,arts,6.6,scholarship,yes
-male,23,some college,41,39,34,volunteering,7.7,government-funded,no
-female,21,some college,62,67,62,none,7.1,government-funded,no
-male,19,bachelor's degree,86,83,86,arts,6.4,scholarship,no
-male,23,some high school,69,71,65,arts,7.9,self-funded,no
-male,20,some high school,65,59,53,none,6.2,scholarship,no
-male,23,some high school,68,63,54,sports,8.4,government-funded,no
-male,24,associate's degree,64,66,59,volunteering,7.8,self-funded,no
-female,25,high school,61,72,70,multiple,8.5,self-funded,no
-male,19,high school,61,56,55,none,5.6,self-funded,no
-female,22,some high school,47,59,50,arts,6.7,government-funded,no
-male,24,some high school,73,66,66,multiple,8.6,family-sponsored,no
-male,21,some college,50,48,53,none,7.3,scholarship,yes
-male,23,associate's degree,75,68,64,volunteering,8.3,scholarship,no
-male,25,associate's degree,75,66,73,sports,9.0,scholarship,no
-male,22,high school,70,56,51,volunteering,7.2,family-sponsored,no
-male,19,some high school,89,88,82,arts,5.0,scholarship,yes
-female,21,some college,67,81,79,sports,6.7,government-funded,yes
-female,23,high school,78,81,80,sports,7.6,family-sponsored,no
-female,22,some high school,59,73,69,sports,6.6,family-sponsored,no
-female,24,associate's degree,73,83,76,volunteering,7.7,self-funded,no
-male,24,some high school,79,82,73,volunteering,7.8,family-sponsored,no
-female,19,some high school,67,74,77,sports,5.5,self-funded,yes
-male,21,some college,69,66,60,arts,6.6,scholarship,no
-male,23,high school,86,81,80,multiple,8.0,government-funded,yes
-male,25,high school,47,46,42,none,8.6,scholarship,no
-male,19,associate's degree,81,73,72,multiple,5.5,self-funded,no
-female,19,some college,64,85,85,multiple,5.2,government-funded,yes
-female,20,some college,100,92,97,sports,6.1,government-funded,no
-female,20,associate's degree,65,77,74,multiple,5.8,government-funded,no
-male,19,some college,65,58,49,none,5.6,scholarship,no
-female,22,associate's degree,53,61,62,arts,6.9,self-funded,no
-male,24,bachelor's degree,37,56,47,none,8.0,self-funded,no
-female,20,bachelor's degree,79,89,89,volunteering,5.5,government-funded,no
-male,25,associate's degree,53,54,48,none,8.8,self-funded,no
-female,19,bachelor's degree,100,100,100,sports,6.1,scholarship,no
-male,19,high school,72,65,68,sports,5.4,scholarship,yes
-male,24,bachelor's degree,53,58,55,arts,7.6,self-funded,no
-male,24,some college,54,54,45,arts,8.9,family-sponsored,no
-female,25,some college,71,70,76,volunteering,8.8,government-funded,no
-female,19,some college,77,90,91,none,5.0,scholarship,no
-male,20,bachelor's degree,75,58,62,none,5.8,self-funded,yes
-female,22,some college,84,87,91,arts,6.5,scholarship,no
-female,21,associate's degree,26,31,38,volunteering,7.1,scholarship,no
-male,21,high school,72,67,65,sports,6.5,self-funded,yes
-female,23,high school,77,88,85,volunteering,8.3,government-funded,yes
-male,23,some college,91,74,76,multiple,7.6,family-sponsored,no
-female,23,associate's degree,83,85,90,sports,7.7,government-funded,yes
-female,19,high school,63,69,74,sports,5.0,self-funded,no
-female,24,associate's degree,68,86,84,none,7.5,family-sponsored,yes
-female,23,some high school,59,67,61,arts,7.5,self-funded,no
-female,21,associate's degree,90,90,91,none,6.8,self-funded,yes
-female,20,bachelor's degree,71,76,83,multiple,6.1,scholarship,yes
-male,21,bachelor's degree,76,62,66,none,6.9,family-sponsored,yes
-male,24,associate's degree,80,68,72,none,8.1,family-sponsored,no
-female,24,master's degree,55,64,70,sports,7.9,scholarship,no
-male,24,associate's degree,76,71,67,arts,7.9,family-sponsored,no
-male,25,high school,73,71,68,sports,8.7,family-sponsored,yes
-female,19,associate's degree,52,59,56,arts,6.1,scholarship,no
-male,19,some college,68,68,61,multiple,5.2,scholarship,no
-male,23,high school,59,52,46,arts,8.4,government-funded,no
-female,19,associate's degree,49,52,54,none,5.4,government-funded,no
-male,19,high school,70,74,71,none,5.0,self-funded,no
-male,24,some college,61,47,56,arts,7.8,self-funded,no
-female,19,associate's degree,60,75,74,none,5.2,government-funded,no
-male,24,some high school,64,53,57,multiple,7.9,scholarship,yes
-male,23,associate's degree,79,82,82,arts,7.7,scholarship,yes
-female,21,associate's degree,65,85,76,arts,6.8,family-sponsored,no
-female,24,associate's degree,64,64,70,volunteering,8.1,family-sponsored,no
-female,19,some college,83,83,90,multiple,5.4,scholarship,no
-female,25,bachelor's degree,81,88,90,sports,8.8,government-funded,no
-female,24,high school,54,64,68,sports,8.6,self-funded,no
-male,24,high school,68,64,66,none,7.6,government-funded,yes
-female,24,some college,54,48,52,multiple,8.4,government-funded,no
-female,25,some college,59,78,76,arts,8.6,government-funded,yes
-female,23,some high school,66,69,68,none,8.4,government-funded,no
-male,20,some college,76,71,72,arts,6.3,scholarship,no
-female,22,master's degree,74,79,82,arts,7.0,self-funded,no
-female,24,associate's degree,94,87,92,volunteering,8.3,family-sponsored,yes
-male,21,some college,63,61,54,volunteering,7.0,self-funded,no
-female,19,associate's degree,95,89,92,volunteering,6.3,family-sponsored,yes
-female,21,master's degree,40,59,54,none,6.5,family-sponsored,no
-female,20,some high school,82,82,80,sports,6.2,self-funded,no
-male,21,high school,68,70,66,volunteering,7.3,family-sponsored,no
-male,20,bachelor's degree,55,59,54,none,6.4,scholarship,no
-male,25,master's degree,79,78,77,volunteering,8.8,government-funded,no
-female,22,bachelor's degree,86,92,87,none,6.9,self-funded,no
-male,22,some college,76,71,73,multiple,6.5,family-sponsored,no
-male,19,some high school,64,50,43,volunteering,5.4,government-funded,no
-male,20,some high school,62,49,52,none,5.7,scholarship,no
-female,22,some high school,54,61,62,volunteering,7.2,family-sponsored,yes
-female,19,master's degree,77,97,94,multiple,5.8,scholarship,yes
-female,25,some high school,76,87,85,sports,8.8,scholarship,yes
-female,24,some college,74,89,84,volunteering,7.8,self-funded,no
-female,20,some college,66,74,73,volunteering,5.8,self-funded,yes
-female,23,some high school,66,78,78,volunteering,7.9,family-sponsored,yes
-female,24,high school,67,78,79,arts,8.3,scholarship,yes
-male,19,some college,71,49,52,none,5.3,scholarship,no
-female,20,associate's degree,91,86,84,sports,5.9,self-funded,no
-male,24,bachelor's degree,69,58,57,none,8.2,government-funded,no
-male,19,master's degree,54,59,50,sports,5.4,family-sponsored,no
-male,23,high school,53,52,49,arts,8.4,self-funded,yes
-male,24,some college,68,60,59,arts,7.5,scholarship,no
-male,20,some high school,56,61,60,multiple,6.4,government-funded,yes
-female,21,high school,36,53,43,sports,6.7,scholarship,no
-female,25,bachelor's degree,29,41,47,sports,8.7,family-sponsored,no
-female,20,associate's degree,62,74,70,volunteering,5.5,government-funded,no
-female,23,associate's degree,68,67,73,volunteering,8.4,self-funded,yes
-female,19,some high school,47,54,53,sports,5.3,scholarship,no
-male,21,associate's degree,62,61,58,sports,6.5,family-sponsored,yes
-female,22,associate's degree,79,88,94,arts,7.1,family-sponsored,yes
-male,21,high school,73,69,68,volunteering,6.7,self-funded,yes
-female,19,bachelor's degree,66,83,83,volunteering,5.9,government-funded,yes
-male,23,associate's degree,51,60,58,none,7.8,family-sponsored,yes
-female,24,high school,51,66,62,none,8.4,scholarship,no
-male,20,bachelor's degree,85,66,71,none,5.5,scholarship,yes
-male,21,associate's degree,97,92,86,arts,7.1,self-funded,yes
-male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
-male,19,associate's degree,79,82,80,none,5.4,scholarship,yes
-female,24,associate's degree,81,77,79,volunteering,8.8,family-sponsored,no
-female,22,associate's degree,82,95,89,none,6.6,scholarship,no
-female,24,master's degree,64,63,66,sports,8.4,government-funded,no
-male,21,some high school,78,83,80,arts,6.6,government-funded,yes
-female,19,some high school,92,100,97,none,5.8,government-funded,yes
-male,19,high school,72,67,64,arts,5.6,self-funded,yes
-female,21,high school,62,67,64,multiple,7.4,government-funded,no
-male,21,master's degree,79,72,69,volunteering,6.5,scholarship,no
-male,24,some high school,79,76,65,sports,8.6,scholarship,no
-male,21,bachelor's degree,87,90,88,multiple,7.1,family-sponsored,yes
-female,20,associate's degree,40,48,50,multiple,5.8,scholarship,no
-male,19,some college,77,62,64,none,6.3,government-funded,no
-male,21,associate's degree,53,45,40,sports,6.7,government-funded,no
-female,24,some college,32,39,33,sports,7.9,scholarship,no
-female,24,associate's degree,55,72,79,volunteering,8.4,scholarship,yes
-male,21,master's degree,61,67,66,volunteering,6.7,scholarship,no
-female,25,associate's degree,53,70,70,arts,8.7,scholarship,no
-male,20,some high school,73,66,62,arts,6.1,family-sponsored,no
-female,19,some college,74,75,79,volunteering,5.7,family-sponsored,yes
-female,25,some college,63,74,74,sports,8.7,scholarship,no
-male,22,bachelor's degree,96,90,92,volunteering,7.1,scholarship,yes
-female,19,some college,63,80,80,volunteering,6.4,self-funded,yes
-male,20,bachelor's degree,48,51,46,arts,6.1,scholarship,no
-male,24,associate's degree,48,43,45,sports,8.8,government-funded,no
-female,22,bachelor's degree,92,100,100,arts,7.4,scholarship,yes
-female,19,master's degree,61,71,78,sports,5.5,self-funded,yes
-male,25,high school,63,48,47,volunteering,8.8,government-funded,no
-male,20,bachelor's degree,68,68,67,sports,5.6,government-funded,no
-male,19,some college,71,75,70,arts,5.4,family-sponsored,yes
-male,22,bachelor's degree,91,96,92,none,7.1,family-sponsored,no
-female,21,some college,53,62,56,multiple,7.2,scholarship,no
-female,22,high school,50,66,64,multiple,6.5,self-funded,yes
-female,23,high school,74,81,71,arts,8.4,scholarship,no
-male,24,associate's degree,40,55,53,sports,7.5,self-funded,yes
-male,21,some college,61,51,52,multiple,6.8,government-funded,yes
-female,25,high school,81,91,89,sports,8.8,self-funded,no
-female,20,some college,48,56,58,arts,6.3,government-funded,yes
-female,24,master's degree,53,61,68,sports,8.3,scholarship,no
-female,20,some high school,81,97,96,none,5.5,family-sponsored,no
-female,19,some high school,77,79,80,multiple,6.3,government-funded,no
-female,19,bachelor's degree,63,73,78,sports,5.0,government-funded,no
-female,19,associate's degree,73,75,80,none,5.0,family-sponsored,yes
-female,24,some college,69,77,77,none,7.9,government-funded,no
-female,24,associate's degree,65,76,76,volunteering,8.6,scholarship,no
-female,19,high school,55,73,73,arts,5.5,family-sponsored,no
-female,19,bachelor's degree,44,63,62,multiple,5.0,self-funded,no
-female,22,some college,54,64,65,none,7.0,family-sponsored,no
-female,22,some high school,48,66,65,volunteering,7.1,family-sponsored,no
-male,24,some college,58,57,54,volunteering,7.6,family-sponsored,no
-male,19,some high school,71,62,50,none,6.1,family-sponsored,no
-male,23,bachelor's degree,68,68,64,none,7.6,family-sponsored,no
-female,19,high school,74,76,73,multiple,5.2,scholarship,no
-female,20,bachelor's degree,92,100,99,none,6.3,self-funded,yes
-female,23,bachelor's degree,56,79,72,none,7.6,family-sponsored,yes
-male,20,high school,30,24,15,arts,6.4,government-funded,no
-male,19,some high school,53,54,48,multiple,5.4,family-sponsored,no
-female,23,high school,69,77,73,multiple,8.2,family-sponsored,no
-female,19,some high school,65,82,81,none,5.3,family-sponsored,no
-female,19,master's degree,54,60,63,multiple,6.4,government-funded,no
-female,25,high school,29,29,30,none,9.0,scholarship,no
-female,25,some college,76,78,80,sports,8.8,government-funded,no
-male,24,high school,60,57,51,none,8.7,self-funded,no
-male,20,master's degree,84,89,90,sports,6.4,scholarship,yes
-male,21,some high school,75,72,62,volunteering,6.9,family-sponsored,no
-female,24,associate's degree,85,84,82,arts,8.9,scholarship,no
-female,24,master's degree,40,58,54,arts,7.7,family-sponsored,no
-female,22,some college,61,64,62,arts,7.0,scholarship,no
-female,23,associate's degree,58,63,65,sports,7.7,self-funded,no
-male,23,some college,69,60,63,none,7.6,family-sponsored,yes
-female,19,some college,58,59,66,sports,5.6,family-sponsored,no
-male,19,bachelor's degree,94,90,91,arts,5.8,family-sponsored,yes
-female,20,associate's degree,65,77,74,sports,5.6,scholarship,no
-female,20,associate's degree,82,93,93,none,6.3,scholarship,no
-female,19,high school,60,68,72,arts,5.0,scholarship,no
-female,24,bachelor's degree,37,45,38,sports,8.2,scholarship,no
-male,21,bachelor's degree,88,78,83,none,7.1,scholarship,no
-male,20,master's degree,95,81,84,multiple,6.2,scholarship,no
-male,24,associate's degree,65,73,68,sports,8.1,scholarship,yes
-female,24,high school,35,61,54,none,8.5,self-funded,no
-male,24,bachelor's degree,62,63,56,volunteering,8.1,government-funded,no
-male,19,high school,58,51,52,volunteering,5.4,family-sponsored,yes
-male,20,some college,100,96,86,multiple,5.5,government-funded,yes
-female,19,bachelor's degree,61,58,62,volunteering,5.3,self-funded,no
-male,19,some college,100,97,99,none,5.6,scholarship,yes
-male,22,associate's degree,69,70,63,multiple,7.2,government-funded,yes
-male,22,associate's degree,61,48,46,volunteering,6.9,government-funded,no
-male,19,some college,49,57,46,none,5.3,self-funded,no
-female,19,some high school,44,51,55,arts,5.1,self-funded,yes
-male,24,some college,67,64,70,none,7.7,family-sponsored,no
-male,21,high school,79,60,65,multiple,6.8,family-sponsored,no
-female,21,bachelor's degree,66,74,81,arts,6.9,self-funded,yes
-female,19,high school,75,88,85,none,6.1,scholarship,no
-male,24,some high school,84,84,80,multiple,7.7,scholarship,no
-male,24,high school,71,74,64,volunteering,7.8,scholarship,no
-female,19,high school,67,80,81,multiple,6.1,family-sponsored,yes
-female,19,some high school,80,92,88,multiple,5.0,family-sponsored,yes
-male,19,some college,86,76,74,volunteering,6.1,family-sponsored,no
-female,23,associate's degree,76,74,73,sports,8.0,family-sponsored,no
-male,23,high school,41,52,51,arts,7.9,family-sponsored,no
-female,23,associate's degree,74,88,90,none,7.6,self-funded,yes
-female,22,some high school,72,81,79,multiple,6.5,scholarship,no
-female,23,high school,74,79,80,none,7.5,scholarship,yes
-male,19,high school,70,65,60,volunteering,5.2,scholarship,no
-female,22,bachelor's degree,65,81,81,arts,7.2,scholarship,yes
-female,21,associate's degree,59,70,65,multiple,7.1,scholarship,no
-female,22,high school,64,62,68,multiple,7.4,scholarship,no
-female,21,high school,50,53,55,sports,6.9,self-funded,no
-female,22,some college,69,79,81,multiple,6.9,self-funded,yes
-male,24,some high school,51,56,53,volunteering,8.0,self-funded,yes
-female,23,high school,68,80,76,multiple,7.5,family-sponsored,yes
-female,23,some college,85,86,98,volunteering,8.0,self-funded,yes
-female,23,associate's degree,65,70,74,multiple,8.2,scholarship,yes
-female,23,some high school,73,79,79,arts,7.5,self-funded,no
-female,23,some college,62,67,67,sports,7.7,scholarship,no
-male,24,associate's degree,77,67,64,sports,8.5,government-funded,no
-male,25,some high school,69,66,61,multiple,8.8,government-funded,no
-female,25,associate's degree,43,60,58,sports,8.6,self-funded,no
-male,22,associate's degree,90,87,85,multiple,7.4,scholarship,no
-male,24,some college,74,77,73,multiple,8.5,self-funded,no
-male,19,some high school,73,66,63,sports,5.0,government-funded,no
-female,25,some college,55,71,69,sports,9.0,government-funded,no
-female,21,high school,65,69,67,none,6.9,self-funded,no
-male,24,associate's degree,80,63,63,volunteering,8.5,family-sponsored,no
-female,25,some high school,50,60,60,none,8.7,family-sponsored,yes
-female,24,some college,63,73,71,volunteering,7.6,scholarship,yes
-female,24,bachelor's degree,77,85,87,sports,7.8,family-sponsored,no
-male,22,some college,73,74,61,volunteering,7.4,scholarship,no
-male,20,associate's degree,81,72,77,arts,5.7,government-funded,yes
-female,22,high school,66,76,68,arts,7.4,family-sponsored,no
-male,24,associate's degree,52,57,50,volunteering,8.5,government-funded,no
-female,22,some college,69,78,76,arts,6.7,self-funded,no
-female,24,associate's degree,65,84,84,multiple,8.3,scholarship,yes
-female,25,high school,69,77,78,arts,8.8,government-funded,yes
-female,24,some college,50,64,66,arts,8.1,family-sponsored,yes
-female,23,some college,73,78,76,arts,7.6,self-funded,yes
-female,24,some high school,70,82,76,arts,8.9,government-funded,yes
-male,24,associate's degree,81,75,78,arts,8.7,self-funded,no
-male,20,some college,63,61,60,arts,6.3,scholarship,no
-female,19,high school,67,72,74,sports,5.0,family-sponsored,no
-male,19,high school,60,68,60,arts,5.3,self-funded,no
-male,23,high school,62,55,54,multiple,7.7,family-sponsored,no
-female,20,some high school,29,40,44,multiple,6.4,family-sponsored,yes
-male,24,some college,62,66,68,multiple,8.6,scholarship,yes
-female,24,master's degree,94,99,100,multiple,7.9,self-funded,yes
-male,19,some college,85,75,68,volunteering,5.9,family-sponsored,yes
-male,24,associate's degree,77,78,73,arts,8.7,government-funded,no
-male,20,high school,53,58,44,volunteering,6.0,self-funded,no
-male,19,some college,93,90,83,multiple,5.9,government-funded,no
-female,22,associate's degree,49,53,53,multiple,6.9,family-sponsored,no
-female,24,associate's degree,73,76,78,volunteering,8.6,family-sponsored,no
-female,25,bachelor's degree,66,74,81,multiple,8.5,family-sponsored,yes
-female,19,associate's degree,77,77,73,multiple,5.9,government-funded,no
-female,23,some high school,49,63,56,sports,7.6,scholarship,no
-female,24,some college,79,89,86,multiple,8.0,family-sponsored,no
-female,22,associate's degree,75,82,90,arts,6.5,scholarship,yes
-female,24,bachelor's degree,59,72,70,multiple,7.7,government-funded,no
-female,22,associate's degree,57,78,79,arts,6.7,scholarship,yes
-male,20,high school,66,66,59,sports,6.0,family-sponsored,no
-female,21,bachelor's degree,79,81,82,volunteering,6.8,self-funded,yes
-female,22,some high school,57,67,72,none,6.6,scholarship,no
-male,23,bachelor's degree,87,84,87,none,7.7,scholarship,yes
-female,19,some college,63,64,67,arts,5.4,self-funded,no
-female,24,some high school,59,63,64,sports,7.9,scholarship,yes
-male,19,bachelor's degree,62,72,65,arts,5.2,scholarship,no
-male,19,high school,46,34,36,multiple,5.4,scholarship,no
-male,23,some college,66,59,52,multiple,7.6,scholarship,no
-male,22,high school,89,87,79,multiple,6.7,family-sponsored,no
-female,23,associate's degree,42,61,58,sports,7.5,government-funded,yes
-male,25,some college,93,84,90,volunteering,9.0,scholarship,yes
-female,24,some high school,80,85,85,volunteering,8.3,family-sponsored,yes
-female,21,some college,98,100,99,arts,6.5,self-funded,no
-male,21,master's degree,81,81,84,sports,6.5,scholarship,no
-female,25,some high school,60,70,74,arts,9.0,scholarship,yes
-female,19,associate's degree,76,94,87,volunteering,5.3,scholarship,yes
-male,19,associate's degree,73,78,72,none,5.7,government-funded,yes
-female,21,associate's degree,96,96,99,multiple,7.4,self-funded,yes
-female,24,high school,76,76,74,arts,8.7,self-funded,no
-male,22,associate's degree,91,73,80,arts,6.5,government-funded,yes
-female,24,some college,62,72,70,volunteering,7.5,scholarship,no
-male,22,some high school,55,59,59,sports,7.3,scholarship,yes
-female,19,some high school,74,90,88,volunteering,6.2,government-funded,yes
-male,24,high school,50,48,42,sports,8.8,scholarship,no
-male,24,some college,47,43,41,arts,7.7,government-funded,no
-male,21,some college,81,74,71,volunteering,6.7,scholarship,yes
-female,19,associate's degree,65,75,77,volunteering,5.7,government-funded,yes
-male,19,some high school,68,51,57,sports,5.7,scholarship,yes
-female,25,high school,73,92,84,sports,8.6,government-funded,no
-male,23,some college,53,39,37,sports,7.7,self-funded,no
-female,24,associate's degree,68,77,80,none,8.7,government-funded,yes
-male,20,some high school,55,46,43,arts,5.7,family-sponsored,no
-female,24,some college,87,89,94,arts,8.5,government-funded,yes
-male,25,some high school,55,47,44,arts,8.6,family-sponsored,no
-female,23,some college,53,58,57,multiple,8.2,self-funded,no
-male,24,master's degree,67,57,59,volunteering,7.7,family-sponsored,no
-male,20,associate's degree,92,79,84,volunteering,6.1,scholarship,no
-female,19,some college,53,66,73,none,5.2,government-funded,yes
-male,24,associate's degree,81,71,73,multiple,8.1,self-funded,no
-male,19,high school,61,60,55,sports,5.3,scholarship,no
-male,21,bachelor's degree,80,73,72,sports,7.1,family-sponsored,no
-female,23,associate's degree,37,57,56,multiple,7.9,family-sponsored,no
-female,23,high school,81,84,82,sports,8.4,self-funded,no
-female,23,associate's degree,59,73,72,none,7.6,government-funded,yes
-male,22,some college,55,55,47,multiple,6.7,self-funded,no
-male,23,associate's degree,72,79,74,arts,8.1,scholarship,no
-male,25,high school,69,75,71,arts,8.6,family-sponsored,no
-male,22,some college,69,64,68,volunteering,6.6,government-funded,no
-female,20,bachelor's degree,50,60,59,volunteering,5.9,family-sponsored,no
-male,23,some college,87,84,86,sports,7.7,self-funded,yes
-male,19,some high school,71,69,68,volunteering,5.0,government-funded,yes
-male,22,some college,68,72,65,none,6.8,self-funded,no
-male,20,master's degree,79,77,75,none,5.6,government-funded,yes
-female,20,some high school,77,90,85,volunteering,6.3,family-sponsored,yes
-male,20,associate's degree,58,55,53,none,5.6,scholarship,no
-female,21,associate's degree,84,95,92,sports,7.3,scholarship,no
-male,19,some college,55,58,52,sports,5.3,family-sponsored,no
-male,19,bachelor's degree,70,68,72,arts,5.0,family-sponsored,yes
-female,24,some college,52,59,65,none,8.4,self-funded,yes
-male,20,some college,69,77,77,multiple,5.6,scholarship,yes
-female,19,high school,53,72,64,volunteering,5.2,self-funded,no
-female,19,some high school,48,58,54,arts,5.4,scholarship,no
-male,22,some high school,78,81,86,none,6.6,self-funded,yes
-female,21,high school,62,62,63,none,6.9,family-sponsored,no
-male,19,some college,60,63,59,none,5.0,family-sponsored,no
-female,19,high school,74,72,72,sports,5.0,self-funded,no
-female,19,high school,58,75,77,sports,6.0,scholarship,yes
-male,21,high school,76,62,60,sports,6.7,government-funded,yes
-female,23,some high school,68,71,75,sports,8.0,family-sponsored,no
-male,23,some college,58,60,57,sports,7.8,self-funded,no
-male,20,high school,52,48,49,multiple,5.6,self-funded,no
-male,22,bachelor's degree,75,73,74,none,7.3,self-funded,no
-female,21,some high school,52,67,72,sports,7.4,family-sponsored,yes
-female,23,bachelor's degree,62,78,79,sports,7.8,self-funded,no
-male,23,some college,66,65,60,multiple,7.8,government-funded,no
-female,24,some high school,49,58,55,multiple,8.8,family-sponsored,no
-female,21,high school,66,72,70,arts,7.1,self-funded,no
-female,21,some college,35,44,43,sports,6.6,scholarship,no
-female,19,some college,72,79,82,sports,6.0,government-funded,yes
-male,20,associate's degree,94,85,82,volunteering,6.0,scholarship,yes
-female,19,associate's degree,46,56,57,none,5.8,government-funded,no
-female,19,master's degree,77,90,84,arts,5.0,self-funded,no
-female,24,high school,76,85,82,none,8.2,scholarship,yes
-female,19,associate's degree,52,59,62,volunteering,5.6,family-sponsored,yes
-male,19,bachelor's degree,91,81,79,volunteering,6.2,scholarship,yes
-female,22,some high school,32,51,44,multiple,7.4,scholarship,yes
-female,20,some high school,72,79,77,sports,5.7,scholarship,no
-female,19,some college,19,38,32,volunteering,6.2,self-funded,no
-male,21,associate's degree,68,65,61,arts,6.8,scholarship,no
-female,19,master's degree,52,65,61,sports,5.0,scholarship,no
-female,20,high school,48,62,60,multiple,5.9,government-funded,no
-female,22,some college,60,66,70,sports,7.3,self-funded,no
-male,19,high school,66,74,69,sports,5.4,government-funded,no
-male,19,some high school,89,84,77,sports,5.3,scholarship,yes
-female,23,high school,42,52,51,volunteering,8.3,government-funded,no
-female,19,associate's degree,57,68,73,none,5.0,scholarship,yes
-male,19,high school,70,70,70,arts,5.7,self-funded,no
-female,22,associate's degree,70,84,81,none,6.6,scholarship,no
-male,21,some college,69,60,54,multiple,7.2,government-funded,no
-female,21,associate's degree,52,55,57,sports,6.7,scholarship,no
-male,19,some high school,67,73,68,volunteering,6.3,self-funded,yes
-male,23,some high school,76,80,73,multiple,7.6,self-funded,yes
-female,24,associate's degree,87,94,95,none,8.7,self-funded,no
-female,22,some college,82,85,87,arts,6.6,scholarship,no
-female,24,some college,73,76,78,multiple,9.0,government-funded,no
-male,23,some college,75,81,74,none,8.3,family-sponsored,no
-female,24,some college,64,74,75,sports,9.0,self-funded,no
-female,23,high school,41,45,40,none,7.5,self-funded,no
-male,25,high school,90,75,69,sports,8.6,scholarship,no
-male,24,bachelor's degree,59,54,51,sports,7.5,self-funded,no
-male,22,some high school,51,31,36,volunteering,6.7,scholarship,no
-male,21,high school,45,47,49,sports,7.1,scholarship,no
-female,22,master's degree,54,64,67,sports,7.2,self-funded,yes
-male,20,some high school,87,84,76,none,6.3,government-funded,yes
-female,20,high school,72,80,83,volunteering,5.6,self-funded,no
-male,24,some high school,94,86,87,multiple,8.5,government-funded,yes
-female,24,bachelor's degree,45,59,64,none,7.6,government-funded,no
-male,19,bachelor's degree,61,70,76,multiple,5.4,government-funded,yes
-female,23,high school,60,72,68,none,7.7,self-funded,no
-female,21,some high school,77,91,88,volunteering,7.4,family-sponsored,no
-female,19,some high school,85,90,92,sports,5.3,self-funded,yes
-female,21,bachelor's degree,78,90,93,multiple,6.5,family-sponsored,no
-male,23,some college,49,52,51,volunteering,8.2,family-sponsored,yes
-female,24,high school,71,87,82,arts,7.6,self-funded,no
-female,19,some high school,48,58,52,arts,5.0,government-funded,no
-male,23,high school,62,67,58,none,7.5,self-funded,no
-female,19,associate's degree,56,68,70,volunteering,6.3,scholarship,yes
-female,24,some high school,65,69,76,multiple,8.3,government-funded,no
-female,22,some high school,69,86,81,sports,6.9,scholarship,yes
-male,24,some high school,68,54,53,volunteering,7.9,government-funded,no
-female,19,some college,61,60,57,multiple,5.9,family-sponsored,no
-female,25,bachelor's degree,74,86,89,sports,8.8,self-funded,yes
-male,21,bachelor's degree,64,60,58,volunteering,6.9,government-funded,no
-female,23,high school,77,82,89,arts,7.7,scholarship,yes
-male,22,some college,58,50,45,none,7.1,family-sponsored,no
-female,23,high school,60,64,74,multiple,7.6,family-sponsored,yes
-male,24,high school,73,64,57,none,9.0,government-funded,no
-female,22,high school,75,82,79,volunteering,6.5,government-funded,yes
-male,20,associate's degree,58,57,53,multiple,6.3,self-funded,yes
-female,24,associate's degree,66,77,73,arts,7.6,family-sponsored,no
-female,23,high school,39,52,46,none,7.7,government-funded,no
-male,19,some high school,64,58,51,volunteering,5.4,government-funded,no
-female,19,high school,23,44,36,multiple,5.1,government-funded,yes
-male,19,some college,74,77,76,sports,5.0,government-funded,yes
-female,23,some high school,40,65,64,arts,8.4,scholarship,yes
-male,24,master's degree,90,85,84,volunteering,8.7,self-funded,no
-male,23,master's degree,91,85,85,none,8.1,family-sponsored,yes
-male,19,high school,64,54,50,multiple,6.3,government-funded,no
-female,19,high school,59,72,68,volunteering,5.2,scholarship,no
-male,21,associate's degree,80,75,69,arts,6.8,family-sponsored,no
-male,19,master's degree,71,67,67,sports,5.3,family-sponsored,no
-female,23,high school,61,68,63,volunteering,7.8,government-funded,no
-female,20,some college,87,85,93,none,5.8,government-funded,no
-male,23,some high school,82,67,61,none,7.7,family-sponsored,no
-male,21,some high school,62,64,55,sports,7.4,self-funded,no
-female,23,bachelor's degree,97,97,96,arts,8.4,scholarship,no
-male,24,some college,75,68,65,arts,7.6,self-funded,no
-female,23,bachelor's degree,65,79,81,sports,7.5,scholarship,no
-male,19,high school,52,49,46,multiple,5.4,family-sponsored,yes
-male,23,associate's degree,87,73,72,arts,8.4,government-funded,no
-female,22,associate's degree,53,62,53,arts,7.3,self-funded,no
-female,20,master's degree,81,86,87,none,5.8,government-funded,no
-male,20,bachelor's degree,39,42,38,multiple,5.8,self-funded,yes
-female,20,some college,71,71,80,arts,5.8,scholarship,yes
-male,24,associate's degree,97,93,91,arts,8.5,self-funded,no
-male,19,some college,82,82,88,none,5.2,self-funded,yes
-male,22,high school,59,53,52,volunteering,7.0,government-funded,no
-male,19,associate's degree,61,42,41,none,5.8,family-sponsored,no
-male,23,associate's degree,78,74,72,arts,7.5,scholarship,yes
-male,19,associate's degree,49,51,51,sports,6.3,government-funded,no
-male,22,high school,59,58,47,sports,7.1,government-funded,no
-female,21,some college,70,72,76,multiple,6.6,self-funded,yes
-male,19,associate's degree,82,84,78,multiple,5.0,scholarship,yes
-male,22,associate's degree,90,90,82,sports,6.8,family-sponsored,no
-female,19,bachelor's degree,43,62,61,arts,5.0,government-funded,no
-male,20,some college,80,64,66,arts,6.3,family-sponsored,no
-male,21,some college,81,82,84,arts,6.5,family-sponsored,no
-male,22,some high school,57,61,54,sports,7.1,scholarship,no
-female,21,some high school,59,72,80,arts,7.1,government-funded,no
-female,22,associate's degree,64,76,74,volunteering,7.0,self-funded,no
-male,24,bachelor's degree,63,64,66,volunteering,8.8,family-sponsored,yes
-female,19,bachelor's degree,71,70,70,volunteering,5.0,family-sponsored,yes
-female,22,high school,64,73,71,volunteering,7.4,family-sponsored,no
-male,19,bachelor's degree,55,46,44,multiple,6.4,scholarship,no
-female,25,associate's degree,51,51,54,volunteering,8.8,government-funded,no
-female,25,associate's degree,62,76,80,none,9.0,family-sponsored,yes
-female,20,associate's degree,93,100,95,multiple,6.0,scholarship,yes
-male,19,high school,54,72,59,multiple,6.0,family-sponsored,no
-female,24,some college,69,65,74,arts,7.8,family-sponsored,no
-male,19,high school,44,51,48,volunteering,5.1,self-funded,no
-female,19,some college,86,85,91,none,5.2,government-funded,yes
-female,24,associate's degree,85,92,85,multiple,8.5,self-funded,no
-female,24,master's degree,50,67,73,volunteering,7.5,self-funded,no
-male,19,some high school,88,74,75,multiple,5.5,self-funded,yes
-female,24,associate's degree,59,62,69,multiple,7.7,family-sponsored,no
-female,23,some high school,32,34,38,multiple,8.0,scholarship,no
-male,22,high school,36,29,27,none,6.7,scholarship,no
-female,20,some high school,63,78,79,arts,5.7,government-funded,yes
-male,20,associate's degree,67,54,63,sports,6.1,self-funded,yes
-female,22,some high school,65,78,82,volunteering,6.7,family-sponsored,yes
-male,22,master's degree,85,84,89,sports,7.2,government-funded,no
-female,24,master's degree,73,78,74,sports,7.5,scholarship,no
-female,20,high school,34,48,41,arts,6.3,government-funded,yes
-female,23,bachelor's degree,93,100,100,sports,7.8,government-funded,yes
-female,19,some high school,67,84,84,volunteering,5.2,scholarship,no
-male,24,some college,88,77,77,multiple,7.6,government-funded,no
-male,19,high school,57,48,51,volunteering,6.3,scholarship,no
-female,23,some college,79,84,91,volunteering,7.6,family-sponsored,yes
-female,25,bachelor's degree,67,75,72,none,8.9,scholarship,no
-male,20,bachelor's degree,70,64,70,volunteering,6.3,family-sponsored,yes
-male,19,bachelor's degree,50,42,48,none,5.1,government-funded,no
-female,24,some college,69,84,82,none,8.0,self-funded,no
-female,22,bachelor's degree,52,61,66,arts,7.2,self-funded,yes
-female,24,bachelor's degree,47,62,66,volunteering,8.8,self-funded,yes
-female,19,associate's degree,46,61,55,none,5.5,self-funded,no
-female,21,some college,68,70,66,volunteering,7.4,self-funded,no
-male,23,bachelor's degree,100,100,100,multiple,7.9,scholarship,yes
-female,25,high school,44,61,52,sports,8.5,scholarship,no
-female,19,associate's degree,57,77,80,sports,5.1,government-funded,yes
-male,23,some college,91,96,91,none,7.6,family-sponsored,yes
-male,21,high school,69,70,67,volunteering,7.1,government-funded,no
-female,19,high school,35,53,46,none,5.3,family-sponsored,no
-male,25,high school,72,66,66,none,8.8,self-funded,no
-female,19,associate's degree,54,65,65,volunteering,5.0,family-sponsored,no
-male,24,high school,74,70,69,sports,8.4,self-funded,no
-male,24,some high school,74,64,60,arts,7.7,government-funded,yes
-male,24,associate's degree,64,56,52,volunteering,8.8,family-sponsored,no
-female,23,high school,65,61,71,volunteering,8.1,family-sponsored,yes
-male,23,associate's degree,46,43,44,multiple,8.3,self-funded,yes
-female,21,some high school,48,56,51,none,7.3,government-funded,no
-male,24,some college,67,74,70,none,8.7,government-funded,yes
-male,25,some college,62,57,62,none,8.8,scholarship,no
-male,25,associate's degree,61,71,73,multiple,8.5,self-funded,yes
-male,25,bachelor's degree,70,75,74,sports,8.7,self-funded,yes
-male,24,associate's degree,98,87,90,none,7.5,government-funded,yes
-male,19,some college,70,63,58,multiple,5.4,family-sponsored,no
 male,20,associate's degree,67,57,53,multiple,6.0,family-sponsored,no
-female,23,high school,57,58,57,sports,7.9,self-funded,no
-male,20,some college,85,81,85,arts,5.7,family-sponsored,yes
-male,21,some high school,77,68,69,none,7.2,self-funded,yes
-male,24,master's degree,72,66,72,volunteering,8.3,government-funded,yes
-female,19,master's degree,78,91,96,multiple,5.6,government-funded,no
-male,19,high school,81,66,64,arts,6.1,self-funded,no
-male,19,some high school,61,62,61,none,5.5,self-funded,yes
-female,25,high school,58,68,61,sports,8.9,government-funded,no
-female,24,associate's degree,54,61,58,multiple,7.9,scholarship,no
-male,19,high school,82,82,80,arts,5.3,family-sponsored,no
-female,20,some college,49,58,60,sports,5.9,family-sponsored,no
-male,22,some high school,49,50,52,multiple,6.8,family-sponsored,yes
-female,19,high school,57,75,73,none,5.2,self-funded,yes
-male,23,high school,94,73,71,none,7.5,self-funded,no
-female,24,some college,75,77,83,arts,9.0,family-sponsored,yes
-female,23,some high school,74,74,72,arts,8.4,self-funded,no
-male,24,high school,58,52,54,none,7.9,government-funded,yes
-female,24,some college,62,69,69,multiple,8.4,family-sponsored,no
-male,22,associate's degree,72,57,62,volunteering,7.2,family-sponsored,no
-male,23,some college,84,87,81,multiple,7.5,government-funded,no
-female,24,master's degree,92,100,100,sports,7.9,self-funded,no
-female,19,high school,45,63,59,multiple,5.8,scholarship,no
-male,23,high school,75,81,71,sports,7.5,family-sponsored,no
-female,21,some college,56,58,64,arts,7.1,family-sponsored,no
-female,20,some high school,48,54,53,multiple,6.0,government-funded,no
-female,22,associate's degree,100,100,100,sports,7.0,self-funded,no
-female,19,some high school,65,76,75,sports,5.4,scholarship,yes
-male,20,some college,72,57,58,arts,6.0,government-funded,no
-female,23,some college,62,70,72,sports,7.9,self-funded,no
-male,22,some high school,66,68,64,sports,6.7,self-funded,yes
-male,25,some college,63,63,60,none,8.5,family-sponsored,no
-female,24,associate's degree,68,76,67,arts,7.5,scholarship,no
-female,19,bachelor's degree,75,84,80,none,5.3,scholarship,no
-female,19,bachelor's degree,89,100,100,sports,6.4,family-sponsored,no
-male,24,some high school,78,72,69,sports,8.3,self-funded,yes
-female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
-female,22,some college,49,65,61,multiple,7.1,government-funded,no
-female,19,some college,54,63,67,none,6.4,scholarship,no
-female,22,some college,64,82,77,multiple,6.5,government-funded,yes
-male,24,some college,60,62,60,multiple,7.9,self-funded,yes
-male,21,associate's degree,62,65,58,multiple,7.1,self-funded,no
 male,24,high school,55,41,48,none,8.8,self-funded,yes
-female,24,associate's degree,91,95,94,none,9.0,family-sponsored,no
-female,19,high school,8,24,23,multiple,5.8,scholarship,no
-male,19,some high school,81,78,78,none,5.0,government-funded,no
-male,22,some high school,79,85,86,none,6.6,government-funded,yes
-female,22,some college,78,87,91,sports,6.6,family-sponsored,yes
-female,19,some high school,74,75,82,arts,5.3,government-funded,no
-male,19,high school,57,51,54,arts,6.2,government-funded,no
-female,22,associate's degree,40,59,51,multiple,6.5,family-sponsored,no
+male,20,some high school,73,66,62,arts,6.1,family-sponsored,no
+male,22,some high school,62,67,69,multiple,7.4,self-funded,yes
+male,19,associate's degree,49,51,51,sports,6.3,government-funded,no
+male,20,some college,61,61,62,arts,6.3,self-funded,no
+female,21,some high school,59,85,80,arts,6.6,scholarship,yes
+female,20,some college,61,68,66,arts,6.4,government-funded,no
+female,23,bachelor's degree,99,100,100,multiple,7.7,government-funded,yes
+male,24,high school,58,52,54,none,7.9,government-funded,yes
+female,21,some college,67,81,79,sports,6.7,government-funded,yes
+female,23,high school,61,68,63,volunteering,7.8,government-funded,no
+male,19,associate's degree,79,82,80,none,5.4,scholarship,yes
+male,25,high school,73,71,68,sports,8.7,family-sponsored,yes
 male,22,some high school,81,75,76,multiple,6.5,self-funded,yes
-female,20,some high school,44,45,45,arts,6.4,government-funded,no
-female,19,some college,67,86,83,volunteering,6.1,family-sponsored,yes
-male,19,high school,86,81,75,arts,5.4,government-funded,yes
+male,23,bachelor's degree,87,84,87,none,7.7,scholarship,yes
+male,19,some high school,72,68,67,none,5.0,government-funded,no
+male,24,some college,78,72,70,sports,7.9,scholarship,yes
+female,19,some college,63,80,80,volunteering,6.4,self-funded,yes
+male,25,bachelor's degree,77,67,68,none,8.7,scholarship,no
+female,22,master's degree,54,64,67,sports,7.2,self-funded,yes
+female,22,some high school,54,61,62,volunteering,7.2,family-sponsored,yes
+female,22,bachelor's degree,86,92,87,none,6.9,self-funded,no
+male,22,associate's degree,69,70,63,multiple,7.2,government-funded,yes
+female,19,high school,45,63,59,multiple,5.8,scholarship,no
+female,19,some high school,74,90,88,volunteering,6.2,government-funded,yes
+male,22,some high school,56,54,52,volunteering,6.8,family-sponsored,no
+female,19,associate's degree,65,75,77,volunteering,5.7,government-funded,yes
+female,20,some college,100,92,97,sports,6.1,government-funded,no
+female,24,associate's degree,68,86,84,none,7.5,family-sponsored,yes
+female,24,associate's degree,68,86,84,none,7.5,family-sponsored,yes
+male,23,master's degree,73,70,75,none,8.1,self-funded,no
+male,24,associate's degree,54,53,47,none,9.0,scholarship,no
+female,19,associate's degree,73,75,80,none,5.0,family-sponsored,yes
+male,20,high school,53,58,44,volunteering,6.0,self-funded,no
+male,23,high school,59,52,46,arts,8.4,government-funded,no
+female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
+male,24,bachelor's degree,88,75,76,arts,8.3,family-sponsored,no
+male,20,high school,30,24,15,arts,6.4,government-funded,no
+female,21,some high school,59,72,80,arts,7.1,government-funded,no
+female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
+male,24,master's degree,90,85,84,volunteering,8.7,self-funded,no
+female,19,some high school,48,58,54,arts,5.4,scholarship,no
+female,19,some college,86,85,91,none,5.2,government-funded,yes
+female,22,associate's degree,52,66,73,volunteering,7.4,self-funded,yes
+female,20,some high school,48,54,53,multiple,6.0,government-funded,no
+male,19,some high school,53,37,40,none,5.1,family-sponsored,yes
+female,23,high school,65,61,71,volunteering,8.1,family-sponsored,yes
+male,21,high school,71,79,71,multiple,6.6,scholarship,no
+female,20,high school,48,62,60,multiple,5.9,government-funded,no
+male,21,high school,72,67,65,sports,6.5,self-funded,yes
+male,24,high school,62,55,49,none,8.3,family-sponsored,no
+male,19,some high school,61,62,61,none,5.5,self-funded,yes
+male,19,some high school,68,51,57,sports,5.7,scholarship,yes
+male,21,bachelor's degree,87,90,88,multiple,7.1,family-sponsored,yes
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+male,24,associate's degree,65,73,68,sports,8.1,scholarship,yes
+female,19,bachelor's degree,89,100,100,sports,6.4,family-sponsored,no
+female,22,some high school,51,63,61,arts,7.2,government-funded,no
+female,19,associate's degree,52,59,62,volunteering,5.6,family-sponsored,yes
+male,19,some high school,89,88,82,arts,5.0,scholarship,yes
+male,19,bachelor's degree,91,81,79,volunteering,6.2,scholarship,yes
+female,24,associate's degree,55,72,79,volunteering,8.4,scholarship,yes
+female,21,bachelor's degree,96,100,100,arts,6.5,scholarship,yes
+male,23,high school,41,52,51,arts,7.9,family-sponsored,no
+male,24,associate's degree,80,68,72,none,8.1,family-sponsored,no
+male,24,associate's degree,52,57,50,volunteering,8.5,government-funded,no
+male,20,master's degree,46,42,46,multiple,5.5,scholarship,yes
+male,21,some college,50,48,53,none,7.3,scholarship,yes
+male,22,some college,68,72,65,none,6.8,self-funded,no
+female,19,some college,61,60,57,multiple,5.9,family-sponsored,no
+female,25,some high school,73,86,82,volunteering,9.0,scholarship,no
+female,19,high school,61,73,63,sports,5.8,self-funded,no
+male,20,some college,69,77,77,multiple,5.6,scholarship,yes
+male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
+male,21,associate's degree,62,65,58,multiple,7.1,self-funded,no
+female,24,high school,66,71,76,none,7.9,family-sponsored,no
+male,22,some college,81,78,81,volunteering,7.2,family-sponsored,yes
+female,23,associate's degree,65,70,74,multiple,8.2,scholarship,yes
 female,24,some high school,65,82,78,multiple,7.5,government-funded,yes
-female,24,associate's degree,55,76,76,arts,8.8,family-sponsored,no
+male,19,some college,99,87,81,sports,5.4,government-funded,yes
+female,24,some high school,59,63,64,sports,7.9,scholarship,yes
+male,20,bachelor's degree,70,64,70,volunteering,6.3,family-sponsored,yes
+female,23,some high school,59,67,61,arts,7.5,self-funded,no
+female,23,high school,74,81,71,arts,8.4,scholarship,no
+female,19,some high school,70,64,72,multiple,5.0,self-funded,no
+female,19,high school,35,53,46,none,5.3,family-sponsored,no
+male,24,bachelor's degree,74,71,80,sports,8.8,government-funded,yes
+male,22,some high school,74,74,72,arts,6.9,self-funded,no
+female,23,high school,57,58,57,sports,7.9,self-funded,no
+male,21,some high school,78,83,80,arts,6.6,government-funded,yes
+female,20,some high school,29,40,44,multiple,6.4,family-sponsored,yes
+female,25,associate's degree,88,92,95,multiple,8.7,family-sponsored,yes
+female,25,bachelor's degree,74,86,89,sports,8.8,self-funded,yes
+male,20,associate's degree,73,68,66,sports,5.8,self-funded,no
+male,19,high school,57,56,54,multiple,5.2,self-funded,yes
+female,22,associate's degree,83,86,88,volunteering,7.4,self-funded,yes
+female,20,some college,87,85,93,none,5.8,government-funded,no
+female,21,some college,42,55,54,arts,6.8,self-funded,yes
+male,21,high school,76,73,68,none,6.8,government-funded,no
+female,19,bachelor's degree,44,63,62,multiple,5.0,self-funded,no
+male,20,associate's degree,58,55,53,none,5.6,scholarship,no
+female,24,associate's degree,94,87,92,volunteering,8.3,family-sponsored,yes
+female,20,some college,79,86,92,sports,6.1,self-funded,no
+male,19,associate's degree,87,84,85,multiple,5.4,government-funded,yes
+female,25,bachelor's degree,66,74,81,multiple,8.5,family-sponsored,yes
+female,20,some college,74,81,76,arts,6.2,self-funded,no
+male,20,some college,88,85,76,volunteering,6.3,government-funded,yes
+female,23,high school,67,79,84,sports,8.1,scholarship,yes
+male,20,bachelor's degree,85,66,71,none,5.5,scholarship,yes
+male,19,bachelor's degree,67,61,68,multiple,5.4,self-funded,yes
+female,20,high school,34,48,41,arts,6.3,government-funded,yes
+male,19,bachelor's degree,67,61,68,multiple,5.4,self-funded,yes
+male,19,master's degree,71,67,67,sports,5.3,family-sponsored,no
+male,23,some college,87,74,70,sports,8.4,government-funded,yes
+female,20,some high school,44,64,58,none,5.8,self-funded,no
+female,19,associate's degree,65,69,70,none,5.1,scholarship,no
+male,24,bachelor's degree,62,63,56,volunteering,8.1,government-funded,no
+male,23,associate's degree,51,60,58,none,7.8,family-sponsored,yes
+female,19,some college,58,67,62,volunteering,5.3,self-funded,no
+female,22,bachelor's degree,52,61,66,arts,7.2,self-funded,yes
+female,24,some high school,80,85,85,volunteering,8.3,family-sponsored,yes
+male,23,associate's degree,67,72,67,none,7.9,government-funded,yes
+male,19,bachelor's degree,86,83,86,arts,6.4,scholarship,no
+male,20,high school,66,66,59,sports,6.0,family-sponsored,no
+female,19,some college,45,73,70,none,6.2,self-funded,yes
+female,20,bachelor's degree,52,65,69,none,6.3,government-funded,no
+female,23,some college,88,93,93,volunteering,8.1,government-funded,yes
+female,23,associate's degree,47,53,58,multiple,8.4,government-funded,no
+female,19,high school,58,75,77,sports,6.0,scholarship,yes
+male,23,some college,84,87,81,multiple,7.5,government-funded,no
+male,24,some high school,51,56,53,volunteering,8.0,self-funded,yes
+male,23,some college,66,59,52,multiple,7.6,scholarship,no
+male,20,bachelor's degree,48,51,46,arts,6.1,scholarship,no
+female,23,high school,75,86,79,sports,7.8,family-sponsored,no
+male,20,high school,72,73,74,arts,5.8,family-sponsored,yes
+male,22,bachelor's degree,58,55,48,sports,7.1,self-funded,no
+female,23,some high school,66,69,68,none,8.4,government-funded,no
+male,20,bachelor's degree,85,66,71,none,5.5,scholarship,yes
+female,19,some college,63,72,70,none,5.8,scholarship,yes
+female,25,some college,63,74,74,sports,8.7,scholarship,no
+female,19,associate's degree,57,77,80,sports,5.1,government-funded,yes
+female,20,some high school,77,90,85,volunteering,6.3,family-sponsored,yes
+female,24,some college,52,59,65,none,8.4,self-funded,yes
+female,24,high school,52,57,56,arts,7.7,government-funded,yes
+female,24,some high school,59,63,64,sports,7.9,scholarship,yes
+female,23,some college,62,67,67,sports,7.7,scholarship,no
+female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
+male,23,some college,68,59,62,arts,7.5,family-sponsored,no
+female,24,some college,62,72,70,volunteering,7.5,scholarship,no
+female,23,bachelor's degree,77,88,87,none,8.4,scholarship,no
+male,24,associate's degree,80,63,63,volunteering,8.5,family-sponsored,no
+female,19,master's degree,52,65,61,sports,5.0,scholarship,no
+male,22,associate's degree,77,69,68,none,6.8,family-sponsored,yes
+female,21,high school,46,54,58,none,6.8,self-funded,yes
+female,24,bachelor's degree,68,75,81,arts,7.6,family-sponsored,yes
+female,22,some college,82,85,87,arts,6.6,scholarship,no
+male,23,high school,40,46,50,sports,8.1,self-funded,yes
+male,21,bachelor's degree,80,73,72,sports,7.1,family-sponsored,no
+male,24,some college,74,77,73,multiple,8.5,self-funded,no
+female,23,high school,74,79,80,none,7.5,scholarship,yes
+male,19,some high school,81,78,78,none,5.0,government-funded,no
+male,19,some high school,88,74,75,multiple,5.5,self-funded,yes
+male,24,high school,58,52,54,none,7.9,government-funded,yes
+male,24,associate's degree,57,54,56,arts,7.6,self-funded,yes
+male,24,associate's degree,48,43,45,sports,8.8,government-funded,no
+male,19,some high school,53,54,48,multiple,5.4,family-sponsored,no
+female,23,high school,33,41,43,multiple,7.5,scholarship,no
+female,24,associate's degree,85,92,85,multiple,8.5,self-funded,no
+female,24,associate's degree,66,77,73,arts,7.6,family-sponsored,no
+male,19,high school,57,56,54,multiple,5.2,self-funded,yes
+female,23,bachelor's degree,51,72,79,arts,7.5,self-funded,yes
+male,19,high school,86,81,75,arts,5.4,government-funded,yes
+male,24,bachelor's degree,63,64,66,volunteering,8.8,family-sponsored,yes
+male,19,high school,69,58,53,multiple,5.3,government-funded,yes
+male,19,bachelor's degree,69,63,61,arts,5.4,self-funded,no
+male,24,some high school,94,86,87,multiple,8.5,government-funded,yes
+male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
+male,23,associate's degree,91,89,92,volunteering,8.2,family-sponsored,yes
+male,24,associate's degree,57,56,57,arts,7.7,scholarship,no
+female,25,some college,42,66,69,multiple,8.8,self-funded,yes
+female,24,some college,67,76,75,arts,7.8,self-funded,no
+male,19,high school,57,56,54,multiple,5.2,self-funded,yes
+female,23,high school,68,80,76,multiple,7.5,family-sponsored,yes
+female,19,associate's degree,65,75,77,volunteering,5.7,government-funded,yes
+male,23,associate's degree,51,60,58,none,7.8,family-sponsored,yes
+male,23,high school,58,61,52,multiple,7.9,family-sponsored,no
+male,19,associate's degree,73,78,72,none,5.7,government-funded,yes
+female,19,associate's degree,74,81,83,sports,6.3,scholarship,no
+male,21,associate's degree,78,77,77,arts,6.7,government-funded,yes
+female,19,some college,86,85,91,none,5.2,government-funded,yes
+female,22,associate's degree,64,73,68,none,7.2,scholarship,no
+female,19,master's degree,77,90,84,arts,5.0,self-funded,no
+male,23,associate's degree,91,89,92,volunteering,8.2,family-sponsored,yes
+female,24,associate's degree,64,64,70,volunteering,8.1,family-sponsored,no
+female,23,bachelor's degree,62,78,79,sports,7.8,self-funded,no
+male,24,some high school,74,64,60,arts,7.7,government-funded,yes
+male,22,associate's degree,69,70,63,multiple,7.2,government-funded,yes
+male,23,high school,88,89,86,sports,7.5,self-funded,no
+female,20,associate's degree,93,100,95,multiple,6.0,scholarship,yes
+male,20,associate's degree,92,79,84,volunteering,6.1,scholarship,no
+male,23,bachelor's degree,100,100,100,multiple,7.9,scholarship,yes
+male,23,high school,75,81,71,sports,7.5,family-sponsored,no
+male,19,some high school,61,62,61,none,5.5,self-funded,yes
+female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
+female,21,some high school,48,56,51,none,7.3,government-funded,no
+male,19,high school,57,48,51,volunteering,6.3,scholarship,no
+male,24,some college,59,60,58,sports,7.5,scholarship,no
+female,25,some college,73,80,82,sports,9.0,government-funded,no
+male,23,some college,87,74,70,sports,8.4,government-funded,yes
+female,25,bachelor's degree,66,74,81,multiple,8.5,family-sponsored,yes
+male,19,some high school,67,73,68,volunteering,6.3,self-funded,yes
+female,24,high school,35,61,54,none,8.5,self-funded,no
+female,20,some high school,77,90,85,volunteering,6.3,family-sponsored,yes
+female,22,some high school,37,46,46,none,7.1,family-sponsored,no
+female,20,associate's degree,91,86,84,sports,5.9,self-funded,no
+male,24,associate's degree,69,77,69,volunteering,7.6,scholarship,no
+female,24,some college,49,65,55,volunteering,8.0,scholarship,no
+female,19,some college,22,39,33,none,6.0,scholarship,no
+male,24,some high school,64,53,57,multiple,7.9,scholarship,yes
+male,19,bachelor's degree,63,71,69,multiple,5.9,government-funded,no
+female,19,some college,80,90,89,volunteering,5.4,family-sponsored,no
+female,19,associate's degree,57,68,73,none,5.0,scholarship,yes
+male,19,high school,81,66,64,arts,6.1,self-funded,no
+male,20,some high school,55,46,43,arts,5.7,family-sponsored,no
+female,19,some college,71,81,80,none,5.5,self-funded,no
+female,20,bachelor's degree,79,89,89,volunteering,5.5,government-funded,no
+male,24,some high school,64,53,57,multiple,7.9,scholarship,yes
+female,24,some college,75,88,85,none,8.7,scholarship,yes
+female,22,some college,69,74,74,arts,6.8,family-sponsored,no
+female,19,some high school,85,90,92,sports,5.3,self-funded,yes
+female,24,some college,63,73,71,volunteering,7.6,scholarship,yes
+male,19,some college,71,75,70,arts,5.4,family-sponsored,yes
+male,20,high school,52,48,49,multiple,5.6,self-funded,no
+female,25,bachelor's degree,29,41,47,sports,8.7,family-sponsored,no
+male,21,some high school,88,84,75,multiple,6.5,government-funded,no
+male,23,high school,53,52,49,arts,8.4,self-funded,yes
+female,24,high school,68,83,78,volunteering,7.8,self-funded,yes
+male,24,high school,81,80,76,volunteering,9.0,family-sponsored,yes
+male,19,bachelor's degree,67,61,68,multiple,5.4,self-funded,yes
+male,19,some high school,61,57,56,arts,5.6,government-funded,no
+male,22,associate's degree,61,48,46,volunteering,6.9,government-funded,no
+female,24,some college,50,64,66,arts,8.1,family-sponsored,yes
+female,19,associate's degree,85,91,89,multiple,5.1,scholarship,no
+male,24,some college,67,74,70,none,8.7,government-funded,yes
+male,21,high school,72,67,65,sports,6.5,self-funded,yes
+male,19,high school,61,60,55,sports,5.3,scholarship,no
+female,23,associate's degree,58,63,65,sports,7.7,self-funded,no
+male,25,some college,93,84,90,volunteering,9.0,scholarship,yes
+female,22,some high school,72,81,79,multiple,6.5,scholarship,no
+female,19,some college,70,78,78,sports,5.6,scholarship,yes
+female,22,master's degree,54,64,67,sports,7.2,self-funded,yes
+female,19,associate's degree,56,68,70,volunteering,6.3,scholarship,yes
+female,21,high school,56,52,55,volunteering,6.6,family-sponsored,no
+male,20,some high school,56,61,60,multiple,6.4,government-funded,yes
+female,20,associate's degree,62,74,70,volunteering,5.5,government-funded,no
+female,22,associate's degree,47,49,50,volunteering,7.4,self-funded,no
+male,21,associate's degree,46,43,42,sports,6.5,family-sponsored,no
+female,22,some college,82,90,94,multiple,7.4,self-funded,no
+male,23,high school,62,55,54,multiple,7.7,family-sponsored,no
+female,22,some college,49,65,61,multiple,7.1,government-funded,no
+female,24,some college,63,73,71,volunteering,7.6,scholarship,yes
+female,19,high school,57,75,73,none,5.2,self-funded,yes
+female,19,bachelor's degree,71,70,70,volunteering,5.0,family-sponsored,yes
+female,23,some high school,74,74,72,arts,8.4,self-funded,no
+male,19,high school,70,55,56,volunteering,5.0,scholarship,no
+male,21,associate's degree,78,77,77,arts,6.7,government-funded,yes
+male,19,some high school,67,73,68,volunteering,6.3,self-funded,yes
+female,24,some college,87,89,94,arts,8.5,government-funded,yes
+female,23,some college,53,58,57,multiple,8.2,self-funded,no
+female,22,bachelor's degree,83,93,95,arts,7.2,scholarship,no
+male,22,bachelor's degree,79,74,72,sports,7.1,scholarship,yes
+male,24,some high school,79,82,73,volunteering,7.8,family-sponsored,no
+female,24,some college,64,74,75,sports,9.0,self-funded,no
+male,21,some college,28,23,19,sports,7.3,family-sponsored,no
+male,19,high school,69,58,53,multiple,5.3,government-funded,yes
+female,19,associate's degree,57,77,80,sports,5.1,government-funded,yes
+female,19,some high school,67,84,84,volunteering,5.2,scholarship,no
+female,19,associate's degree,53,71,67,arts,5.0,family-sponsored,no
+female,21,high school,46,54,58,none,6.8,self-funded,yes
+male,20,some high school,76,70,69,volunteering,6.3,scholarship,yes
+male,19,some college,60,63,59,none,5.0,family-sponsored,no
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+male,24,bachelor's degree,49,58,60,sports,8.5,scholarship,yes
+female,22,some high school,65,78,82,volunteering,6.7,family-sponsored,yes
+female,24,master's degree,70,71,74,arts,8.8,scholarship,yes
+male,22,associate's degree,90,87,85,multiple,7.4,scholarship,no
+female,20,associate's degree,40,48,50,multiple,5.8,scholarship,no
+male,23,associate's degree,79,82,82,arts,7.7,scholarship,yes
+male,22,some college,54,52,51,volunteering,6.6,government-funded,no
+female,23,associate's degree,82,80,77,volunteering,8.3,scholarship,no
+male,24,some college,62,66,68,multiple,8.6,scholarship,yes
+male,19,high school,70,65,60,volunteering,5.2,scholarship,no
+female,19,high school,8,24,23,multiple,5.8,scholarship,no
+male,24,high school,68,64,66,none,7.6,government-funded,yes
+female,25,master's degree,87,100,100,multiple,8.9,government-funded,no
+female,19,bachelor's degree,100,100,100,sports,6.1,scholarship,no
+female,20,bachelor's degree,71,76,83,multiple,6.1,scholarship,yes
+female,21,high school,62,67,64,multiple,7.4,government-funded,no
+female,19,some high school,44,51,55,arts,5.1,self-funded,yes
+male,24,some college,68,60,59,arts,7.5,scholarship,no
+male,20,bachelor's degree,39,42,38,multiple,5.8,self-funded,yes
+female,19,associate's degree,68,67,69,volunteering,5.3,government-funded,yes
+female,23,associate's degree,59,73,72,none,7.6,government-funded,yes
+female,24,master's degree,40,58,54,arts,7.7,family-sponsored,no
+female,24,associate's degree,54,61,58,multiple,7.9,scholarship,no
+female,19,some college,64,85,85,multiple,5.2,government-funded,yes
+female,25,bachelor's degree,81,88,90,sports,8.8,government-funded,no
+female,19,some college,45,53,55,sports,5.8,self-funded,no
+male,20,master's degree,95,81,84,multiple,6.2,scholarship,no
+male,20,some college,100,96,86,multiple,5.5,government-funded,yes
+female,23,some high school,32,34,38,multiple,8.0,scholarship,no
+female,21,associate's degree,50,56,54,volunteering,7.4,self-funded,no
+female,23,high school,77,88,85,volunteering,8.3,government-funded,yes
+male,19,high school,72,67,64,arts,5.6,self-funded,yes
+male,19,high school,54,72,59,multiple,6.0,family-sponsored,no
+female,19,some college,63,78,80,multiple,5.0,self-funded,yes
+male,20,bachelor's degree,39,42,38,multiple,5.8,self-funded,yes
+female,25,high school,66,74,78,multiple,8.6,scholarship,yes
+female,22,associate's degree,64,76,74,volunteering,7.0,self-funded,no
+female,21,some high school,59,85,80,arts,6.6,scholarship,yes
+female,23,some college,71,83,83,none,7.5,family-sponsored,no
+female,24,high school,76,76,74,arts,8.7,self-funded,no
+female,25,some college,58,70,67,sports,9.0,scholarship,no
+male,19,some college,76,64,66,volunteering,6.1,government-funded,no
+male,20,high school,68,60,53,sports,5.8,scholarship,no
+female,20,some college,66,74,73,volunteering,5.8,self-funded,yes
+female,20,master's degree,90,95,93,none,6.1,scholarship,no
+female,21,some high school,76,72,71,volunteering,7.2,scholarship,no
+male,23,some college,63,55,63,sports,8.4,self-funded,yes
+male,19,bachelor's degree,91,81,79,volunteering,6.2,scholarship,yes
+female,24,associate's degree,80,86,83,none,8.9,scholarship,no
+female,20,associate's degree,59,70,66,multiple,6.4,self-funded,yes
+female,24,associate's degree,65,84,84,multiple,8.3,scholarship,yes
+female,19,master's degree,54,60,63,multiple,6.4,government-funded,no
 female,21,bachelor's degree,62,72,74,none,7.4,scholarship,no
-male,19,high school,63,63,62,arts,5.8,government-funded,no
-female,25,master's degree,88,99,95,none,8.7,scholarship,yes
-male,23,high school,62,55,55,none,8.0,self-funded,no
+female,19,associate's degree,60,75,74,none,5.2,government-funded,no
+male,19,bachelor's degree,91,81,79,volunteering,6.2,scholarship,yes
+female,24,some high school,71,84,87,arts,7.9,government-funded,yes
+female,19,high school,74,72,72,sports,5.0,self-funded,no
+female,25,high school,69,76,74,none,8.8,family-sponsored,yes
+female,19,some high school,35,55,60,volunteering,6.1,scholarship,yes
+female,21,some high school,59,85,80,arts,6.6,scholarship,yes
+male,22,some college,65,77,74,multiple,7.0,scholarship,yes
+male,23,some college,91,96,91,none,7.6,family-sponsored,yes
+male,23,some college,87,74,70,sports,8.4,government-funded,yes
+male,22,bachelor's degree,91,96,92,none,7.1,family-sponsored,no
+male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
+male,23,master's degree,91,85,85,none,8.1,family-sponsored,yes
+female,25,associate's degree,88,92,95,multiple,8.7,family-sponsored,yes
+male,19,bachelor's degree,61,70,76,multiple,5.4,government-funded,yes
+male,21,bachelor's degree,88,78,83,none,7.1,scholarship,no
+female,25,high school,61,72,70,multiple,8.5,self-funded,no
+female,24,some high school,70,82,76,arts,8.9,government-funded,yes
+female,19,associate's degree,95,89,92,volunteering,6.3,family-sponsored,yes
+female,19,master's degree,85,95,100,multiple,5.3,self-funded,yes
+male,19,some college,53,43,43,arts,5.1,government-funded,no
+female,23,associate's degree,74,88,90,none,7.6,self-funded,yes
+male,21,associate's degree,68,65,61,arts,6.8,scholarship,no
+female,21,associate's degree,65,85,76,arts,6.8,family-sponsored,no
+male,22,bachelor's degree,96,90,92,volunteering,7.1,scholarship,yes
+female,19,high school,58,75,77,sports,6.0,scholarship,yes
+male,21,some high school,74,71,78,none,7.3,self-funded,yes
+female,19,high school,67,80,81,multiple,6.1,family-sponsored,yes
+female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
+female,23,high school,60,72,68,none,7.7,self-funded,no
+female,22,high school,64,62,68,multiple,7.4,scholarship,no
+female,19,some high school,85,90,92,sports,5.3,self-funded,yes
+male,19,some college,77,62,64,none,6.3,government-funded,no
+male,19,high school,66,74,69,sports,5.4,government-funded,no
+female,25,high school,65,81,73,volunteering,8.5,self-funded,no
+female,19,high school,59,72,68,volunteering,5.2,scholarship,no
+female,24,some college,76,83,88,none,8.8,scholarship,no
+male,19,bachelor's degree,62,72,65,arts,5.2,scholarship,no
+female,24,bachelor's degree,59,72,70,multiple,7.7,government-funded,no
+male,19,high school,57,56,54,multiple,5.2,self-funded,yes
+male,20,some high school,63,67,67,arts,6.4,self-funded,yes
+female,23,high school,49,57,52,arts,8.1,scholarship,no
+male,21,associate's degree,62,61,58,sports,6.5,family-sponsored,yes
+female,25,associate's degree,88,92,95,multiple,8.7,family-sponsored,yes
+female,21,some college,35,44,43,sports,6.6,scholarship,no
+female,25,master's degree,45,56,54,sports,8.7,self-funded,no
+male,22,some college,58,59,58,multiple,6.7,family-sponsored,yes
+male,20,some high school,63,67,67,arts,6.4,self-funded,yes
+female,21,some high school,77,91,88,volunteering,7.4,family-sponsored,no
+female,19,some college,83,83,90,multiple,5.4,scholarship,no
+male,20,master's degree,73,74,72,sports,5.5,scholarship,no
+female,19,some college,82,97,96,volunteering,5.3,self-funded,yes
+male,24,high school,68,64,66,none,7.6,government-funded,yes
+male,24,bachelor's degree,49,58,60,sports,8.5,scholarship,yes
+female,23,master's degree,56,72,65,volunteering,8.4,family-sponsored,no
+male,21,some college,59,62,61,none,7.0,government-funded,no
+male,19,some college,85,75,68,volunteering,5.9,family-sponsored,yes
+male,20,associate's degree,94,85,82,volunteering,6.0,scholarship,yes
+male,24,some high school,68,54,53,volunteering,7.9,government-funded,no
+female,20,high school,72,80,83,volunteering,5.6,self-funded,no
+male,24,high school,60,57,51,none,8.7,self-funded,no
+female,21,high school,62,62,63,none,6.9,family-sponsored,no
+female,19,some high school,74,75,82,arts,5.3,government-funded,no
+female,24,some high school,59,63,64,sports,7.9,scholarship,yes
+male,19,associate's degree,71,74,68,multiple,5.3,scholarship,yes
+female,23,bachelor's degree,99,100,100,multiple,7.7,government-funded,yes
+female,20,high school,34,42,39,volunteering,5.8,scholarship,no
+male,24,high school,50,48,42,sports,8.8,scholarship,no
+male,25,high school,57,50,54,arts,8.5,scholarship,no
+female,24,some college,69,65,74,arts,7.8,family-sponsored,no
+female,21,associate's degree,26,31,38,volunteering,7.1,scholarship,no
+female,23,associate's degree,59,73,72,none,7.6,government-funded,yes
+female,21,some high school,52,67,72,sports,7.4,family-sponsored,yes
+female,22,associate's degree,40,59,51,multiple,6.5,family-sponsored,no
+male,20,associate's degree,67,54,63,sports,6.1,self-funded,yes
+female,22,some college,61,64,62,arts,7.0,scholarship,no
+male,21,some high school,78,83,80,arts,6.6,government-funded,yes
+female,23,bachelor's degree,99,100,100,multiple,7.7,government-funded,yes
+female,19,some college,70,78,78,sports,5.6,scholarship,yes
+male,21,associate's degree,97,92,86,arts,7.1,self-funded,yes
+female,22,associate's degree,83,86,88,volunteering,7.4,self-funded,yes
+male,19,some college,70,63,58,multiple,5.4,family-sponsored,no
+female,19,some high school,80,92,88,multiple,5.0,family-sponsored,yes
+female,20,associate's degree,65,77,74,sports,5.6,scholarship,no
+male,24,some college,69,54,55,none,8.4,scholarship,no
+female,22,some high school,59,73,69,sports,6.6,family-sponsored,no
+female,21,some high school,52,67,72,sports,7.4,family-sponsored,yes
+female,19,some college,77,90,91,none,5.0,scholarship,no
+female,21,some college,62,67,62,none,7.1,government-funded,no
+male,20,some college,88,85,76,volunteering,6.3,government-funded,yes
+female,19,high school,67,80,81,multiple,6.1,family-sponsored,yes
+male,25,some high school,74,63,57,multiple,8.7,scholarship,no
+male,25,some college,83,80,73,multiple,8.8,scholarship,no
+female,24,some college,69,84,82,none,8.0,self-funded,no
+female,19,some high school,44,51,55,arts,5.1,self-funded,yes
+male,25,high school,47,46,42,none,8.6,scholarship,no
+female,21,some college,42,55,54,arts,6.8,self-funded,yes
+male,22,some high school,62,66,68,arts,6.6,self-funded,yes
+female,19,some high school,44,51,55,arts,5.1,self-funded,yes
+female,19,some college,70,78,78,sports,5.6,scholarship,yes
+male,20,some college,100,96,86,multiple,5.5,government-funded,yes
+male,22,some college,58,50,45,none,7.1,family-sponsored,no
+female,25,some high school,76,87,85,sports,8.8,scholarship,yes
+female,21,associate's degree,90,90,91,none,6.8,self-funded,yes
+male,24,some college,66,57,52,volunteering,8.4,scholarship,no
+male,24,some college,75,68,65,arts,7.6,self-funded,no
+female,23,some high school,62,64,66,multiple,8.0,government-funded,no
+female,25,high school,29,29,30,none,9.0,scholarship,no
+male,20,some college,53,44,42,none,6.1,self-funded,no
+male,19,high school,44,51,48,volunteering,5.1,self-funded,no
+male,22,high school,84,73,69,sports,6.6,government-funded,no
+female,24,some college,70,75,78,volunteering,7.9,scholarship,no
+male,23,associate's degree,87,85,73,sports,8.1,scholarship,no
+female,22,associate's degree,53,62,53,arts,7.3,self-funded,no
+female,24,some high school,64,79,77,none,8.2,scholarship,yes
+male,24,associate's degree,58,54,52,none,8.6,government-funded,no
+male,23,some college,53,39,37,sports,7.7,self-funded,no
+female,23,master's degree,77,82,91,none,8.0,family-sponsored,yes
+male,21,associate's degree,67,62,60,none,6.7,self-funded,no
+female,25,some high school,76,87,85,sports,8.8,scholarship,yes
+male,19,high school,57,56,54,multiple,5.2,self-funded,yes
+male,23,high school,62,67,58,none,7.5,self-funded,no
+male,20,associate's degree,94,85,82,volunteering,6.0,scholarship,yes
+male,20,some college,69,77,77,multiple,5.6,scholarship,yes
+male,23,bachelor's degree,80,78,81,arts,8.0,self-funded,yes
+female,20,some high school,63,78,79,arts,5.7,government-funded,yes
+female,22,master's degree,54,64,67,sports,7.2,self-funded,yes
+male,22,high school,89,87,79,multiple,6.7,family-sponsored,no
 female,19,high school,59,71,65,none,5.2,family-sponsored,yes
-female,22,some college,68,78,77,sports,7.4,scholarship,yes
+male,24,bachelor's degree,37,56,47,none,8.0,self-funded,no
+female,25,some college,71,70,76,volunteering,8.8,government-funded,no
+female,21,high school,36,53,43,sports,6.7,scholarship,no
+female,24,bachelor's degree,47,62,66,volunteering,8.8,self-funded,yes
+male,22,some high school,51,31,36,volunteering,6.7,scholarship,no
+male,24,some high school,78,72,69,sports,8.3,self-funded,yes
+male,19,high school,57,51,54,arts,6.2,government-funded,no
+female,19,high school,57,75,73,none,5.2,self-funded,yes
+male,24,some college,79,67,67,sports,8.4,family-sponsored,no
+female,22,high school,66,76,68,arts,7.4,family-sponsored,no
+female,23,bachelor's degree,59,70,73,volunteering,8.4,self-funded,no
+female,24,associate's degree,65,84,84,multiple,8.3,scholarship,yes
+male,23,high school,71,66,65,multiple,7.9,scholarship,no
+male,21,some college,76,83,79,sports,6.7,family-sponsored,yes
+male,24,high school,58,52,54,none,7.9,government-funded,yes
+male,22,some college,69,64,68,volunteering,6.6,government-funded,no
+female,19,high school,67,80,81,multiple,6.1,family-sponsored,yes
+female,19,some college,88,95,92,volunteering,6.3,family-sponsored,yes
+male,19,associate's degree,65,67,65,none,5.4,self-funded,yes
+male,19,associate's degree,73,78,72,none,5.7,government-funded,yes
+male,20,bachelor's degree,85,66,71,none,5.5,scholarship,yes
+female,23,associate's degree,75,90,88,multiple,8.1,self-funded,yes
+female,20,some high school,63,78,79,arts,5.7,government-funded,yes
+male,23,associate's degree,91,89,92,volunteering,8.2,family-sponsored,yes
+male,23,bachelor's degree,68,74,74,sports,8.2,scholarship,yes
+female,23,some high school,68,71,75,sports,8.0,family-sponsored,no
+female,23,associate's degree,59,73,72,none,7.6,government-funded,yes
+male,23,some high school,75,74,69,sports,7.7,self-funded,no
+male,22,bachelor's degree,96,90,92,volunteering,7.1,scholarship,yes
+female,23,high school,68,80,76,multiple,7.5,family-sponsored,yes
+female,24,some high school,49,58,55,multiple,8.8,family-sponsored,no
+male,23,some college,66,65,60,multiple,7.8,government-funded,no
+female,19,associate's degree,57,68,73,none,5.0,scholarship,yes
+male,20,bachelor's degree,39,42,38,multiple,5.8,self-funded,yes
+male,22,some high school,79,85,86,none,6.6,government-funded,yes
+male,22,bachelor's degree,83,78,73,none,7.0,government-funded,no
+male,23,associate's degree,49,51,43,none,8.3,self-funded,no
+male,24,associate's degree,87,100,95,none,8.1,self-funded,yes
+male,19,some high school,85,84,78,arts,6.1,family-sponsored,yes
+male,24,some college,54,54,45,arts,8.9,family-sponsored,no
+male,21,high school,76,62,60,sports,6.7,government-funded,yes
+female,24,high school,54,64,68,sports,8.6,self-funded,no
+female,22,some college,69,90,88,volunteering,6.7,self-funded,yes
+male,22,associate's degree,47,57,44,multiple,7.3,scholarship,no
+male,20,some college,63,61,60,arts,6.3,scholarship,no
+female,23,high school,74,79,80,none,7.5,scholarship,yes
+male,22,associate's degree,100,100,93,sports,6.7,family-sponsored,yes
+female,21,associate's degree,67,84,86,none,7.1,family-sponsored,yes
+female,24,some college,75,77,83,arts,9.0,family-sponsored,yes
+male,19,associate's degree,81,73,72,multiple,5.5,self-funded,no
+female,22,some high school,57,67,72,none,6.6,scholarship,no
+female,19,bachelor's degree,66,83,83,volunteering,5.9,government-funded,yes
+female,19,some college,88,95,92,volunteering,6.3,family-sponsored,yes
+male,24,some high school,78,72,69,sports,8.3,self-funded,yes
+female,23,bachelor's degree,65,79,81,sports,7.5,scholarship,no
+male,19,bachelor's degree,67,61,68,multiple,5.4,self-funded,yes
+male,19,some college,99,87,81,sports,5.4,government-funded,yes
+male,25,some high school,63,60,57,volunteering,8.7,scholarship,yes
+male,20,some high school,47,49,49,volunteering,5.7,scholarship,yes
+male,22,some high school,49,50,52,multiple,6.8,family-sponsored,yes
+male,20,some high school,63,67,67,arts,6.4,self-funded,yes
+female,24,associate's degree,94,87,92,volunteering,8.3,family-sponsored,yes
+female,20,some high school,77,90,85,volunteering,6.3,family-sponsored,yes
+female,24,bachelor's degree,63,75,81,arts,9.0,self-funded,no
+male,20,some college,53,55,48,multiple,5.7,scholarship,no
+female,19,some high school,65,76,75,sports,5.4,scholarship,yes
+female,23,some college,79,86,81,multiple,8.3,self-funded,no
+female,20,master's degree,81,86,87,none,5.8,government-funded,no
+male,24,high school,57,43,47,sports,8.4,self-funded,no
+male,19,high school,61,56,55,none,5.6,self-funded,no
+female,23,associate's degree,71,71,74,none,7.8,government-funded,no
+male,23,some college,87,84,86,sports,7.7,self-funded,yes
+male,21,some college,50,48,53,none,7.3,scholarship,yes
+male,19,associate's degree,82,78,74,arts,6.3,government-funded,yes
+female,25,some college,51,58,54,volunteering,8.6,self-funded,no
+female,24,some high school,70,82,76,arts,8.9,government-funded,yes
+male,21,associate's degree,71,66,60,volunteering,7.0,scholarship,no
+male,22,some college,65,77,74,multiple,7.0,scholarship,yes
+female,24,some college,75,88,85,none,8.7,scholarship,yes
+female,23,high school,74,79,80,none,7.5,scholarship,yes
+male,24,bachelor's degree,49,58,60,sports,8.5,scholarship,yes
+male,20,associate's degree,58,57,53,multiple,6.3,self-funded,yes
+female,19,associate's degree,57,68,73,none,5.0,scholarship,yes
+male,21,some high school,75,72,62,volunteering,6.9,family-sponsored,no
+female,25,associate's degree,56,65,63,multiple,8.9,scholarship,no
+male,19,some college,79,79,78,volunteering,6.1,family-sponsored,yes
+female,24,some high school,65,74,77,arts,8.6,scholarship,yes
+male,20,high school,53,52,42,none,6.2,scholarship,no
+male,21,high school,49,45,45,sports,6.9,family-sponsored,no
+male,24,some high school,73,66,66,multiple,8.6,family-sponsored,no
+female,23,high school,41,45,40,none,7.5,self-funded,no
+female,25,high school,44,61,52,sports,8.5,scholarship,no
+male,21,associate's degree,40,52,43,sports,7.0,scholarship,no
+female,24,some college,73,76,78,multiple,9.0,government-funded,no
+male,19,high school,72,65,68,sports,5.4,scholarship,yes
+male,19,some college,49,57,46,none,5.3,self-funded,no
+female,19,associate's degree,71,77,77,none,6.2,self-funded,yes
+female,19,associate's degree,76,94,87,volunteering,5.3,scholarship,yes
+male,21,some college,69,66,60,arts,6.6,scholarship,no
+female,21,master's degree,40,59,54,none,6.5,family-sponsored,no
+female,22,associate's degree,61,86,87,multiple,7.0,self-funded,yes
+male,23,associate's degree,46,43,41,arts,7.5,government-funded,no
+female,19,some college,58,59,66,sports,5.6,family-sponsored,no
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+female,21,bachelor's degree,61,72,70,volunteering,7.3,government-funded,no
+male,19,associate's degree,47,37,35,multiple,5.0,self-funded,no
+female,22,some college,78,87,91,sports,6.6,family-sponsored,yes
+female,23,associate's degree,75,90,88,multiple,8.1,self-funded,yes
+male,24,associate's degree,77,67,64,sports,8.5,government-funded,no
+male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
+male,24,associate's degree,64,66,59,volunteering,7.8,self-funded,no
+male,22,some high school,62,66,68,arts,6.6,self-funded,yes
+male,22,some high school,78,81,86,none,6.6,self-funded,yes
+female,22,some college,84,87,91,arts,6.5,scholarship,no
+male,20,some college,40,42,38,sports,6.1,government-funded,no
+female,19,some high school,55,65,62,sports,6.3,family-sponsored,no
+female,23,high school,60,64,74,multiple,7.6,family-sponsored,yes
+male,22,associate's degree,69,70,63,multiple,7.2,government-funded,yes
+female,21,some high school,60,70,70,sports,6.8,government-funded,yes
+female,24,some college,75,88,85,none,8.7,scholarship,yes
+male,23,some high school,76,80,73,multiple,7.6,self-funded,yes
+female,20,associate's degree,57,69,68,sports,5.9,government-funded,no
+female,23,high school,41,46,43,arts,8.4,government-funded,no
+female,22,some college,69,90,88,volunteering,6.7,self-funded,yes
+female,20,some high school,50,64,59,none,6.3,government-funded,no
+male,23,bachelor's degree,68,68,64,none,7.6,family-sponsored,no
+female,24,bachelor's degree,43,51,54,arts,7.9,self-funded,yes
+female,23,associate's degree,37,57,56,multiple,7.9,family-sponsored,no
+female,23,associate's degree,39,64,57,sports,7.9,self-funded,no
+male,19,high school,48,45,41,none,5.4,self-funded,no
+female,24,some college,63,73,71,volunteering,7.6,scholarship,yes
+female,23,associate's degree,68,67,73,volunteering,8.4,self-funded,yes
+female,20,associate's degree,65,77,74,multiple,5.8,government-funded,no
+male,23,some high school,46,41,43,arts,7.8,scholarship,yes
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+female,21,associate's degree,63,67,70,sports,7.1,scholarship,no
+female,23,associate's degree,82,93,93,multiple,7.5,self-funded,yes
+female,25,some high school,85,92,93,volunteering,8.6,government-funded,yes
+female,23,some college,88,93,93,volunteering,8.1,government-funded,yes
+male,23,associate's degree,87,73,72,arts,8.4,government-funded,no
+female,19,associate's degree,95,89,92,volunteering,6.3,family-sponsored,yes
+male,19,high school,58,51,52,volunteering,5.4,family-sponsored,yes
+male,23,associate's degree,75,68,64,volunteering,8.3,scholarship,no
+female,19,some college,53,66,73,none,5.2,government-funded,yes
+male,25,high school,72,66,66,none,8.8,self-funded,no
+male,20,some college,100,96,86,multiple,5.5,government-funded,yes
+female,24,high school,76,85,82,none,8.2,scholarship,yes
+male,20,bachelor's degree,68,68,67,sports,5.6,government-funded,no
+female,25,some high school,50,60,60,none,8.7,family-sponsored,yes
+male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
+female,23,bachelor's degree,65,67,62,sports,7.5,family-sponsored,no
+female,23,high school,69,77,73,multiple,8.2,family-sponsored,no
+female,19,some college,70,78,78,sports,5.6,scholarship,yes
+male,22,some high school,62,67,69,multiple,7.4,self-funded,yes
+male,24,high school,73,64,57,none,9.0,government-funded,no
+male,24,high school,60,44,47,arts,7.9,family-sponsored,yes
+female,22,bachelor's degree,52,61,66,arts,7.2,self-funded,yes
+male,19,some high school,64,58,51,volunteering,5.4,government-funded,no
+male,23,high school,75,69,68,sports,8.1,family-sponsored,yes
+female,22,some high school,65,78,82,volunteering,6.7,family-sponsored,yes
+male,24,high school,74,70,69,sports,8.4,self-funded,no
+male,21,associate's degree,83,72,78,multiple,7.4,scholarship,no
+female,20,some college,63,65,61,sports,5.6,family-sponsored,no
+female,20,some high school,44,45,45,arts,6.4,government-funded,no
+male,19,some high school,77,76,77,none,6.3,government-funded,yes
+female,19,some high school,47,54,53,sports,5.3,scholarship,no
+female,22,master's degree,74,79,82,arts,7.0,self-funded,no
+female,19,some high school,67,74,77,sports,5.5,self-funded,yes
+male,22,some college,65,77,74,multiple,7.0,scholarship,yes
+female,19,some high school,44,50,51,arts,5.2,self-funded,no
+male,24,high school,71,74,64,volunteering,7.8,scholarship,no
+female,21,associate's degree,96,96,99,multiple,7.4,self-funded,yes
+male,21,master's degree,61,67,66,volunteering,6.7,scholarship,no
+female,23,some college,88,93,93,volunteering,8.1,government-funded,yes
+female,24,associate's degree,87,94,95,none,8.7,self-funded,no
+male,19,high school,82,82,80,arts,5.3,family-sponsored,no
+female,19,associate's degree,46,61,55,none,5.5,self-funded,no
+male,21,some high school,74,71,78,none,7.3,self-funded,yes
+male,19,some college,65,58,49,none,5.6,scholarship,no
+male,19,high school,52,53,49,volunteering,6.4,government-funded,no
+female,19,high school,72,80,75,volunteering,5.1,scholarship,no
+female,24,associate's degree,59,62,69,multiple,7.7,family-sponsored,no
+female,25,some college,42,66,69,multiple,8.8,self-funded,yes
+male,21,some high school,78,83,80,arts,6.6,government-funded,yes
+male,20,some high school,63,67,67,arts,6.4,self-funded,yes
+female,19,master's degree,61,71,78,sports,5.5,self-funded,yes
+male,24,master's degree,67,57,59,volunteering,7.7,family-sponsored,no
+male,21,high school,72,67,65,sports,6.5,self-funded,yes
+female,20,bachelor's degree,92,100,99,none,6.3,self-funded,yes
+male,23,some college,91,96,91,none,7.6,family-sponsored,yes
+male,22,associate's degree,65,54,57,none,7.2,family-sponsored,no
+male,24,some high school,59,42,41,sports,7.5,government-funded,no
+male,22,associate's degree,55,61,54,multiple,6.8,family-sponsored,no
+female,19,associate's degree,71,77,77,none,6.2,self-funded,yes
+female,25,some college,77,68,77,sports,8.5,government-funded,no
+female,24,associate's degree,55,72,79,volunteering,8.4,scholarship,yes
+female,19,some college,54,63,67,none,6.4,scholarship,no
+male,23,some high school,76,80,73,multiple,7.6,self-funded,yes
+male,24,associate's degree,81,75,78,arts,8.7,self-funded,no
+male,23,associate's degree,46,43,44,multiple,8.3,self-funded,yes
+male,22,some college,59,41,42,sports,7.4,government-funded,no
+female,21,bachelor's degree,96,100,100,arts,6.5,scholarship,yes
+male,19,some high school,89,88,82,arts,5.0,scholarship,yes
+male,19,some high school,77,76,77,none,6.3,government-funded,yes
+female,19,high school,23,44,36,multiple,5.1,government-funded,yes
+male,19,bachelor's degree,55,46,44,multiple,6.4,scholarship,no
+male,23,bachelor's degree,87,84,87,none,7.7,scholarship,yes
+male,19,high school,46,34,36,multiple,5.4,scholarship,no
+female,21,some high school,38,43,43,sports,7.4,self-funded,no
+female,24,some high school,80,90,82,multiple,8.4,family-sponsored,no
+male,23,some high school,69,71,65,arts,7.9,self-funded,no
+male,23,high school,27,34,36,multiple,8.0,self-funded,no
+female,23,master's degree,77,82,91,none,8.0,family-sponsored,yes
+male,24,high school,55,41,48,none,8.8,self-funded,yes
+female,19,some high school,44,51,55,arts,5.1,self-funded,yes
+female,19,high school,87,95,86,none,5.1,family-sponsored,no
+female,19,high school,59,71,65,none,5.2,family-sponsored,yes
+female,23,some high school,40,65,64,arts,8.4,scholarship,yes
+male,25,some college,62,57,62,none,8.8,scholarship,no
+female,25,high school,69,77,78,arts,8.8,government-funded,yes
+female,19,some high school,48,58,52,arts,5.0,government-funded,no
+female,21,some college,70,72,76,multiple,6.6,self-funded,yes
+female,19,associate's degree,76,94,87,volunteering,5.3,scholarship,yes
+male,19,some college,71,75,70,arts,5.4,family-sponsored,yes
+male,19,some high school,51,54,41,arts,5.9,self-funded,yes
+female,20,some high school,61,74,72,arts,6.3,self-funded,yes
+male,19,associate's degree,61,55,52,multiple,5.2,self-funded,no
+female,23,some college,65,75,70,none,8.2,scholarship,yes
+male,22,associate's degree,72,57,62,volunteering,7.2,family-sponsored,no
+female,19,high school,54,59,62,arts,6.0,scholarship,no
+male,19,associate's degree,81,82,82,none,5.4,self-funded,yes
+male,19,master's degree,54,59,50,sports,5.4,family-sponsored,no
+male,24,high school,68,64,66,none,7.6,government-funded,yes
+female,23,some high school,66,78,78,volunteering,7.9,family-sponsored,yes
+female,23,bachelor's degree,97,97,96,arts,8.4,scholarship,no
+male,19,associate's degree,79,82,80,none,5.4,scholarship,yes
+female,23,bachelor's degree,51,72,79,arts,7.5,self-funded,yes
+male,24,some college,67,74,70,none,8.7,government-funded,yes
+female,24,some college,70,89,88,multiple,8.4,family-sponsored,yes
+male,20,some high school,47,49,49,volunteering,5.7,scholarship,yes
+female,23,high school,77,82,89,arts,7.7,scholarship,yes
+male,23,high school,84,77,74,none,7.7,scholarship,no
+female,23,bachelor's degree,64,73,70,none,8.3,government-funded,no
+female,22,some college,69,79,81,multiple,6.9,self-funded,yes
+female,24,high school,69,72,77,arts,8.0,self-funded,no
+female,22,master's degree,50,53,58,sports,6.9,scholarship,no
+female,24,associate's degree,65,84,84,multiple,8.3,scholarship,yes
+female,24,master's degree,65,81,81,volunteering,8.8,family-sponsored,yes
+female,24,associate's degree,55,76,76,arts,8.8,family-sponsored,no
+female,19,some college,62,73,70,arts,5.2,scholarship,no
+male,21,some college,81,74,71,volunteering,6.7,scholarship,yes
+male,20,some college,69,77,77,multiple,5.6,scholarship,yes
+female,25,some college,55,71,69,sports,9.0,government-funded,no
+male,20,bachelor's degree,71,74,68,arts,6.4,government-funded,yes
+male,25,high school,66,69,63,multiple,8.6,family-sponsored,no
+female,23,associate's degree,82,93,93,multiple,7.5,self-funded,yes
+female,24,some high school,59,63,64,sports,7.9,scholarship,yes
+female,19,high school,57,75,73,none,5.2,self-funded,yes
+female,24,high school,67,78,79,arts,8.3,scholarship,yes
+female,25,some high school,38,49,45,sports,8.6,self-funded,no
+male,22,bachelor's degree,66,60,57,volunteering,6.9,self-funded,no
+male,21,high school,79,60,65,multiple,6.8,family-sponsored,no
+male,21,high school,72,67,65,sports,6.5,self-funded,yes
+male,24,associate's degree,57,54,56,arts,7.6,self-funded,yes
+male,24,associate's degree,61,58,56,multiple,7.7,scholarship,no
+female,19,master's degree,61,71,78,sports,5.5,self-funded,yes
+male,22,some college,76,71,73,multiple,6.5,family-sponsored,no
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+male,21,some college,69,60,54,multiple,7.2,government-funded,no
+male,24,associate's degree,77,78,73,arts,8.7,government-funded,no
+male,21,high school,69,70,67,volunteering,7.1,government-funded,no
+female,25,associate's degree,88,92,95,multiple,8.7,family-sponsored,yes
+male,19,bachelor's degree,61,70,76,multiple,5.4,government-funded,yes
+female,20,some high school,61,74,72,arts,6.3,self-funded,yes
+male,19,some high school,94,88,78,none,5.0,self-funded,no
+female,20,high school,42,62,60,multiple,5.5,government-funded,no
+male,24,some college,62,61,57,sports,8.8,government-funded,no
+male,21,some high school,62,64,55,sports,7.4,self-funded,no
+male,24,some high school,65,66,62,none,8.5,government-funded,yes
+female,24,some college,54,48,52,multiple,8.4,government-funded,no
+male,22,high school,36,29,27,none,6.7,scholarship,no
+male,20,some college,100,96,86,multiple,5.5,government-funded,yes
+female,25,associate's degree,53,70,70,arts,8.7,scholarship,no
+female,23,some college,58,67,72,none,8.4,scholarship,no
+male,20,some high school,63,67,67,arts,6.4,self-funded,yes
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+male,22,associate's degree,63,61,61,volunteering,7.2,government-funded,no
+male,24,high school,55,41,48,none,8.8,self-funded,yes
+female,24,some high school,70,82,76,arts,8.9,government-funded,yes
+female,20,some college,71,71,80,arts,5.8,scholarship,yes
+female,23,high school,81,84,82,sports,8.4,self-funded,no
+female,19,some high school,59,54,67,multiple,5.4,self-funded,yes
+male,22,some high school,66,68,64,sports,6.7,self-funded,yes
 female,24,some college,77,86,86,arts,7.9,family-sponsored,no
+female,21,high school,66,72,70,arts,7.1,self-funded,no
+female,22,associate's degree,53,61,62,arts,6.9,self-funded,no
+male,19,some high school,60,59,54,arts,6.3,government-funded,no
+female,22,some high school,54,61,62,volunteering,7.2,family-sponsored,yes
+female,21,bachelor's degree,96,100,100,arts,6.5,scholarship,yes
+female,23,high school,77,88,85,volunteering,8.3,government-funded,yes
+male,22,associate's degree,90,90,82,sports,6.8,family-sponsored,no
+female,21,associate's degree,96,96,99,multiple,7.4,self-funded,yes
+male,20,some college,76,71,72,arts,6.3,scholarship,no
+female,25,associate's degree,41,51,48,sports,8.8,scholarship,no
+male,19,some college,82,82,88,none,5.2,self-funded,yes
+male,22,high school,53,51,51,none,7.2,scholarship,yes
+male,19,master's degree,89,84,82,arts,5.0,family-sponsored,no
+male,24,bachelor's degree,53,58,55,arts,7.6,self-funded,no
+female,24,associate's degree,81,77,79,volunteering,8.8,family-sponsored,no
+female,24,bachelor's degree,73,79,84,none,8.6,government-funded,no
+female,19,some high school,71,83,77,multiple,5.2,scholarship,no
+female,24,some high school,65,82,78,multiple,7.5,government-funded,yes
+male,19,high school,70,70,70,arts,5.7,self-funded,no
+female,23,some high school,59,58,59,multiple,7.7,government-funded,no
+female,24,associate's degree,59,66,67,sports,7.5,family-sponsored,no
+male,19,associate's degree,82,78,74,arts,6.3,government-funded,yes
+male,21,high school,73,69,68,volunteering,6.7,self-funded,yes
+female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
+female,22,associate's degree,53,58,65,arts,6.7,scholarship,no
+male,19,high school,80,76,65,multiple,5.0,government-funded,no
+female,23,some college,62,70,72,sports,7.9,self-funded,no
+female,21,some college,55,69,65,arts,7.3,family-sponsored,no
+male,19,high school,72,65,68,sports,5.4,scholarship,yes
+female,23,some college,79,84,91,volunteering,7.6,family-sponsored,yes
+female,24,some high school,65,82,78,multiple,7.5,government-funded,yes
+male,20,some college,100,96,86,multiple,5.5,government-funded,yes
+male,22,high school,59,53,52,volunteering,7.0,government-funded,no
+male,21,master's degree,79,72,69,volunteering,6.5,scholarship,no
+female,20,some high school,77,90,85,volunteering,6.3,family-sponsored,yes
+female,22,some high school,47,59,50,arts,6.7,government-funded,no
+female,19,associate's degree,76,94,87,volunteering,5.3,scholarship,yes
+male,19,some college,100,97,99,none,5.6,scholarship,yes
+female,22,bachelor's degree,77,94,95,multiple,6.8,family-sponsored,yes
+male,19,high school,72,67,64,arts,5.6,self-funded,yes
+female,20,bachelor's degree,71,76,83,multiple,6.1,scholarship,yes
+female,19,bachelor's degree,63,73,78,sports,5.0,government-funded,no
+female,24,some high school,71,84,87,arts,7.9,government-funded,yes
+male,23,some college,91,74,76,multiple,7.6,family-sponsored,no
+female,25,bachelor's degree,67,75,72,none,8.9,scholarship,no
+female,23,master's degree,81,92,91,arts,7.7,family-sponsored,no
+female,24,high school,67,78,79,arts,8.3,scholarship,yes
+female,24,master's degree,53,61,68,sports,8.3,scholarship,no
+female,22,some college,54,64,65,none,7.0,family-sponsored,no
+female,24,master's degree,73,78,74,sports,7.5,scholarship,no
+male,25,high school,73,68,66,arts,8.5,self-funded,yes
+male,23,high school,53,52,49,arts,8.4,self-funded,yes
+male,19,associate's degree,87,74,76,sports,5.0,family-sponsored,no
+female,19,some college,58,63,73,volunteering,5.6,self-funded,yes
+male,23,bachelor's degree,80,78,81,arts,8.0,self-funded,yes
+female,24,some college,63,73,71,volunteering,7.6,scholarship,yes
+male,19,bachelor's degree,70,68,72,arts,5.0,family-sponsored,yes
+male,20,some high school,56,61,60,multiple,6.4,government-funded,yes
+female,20,bachelor's degree,92,100,99,none,6.3,self-funded,yes
+female,24,associate's degree,73,83,76,volunteering,7.7,self-funded,no
+female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
+male,24,some high school,45,37,37,multiple,8.3,self-funded,no
+male,24,high school,82,84,82,multiple,8.6,family-sponsored,yes
+male,19,associate's degree,61,42,41,none,5.8,family-sponsored,no
+female,22,associate's degree,58,73,68,sports,6.5,self-funded,no
+male,19,some high school,67,64,61,arts,5.0,scholarship,no
+female,19,high school,53,72,64,volunteering,5.2,self-funded,no
+female,24,master's degree,92,100,100,sports,7.9,self-funded,no
+male,23,bachelor's degree,68,74,74,sports,8.2,scholarship,yes
+female,22,some high school,48,66,65,volunteering,7.1,family-sponsored,no
+male,20,bachelor's degree,39,42,38,multiple,5.8,self-funded,yes
+male,20,bachelor's degree,55,59,54,none,6.4,scholarship,no
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+male,24,some high school,79,76,65,sports,8.6,scholarship,no
+female,19,master's degree,47,58,67,arts,6.4,family-sponsored,yes
+male,24,master's degree,72,66,72,volunteering,8.3,government-funded,yes
+male,19,high school,72,65,68,sports,5.4,scholarship,yes
+female,22,bachelor's degree,78,79,76,sports,6.6,scholarship,no
+female,23,some college,79,84,91,volunteering,7.6,family-sponsored,yes
+male,19,high school,63,63,62,arts,5.8,government-funded,no
+female,24,some high school,63,73,68,multiple,9.0,self-funded,no
+female,22,some high school,43,53,53,arts,7.3,family-sponsored,no
+male,23,bachelor's degree,100,100,100,multiple,7.9,scholarship,yes
+female,22,some college,69,79,81,multiple,6.9,self-funded,yes
+male,19,bachelor's degree,66,64,62,volunteering,5.6,family-sponsored,no
+male,24,associate's degree,65,65,63,sports,8.9,self-funded,yes
+male,24,some college,69,67,69,volunteering,8.1,self-funded,no
+female,19,some college,46,64,66,arts,5.4,family-sponsored,no
+male,19,high school,78,77,80,volunteering,6.4,family-sponsored,yes
+male,19,some high school,48,52,45,multiple,5.0,scholarship,no
+female,23,high school,77,88,85,volunteering,8.3,government-funded,yes
+male,19,some high school,85,84,78,arts,6.1,family-sponsored,yes
+male,22,master's degree,82,82,74,none,6.9,government-funded,no
+female,21,high school,50,53,55,sports,6.9,self-funded,no
+male,21,associate's degree,80,75,69,arts,6.8,family-sponsored,no
+male,22,associate's degree,69,70,63,multiple,7.2,government-funded,yes
+female,19,associate's degree,77,77,73,multiple,5.9,government-funded,no
+female,23,high school,77,88,85,volunteering,8.3,government-funded,yes
+female,19,associate's degree,52,59,62,volunteering,5.6,family-sponsored,yes
+male,22,some college,76,67,67,volunteering,7.1,family-sponsored,no
+female,22,associate's degree,79,88,94,arts,7.1,family-sponsored,yes
+female,21,bachelor's degree,96,100,100,arts,6.5,scholarship,yes
+female,25,some college,76,78,80,sports,8.8,government-funded,no
+female,24,bachelor's degree,37,45,38,sports,8.2,scholarship,no
+male,23,some college,91,96,91,none,7.6,family-sponsored,yes
+male,20,some high school,65,59,53,none,6.2,scholarship,no
+female,23,associate's degree,83,85,90,sports,7.7,government-funded,yes
+male,22,some college,55,55,47,multiple,6.7,self-funded,no
+male,19,some high school,61,62,61,none,5.5,self-funded,yes
+male,21,some high school,49,49,41,volunteering,7.1,scholarship,no
+female,19,associate's degree,76,94,87,volunteering,5.3,scholarship,yes
+female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
+male,23,some college,41,39,34,volunteering,7.7,government-funded,no
+male,24,master's degree,62,68,75,volunteering,8.8,scholarship,yes
+female,19,associate's degree,76,94,87,volunteering,5.3,scholarship,yes
+male,24,associate's degree,81,71,73,multiple,8.1,self-funded,no
+male,23,high school,62,55,55,none,8.0,self-funded,no
+female,23,bachelor's degree,67,86,83,arts,7.7,scholarship,no
+female,25,high school,69,76,74,none,8.8,family-sponsored,yes
+male,21,associate's degree,97,92,86,arts,7.1,self-funded,yes
+male,23,high school,42,39,34,multiple,8.0,government-funded,no
+male,23,high school,53,52,49,arts,8.4,self-funded,yes
+male,20,some high school,76,70,69,volunteering,6.3,scholarship,yes
+female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
+female,22,associate's degree,82,85,86,none,7.1,self-funded,yes
+male,24,associate's degree,64,56,52,volunteering,8.8,family-sponsored,no
+male,24,high school,81,80,76,volunteering,9.0,family-sponsored,yes
+female,24,associate's degree,94,87,92,volunteering,8.3,family-sponsored,yes
+male,19,associate's degree,79,82,80,none,5.4,scholarship,yes
+female,19,master's degree,78,91,96,multiple,5.6,government-funded,no
+female,19,high school,65,64,62,multiple,5.2,scholarship,no
+male,24,associate's degree,66,62,64,arts,8.6,family-sponsored,no
+female,25,bachelor's degree,66,74,81,multiple,8.5,family-sponsored,yes
+male,20,associate's degree,67,54,63,sports,6.1,self-funded,yes
+female,19,associate's degree,85,89,95,none,5.9,scholarship,no
+male,19,some college,93,90,83,multiple,5.9,government-funded,no
+male,19,some college,71,49,52,none,5.3,scholarship,no
+male,22,associate's degree,91,73,80,arts,6.5,government-funded,yes
+male,20,some high school,92,87,78,none,5.5,family-sponsored,no
+male,23,associate's degree,76,70,68,none,8.4,self-funded,no
+female,20,high school,59,63,75,none,5.9,government-funded,yes
+female,24,some high school,80,85,85,volunteering,8.3,family-sponsored,yes
+female,23,some college,59,62,64,volunteering,7.7,family-sponsored,no
+female,19,high school,67,72,74,sports,5.0,family-sponsored,no
+female,20,some college,48,56,58,arts,6.3,government-funded,yes
+male,24,high school,60,44,47,arts,7.9,family-sponsored,yes
+male,23,some high school,68,72,64,none,8.1,self-funded,no
+male,19,some high school,86,73,70,volunteering,5.4,scholarship,no
+male,23,associate's degree,91,89,92,volunteering,8.2,family-sponsored,yes
+female,20,associate's degree,54,58,61,volunteering,6.3,family-sponsored,no
+female,19,some high school,65,82,81,none,5.3,family-sponsored,no
+male,20,some college,97,87,82,multiple,5.9,government-funded,no
+male,25,bachelor's degree,74,79,75,volunteering,8.6,scholarship,yes
+male,24,some college,60,62,60,multiple,7.9,self-funded,yes
+male,24,high school,82,84,82,multiple,8.6,family-sponsored,yes
+female,19,some college,82,97,96,volunteering,5.3,self-funded,yes
+female,24,some high school,18,32,28,multiple,7.9,self-funded,no
+female,24,some college,65,70,71,arts,9.0,family-sponsored,no
+male,19,bachelor's degree,73,56,57,arts,5.2,self-funded,no
+female,20,some high school,82,82,80,sports,6.2,self-funded,no
+female,21,high school,58,70,68,volunteering,7.1,family-sponsored,yes
+female,22,bachelor's degree,52,61,66,arts,7.2,self-funded,yes
+female,20,some high school,72,79,77,sports,5.7,scholarship,no
+female,20,high school,58,62,59,multiple,5.8,self-funded,no
+male,19,bachelor's degree,82,62,62,none,6.3,government-funded,no
+male,19,associate's degree,81,82,82,none,5.4,self-funded,yes
+male,19,bachelor's degree,61,70,76,multiple,5.4,government-funded,yes
+female,25,master's degree,69,84,85,arts,8.8,scholarship,yes
+male,25,high school,73,71,68,sports,8.7,family-sponsored,yes
+female,21,some high school,59,85,80,arts,6.6,scholarship,yes
+female,24,some college,75,88,85,none,8.7,scholarship,yes
+female,24,associate's degree,65,84,84,multiple,8.3,scholarship,yes
+female,24,bachelor's degree,45,59,64,none,7.6,government-funded,no
+female,21,high school,58,70,68,volunteering,7.1,family-sponsored,yes
+male,25,some high school,69,66,61,multiple,8.8,government-funded,no
+male,19,some high school,86,80,75,none,5.1,scholarship,no
+male,23,some high school,51,52,44,sports,8.3,family-sponsored,no
+male,25,master's degree,79,78,77,volunteering,8.8,government-funded,no
+female,21,some college,60,72,74,sports,7.3,scholarship,no
+female,25,some high school,50,60,60,none,8.7,family-sponsored,yes
+male,22,some high school,55,59,59,sports,7.3,scholarship,yes
+female,24,some college,32,39,33,sports,7.9,scholarship,no
+male,19,some high school,67,73,68,volunteering,6.3,self-funded,yes
+male,23,associate's degree,51,60,58,none,7.8,family-sponsored,yes
+male,20,master's degree,46,42,46,multiple,5.5,scholarship,yes
+male,22,bachelor's degree,75,73,74,none,7.3,self-funded,no
+male,23,some college,87,74,70,sports,8.4,government-funded,yes
+male,21,associate's degree,44,41,38,arts,7.1,self-funded,no
+female,19,master's degree,62,70,75,sports,6.0,self-funded,no
+male,23,some college,87,84,86,sports,7.7,self-funded,yes
+female,22,associate's degree,82,95,89,none,6.6,scholarship,no
+female,24,bachelor's degree,78,82,79,multiple,8.9,self-funded,no
+male,19,associate's degree,85,76,71,multiple,5.1,self-funded,no
+male,22,associate's degree,90,87,75,volunteering,6.8,self-funded,no
+male,24,some high school,94,86,87,multiple,8.5,government-funded,yes
+female,21,some college,68,70,66,volunteering,7.4,self-funded,no
+male,23,some college,84,83,78,none,8.4,family-sponsored,yes
+female,23,associate's degree,74,88,90,none,7.6,self-funded,yes
+female,24,some high school,73,84,85,volunteering,8.2,family-sponsored,no
+female,22,some high school,69,75,78,arts,6.7,self-funded,no
+male,20,some college,69,77,77,multiple,5.6,scholarship,yes
+male,19,associate's degree,73,78,72,none,5.7,government-funded,yes
+male,19,bachelor's degree,50,42,48,none,5.1,government-funded,no
+female,24,some college,70,89,88,multiple,8.4,family-sponsored,yes
+female,25,bachelor's degree,74,86,89,sports,8.8,self-funded,yes
+female,21,some high school,0,17,10,sports,7.2,family-sponsored,no
+female,22,associate's degree,61,86,87,multiple,7.0,self-funded,yes
+male,23,high school,45,48,46,volunteering,7.9,family-sponsored,no
+female,24,high school,50,67,63,none,8.3,government-funded,no
+male,24,some college,71,61,69,volunteering,8.6,scholarship,yes
+female,23,some high school,67,89,82,multiple,8.0,scholarship,no
+female,19,some college,19,38,32,volunteering,6.2,self-funded,no
+male,19,some high school,77,76,77,none,6.3,government-funded,yes
+male,23,some high school,68,63,54,sports,8.4,government-funded,no
+male,20,some college,58,49,42,multiple,5.6,family-sponsored,no
+male,21,high school,75,74,66,multiple,7.3,scholarship,no
+male,21,some college,50,48,53,none,7.3,scholarship,yes
+female,24,high school,50,50,47,none,8.8,self-funded,no
+female,19,associate's degree,46,56,57,none,5.8,government-funded,no
+male,21,high school,45,47,49,sports,7.1,scholarship,no
+female,23,bachelor's degree,93,100,100,sports,7.8,government-funded,yes
+male,22,bachelor's degree,96,90,92,volunteering,7.1,scholarship,yes
+male,19,high school,69,58,53,multiple,5.3,government-funded,yes
+female,21,high school,99,93,90,sports,6.8,government-funded,no
+male,23,some high school,82,67,61,none,7.7,family-sponsored,no
+female,23,some high school,49,63,56,sports,7.6,scholarship,no
+female,23,some high school,73,79,79,arts,7.5,self-funded,no
+female,24,some college,72,72,71,none,8.7,government-funded,no
+male,24,bachelor's degree,69,58,57,none,8.2,government-funded,no
+female,19,bachelor's degree,75,84,80,none,5.3,scholarship,no
+male,21,some high school,77,68,69,none,7.2,self-funded,yes
+male,24,high school,68,64,66,none,7.6,government-funded,yes
+female,25,associate's degree,62,76,80,none,9.0,family-sponsored,yes
+male,24,some college,61,47,56,arts,7.8,self-funded,no
+female,24,bachelor's degree,67,69,75,volunteering,9.0,scholarship,no
+female,19,some high school,41,55,51,sports,5.0,self-funded,no
+male,25,associate's degree,53,54,48,none,8.8,self-funded,no
+female,24,associate's degree,68,86,84,none,7.5,family-sponsored,yes
+female,25,some college,42,66,69,multiple,8.8,self-funded,yes
+female,19,bachelor's degree,43,62,61,arts,5.0,government-funded,no
+male,19,some high school,39,39,34,none,5.6,government-funded,no
+female,22,associate's degree,49,53,53,multiple,6.9,family-sponsored,no
+male,25,high school,63,48,47,volunteering,8.8,government-funded,no
+male,22,associate's degree,78,81,82,arts,7.0,family-sponsored,yes
+male,22,master's degree,85,84,89,sports,7.2,government-funded,no
+female,23,bachelor's degree,51,49,51,arts,8.4,government-funded,no
+male,21,associate's degree,53,45,40,sports,6.7,government-funded,no
+male,20,bachelor's degree,63,66,67,sports,5.9,family-sponsored,no
+male,21,some college,81,74,71,volunteering,6.7,scholarship,yes
+female,19,associate's degree,57,68,73,none,5.0,scholarship,yes
+female,24,associate's degree,94,87,92,volunteering,8.3,family-sponsored,yes
+female,24,bachelor's degree,43,51,54,arts,7.9,self-funded,yes
+male,24,some high school,84,84,80,multiple,7.7,scholarship,no
+female,24,some college,74,89,84,volunteering,7.8,self-funded,no
+male,25,associate's degree,75,66,73,sports,9.0,scholarship,no
+male,19,some high school,64,50,43,volunteering,5.4,government-funded,no
+female,21,some college,56,58,64,arts,7.1,family-sponsored,no
+female,22,some high school,65,78,82,volunteering,6.7,family-sponsored,yes
+female,22,some high school,69,86,81,sports,6.9,scholarship,yes
+female,24,high school,51,66,62,none,8.4,scholarship,no
+female,24,some college,62,69,69,multiple,8.4,family-sponsored,no
+male,19,some high school,71,62,50,none,6.1,family-sponsored,no
+female,24,some high school,65,74,77,arts,8.6,scholarship,yes
+male,23,associate's degree,78,74,72,arts,7.5,scholarship,yes
+female,20,some high school,29,40,44,multiple,6.4,family-sponsored,yes
+female,24,associate's degree,68,86,84,none,7.5,family-sponsored,yes
+female,25,high school,73,92,84,sports,8.6,government-funded,no
+male,24,associate's degree,97,93,91,arts,8.5,self-funded,no
+female,23,associate's degree,59,73,72,none,7.6,government-funded,yes
+male,23,bachelor's degree,100,100,100,multiple,7.9,scholarship,yes
+male,19,some high school,73,67,59,arts,5.8,family-sponsored,yes
+male,19,associate's degree,82,84,78,multiple,5.0,scholarship,yes
+male,22,associate's degree,69,70,63,multiple,7.2,government-funded,yes
+male,20,some college,44,54,53,arts,5.7,self-funded,no
+male,24,some college,67,64,70,none,7.7,family-sponsored,no
+female,24,some college,69,77,77,none,7.9,government-funded,no
+female,24,bachelor's degree,77,85,87,sports,7.8,family-sponsored,no
+female,19,associate's degree,49,52,54,none,5.4,government-funded,no
+male,21,some college,81,82,84,arts,6.5,family-sponsored,no
+male,24,high school,55,41,48,none,8.8,self-funded,yes
+male,21,some college,59,51,43,multiple,6.8,government-funded,no
+female,24,master's degree,94,99,100,multiple,7.9,self-funded,yes
+female,23,some college,73,78,76,arts,7.6,self-funded,yes
+male,24,some college,62,66,68,multiple,8.6,scholarship,yes
+female,25,high school,58,68,61,sports,8.9,government-funded,no
+female,22,bachelor's degree,77,94,95,multiple,6.8,family-sponsored,yes
+female,22,associate's degree,57,78,79,arts,6.7,scholarship,yes
+male,19,some college,60,60,60,volunteering,5.0,scholarship,no
+female,19,high school,60,68,72,arts,5.0,scholarship,no
+female,21,associate's degree,96,96,99,multiple,7.4,self-funded,yes
+female,19,some college,63,64,67,arts,5.4,self-funded,no
+female,22,associate's degree,100,100,100,sports,7.0,self-funded,no
+female,20,associate's degree,69,80,71,volunteering,5.8,scholarship,no
+female,23,high school,67,79,84,sports,8.1,scholarship,yes
+male,25,some high school,55,47,44,arts,8.6,family-sponsored,no
+male,19,some high school,73,66,63,sports,5.0,government-funded,no
+male,25,high school,90,75,69,sports,8.6,scholarship,no
+male,22,associate's degree,89,76,74,sports,7.3,family-sponsored,no
+male,23,high school,40,46,50,sports,8.1,self-funded,yes
+female,19,associate's degree,52,59,56,arts,6.1,scholarship,no
+female,23,some high school,65,86,80,multiple,7.5,family-sponsored,no
+female,24,associate's degree,73,76,78,volunteering,8.6,family-sponsored,no
+female,24,some college,52,58,58,multiple,9.0,self-funded,no
+male,22,associate's degree,74,73,67,arts,6.6,family-sponsored,no
+male,19,some high school,67,73,68,volunteering,6.3,self-funded,yes
+female,24,high school,71,87,82,arts,7.6,self-funded,no
+male,19,some college,79,79,78,volunteering,6.1,family-sponsored,yes
+male,22,some college,73,74,61,volunteering,7.4,scholarship,no
+female,24,associate's degree,68,77,80,none,8.7,government-funded,yes
+male,24,some college,67,74,70,none,8.7,government-funded,yes
+male,23,some college,58,60,57,sports,7.8,self-funded,no
+female,19,high school,57,75,73,none,5.2,self-funded,yes
+male,19,bachelor's degree,83,82,84,multiple,5.9,self-funded,yes
+female,24,some college,75,88,85,none,8.7,scholarship,yes
+female,25,some college,42,66,69,multiple,8.8,self-funded,yes
+female,24,associate's degree,68,76,67,arts,7.5,scholarship,no
+female,25,high school,69,76,74,none,8.8,family-sponsored,yes
+female,25,high school,81,91,89,sports,8.8,self-funded,no
+female,23,associate's degree,76,74,73,sports,8.0,family-sponsored,no
+male,24,high school,81,80,76,volunteering,9.0,family-sponsored,yes
+female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
+female,20,associate's degree,57,78,67,volunteering,5.7,scholarship,no
+male,25,high school,69,75,71,arts,8.6,family-sponsored,no
+male,23,bachelor's degree,61,66,61,multiple,7.5,family-sponsored,no
+female,22,high school,64,73,71,volunteering,7.4,family-sponsored,no
+female,19,some college,58,63,73,volunteering,5.6,self-funded,yes
+female,22,some high school,32,51,44,multiple,7.4,scholarship,yes
+male,21,master's degree,81,81,84,sports,6.5,scholarship,no
+female,23,associate's degree,75,90,88,multiple,8.1,self-funded,yes
+female,22,associate's degree,75,82,90,arts,6.5,scholarship,yes
+male,24,some college,50,47,54,volunteering,7.5,family-sponsored,yes
+male,19,some high school,73,67,59,arts,5.8,family-sponsored,yes
+female,24,associate's degree,91,95,94,none,9.0,family-sponsored,no
+male,22,some high school,57,61,54,sports,7.1,scholarship,no
+female,21,high school,46,54,58,none,6.8,self-funded,yes
+male,22,high school,70,56,51,volunteering,7.2,family-sponsored,no
+male,19,bachelor's degree,91,81,79,volunteering,6.2,scholarship,yes
+female,21,associate's degree,52,55,57,sports,6.7,scholarship,no
+male,24,high school,82,84,82,multiple,8.6,family-sponsored,yes
+female,23,associate's degree,59,73,72,none,7.6,government-funded,yes
+female,24,master's degree,55,64,70,sports,7.9,scholarship,no
+male,22,high school,59,58,47,sports,7.1,government-funded,no
+female,24,some high school,69,73,73,none,7.5,government-funded,no
+male,24,associate's degree,40,55,53,sports,7.5,self-funded,yes
+female,25,associate's degree,88,92,95,multiple,8.7,family-sponsored,yes
+male,24,high school,58,52,54,none,7.9,government-funded,yes
+female,25,some college,59,78,76,arts,8.6,government-funded,yes
+male,24,master's degree,49,53,52,multiple,8.1,family-sponsored,no
+male,20,some high school,62,49,52,none,5.7,scholarship,no
+female,22,associate's degree,83,86,88,volunteering,7.4,self-funded,yes
+male,24,some college,84,77,71,volunteering,8.3,scholarship,no
+female,23,high school,68,80,76,multiple,7.5,family-sponsored,yes
+male,20,associate's degree,94,85,82,volunteering,6.0,scholarship,yes
+male,24,bachelor's degree,59,54,51,sports,7.5,self-funded,no
+female,21,bachelor's degree,96,100,100,arts,6.5,scholarship,yes
+female,19,some college,82,97,96,volunteering,5.3,self-funded,yes
+female,19,high school,67,80,81,multiple,6.1,family-sponsored,yes
+male,25,associate's degree,80,76,64,multiple,8.6,scholarship,no
+male,20,master's degree,79,77,75,none,5.6,government-funded,yes
+female,24,master's degree,50,67,73,volunteering,7.5,self-funded,no
+male,20,some college,80,64,66,arts,6.3,family-sponsored,no
+male,24,high school,58,52,54,none,7.9,government-funded,yes
+male,22,high school,71,60,61,arts,6.7,scholarship,no
+male,22,associate's degree,91,73,80,arts,6.5,government-funded,yes
+female,24,some college,67,75,70,volunteering,7.9,self-funded,yes
+male,24,high school,55,41,48,none,8.8,self-funded,yes
+female,20,associate's degree,59,70,66,multiple,6.4,self-funded,yes
+male,21,some high school,30,26,22,none,6.7,government-funded,no
+male,24,some college,88,77,77,multiple,7.6,government-funded,no
+female,19,high school,63,69,74,sports,5.0,self-funded,no
+female,22,associate's degree,70,84,81,none,6.6,scholarship,no
+male,24,associate's degree,82,75,77,arts,7.5,family-sponsored,yes
+male,19,high school,70,70,65,arts,5.2,scholarship,no
+female,21,bachelor's degree,78,90,93,multiple,6.5,family-sponsored,no
+male,24,some college,78,72,70,sports,7.9,scholarship,yes
+female,20,high school,38,60,50,arts,6.2,government-funded,no
+female,19,bachelor's degree,65,72,74,arts,5.2,government-funded,no
+male,21,some college,63,61,54,volunteering,7.0,self-funded,no
+male,19,associate's degree,87,84,85,multiple,5.4,government-funded,yes
+female,23,associate's degree,82,93,93,multiple,7.5,self-funded,yes
+male,23,high school,94,73,71,none,7.5,self-funded,no
+male,20,some college,72,57,58,arts,6.0,government-funded,no
+female,23,bachelor's degree,80,83,83,sports,7.9,family-sponsored,no
+male,25,some college,76,78,75,sports,8.5,scholarship,no
+female,21,some college,53,62,56,multiple,7.2,scholarship,no
+female,20,some college,66,74,73,volunteering,5.8,self-funded,yes
+male,21,high school,88,78,75,arts,6.7,government-funded,no
+male,19,some high school,51,54,41,arts,5.9,self-funded,yes
+male,24,some college,47,43,41,arts,7.7,government-funded,no
+female,19,associate's degree,68,67,69,volunteering,5.3,government-funded,yes
+male,19,some college,86,76,74,volunteering,6.1,family-sponsored,no
+female,22,bachelor's degree,65,81,81,arts,7.2,scholarship,yes
+male,22,some high school,62,67,61,multiple,7.2,scholarship,no
+male,19,high school,64,54,50,multiple,6.3,government-funded,no
+female,19,some high school,74,90,88,volunteering,6.2,government-funded,yes
+male,22,some high school,66,68,64,sports,6.7,self-funded,yes
+female,24,associate's degree,65,76,76,volunteering,8.6,scholarship,no
+female,23,high school,74,79,80,none,7.5,scholarship,yes
+male,21,some college,88,73,78,arts,6.9,government-funded,no
+male,23,some college,79,73,67,multiple,8.4,government-funded,no
+male,24,master's degree,79,81,71,volunteering,8.5,family-sponsored,no
+female,24,associate's degree,85,84,82,arts,8.9,scholarship,no
+female,22,some college,69,79,81,multiple,6.9,self-funded,yes
+female,19,some college,86,85,91,none,5.2,government-funded,yes
+male,24,associate's degree,84,80,80,none,8.5,scholarship,no
+female,19,associate's degree,46,58,57,none,5.5,family-sponsored,no
+male,24,high school,68,64,66,none,7.6,government-funded,yes
+male,22,high school,55,56,51,multiple,7.2,family-sponsored,no
+female,24,some high school,65,69,76,multiple,8.3,government-funded,no
+female,19,high school,74,76,73,multiple,5.2,scholarship,no
+female,25,bachelor's degree,72,72,74,sports,9.0,family-sponsored,no
+female,23,some high school,40,65,64,arts,8.4,scholarship,yes
+male,19,high school,70,74,71,none,5.0,self-funded,no
+female,22,bachelor's degree,75,85,82,sports,7.0,scholarship,no
+male,25,associate's degree,52,55,49,volunteering,8.8,self-funded,no
+female,19,associate's degree,71,77,77,none,6.2,self-funded,yes
+male,19,master's degree,80,80,72,volunteering,5.0,scholarship,no
+male,20,master's degree,46,42,46,multiple,5.5,scholarship,yes
+female,19,some high school,97,100,100,multiple,5.3,self-funded,yes
+female,25,associate's degree,43,60,58,sports,8.6,self-funded,no
+female,19,high school,75,88,85,none,6.1,scholarship,no
+female,23,high school,78,81,80,sports,7.6,family-sponsored,no
+male,24,high school,66,77,70,arts,8.0,scholarship,no
+female,19,some college,88,95,92,volunteering,6.3,family-sponsored,yes
+male,22,some high school,81,75,76,multiple,6.5,self-funded,yes
+female,19,bachelor's degree,61,58,62,volunteering,5.3,self-funded,no
+male,23,associate's degree,78,74,72,arts,7.5,scholarship,yes
+female,19,some high school,77,79,80,multiple,6.3,government-funded,no
+male,23,associate's degree,51,60,58,none,7.8,family-sponsored,yes
+male,23,some college,84,83,78,none,8.4,family-sponsored,yes
+female,20,bachelor's degree,92,100,99,none,6.3,self-funded,yes
+male,23,some high school,46,41,43,arts,7.8,scholarship,yes
+female,19,master's degree,47,58,67,arts,6.4,family-sponsored,yes
+male,19,associate's degree,73,78,72,none,5.7,government-funded,yes
+male,23,some college,75,81,74,none,8.3,family-sponsored,no
+male,19,high school,60,68,60,arts,5.3,self-funded,no
+male,22,some college,40,43,39,none,6.7,self-funded,no
+female,22,some college,60,66,70,sports,7.3,self-funded,no
+female,19,bachelor's degree,59,64,75,sports,6.3,government-funded,yes
+male,24,bachelor's degree,63,64,66,volunteering,8.8,family-sponsored,yes
+female,19,some college,82,97,96,volunteering,5.3,self-funded,yes
+male,21,bachelor's degree,64,60,58,volunteering,6.9,government-funded,no
+female,21,associate's degree,59,70,65,multiple,7.1,scholarship,no
+male,21,high school,72,67,65,sports,6.5,self-funded,yes
+male,21,associate's degree,78,77,77,arts,6.7,government-funded,yes
+female,24,associate's degree,65,84,84,multiple,8.3,scholarship,yes
+female,23,associate's degree,66,65,69,sports,8.2,scholarship,no
+female,22,high school,50,66,64,multiple,6.5,self-funded,yes
+male,19,associate's degree,80,75,77,arts,5.0,scholarship,no
+female,21,high school,65,69,67,none,6.9,self-funded,no
+female,24,some high school,27,34,32,sports,7.7,self-funded,no
+female,23,master's degree,77,82,91,none,8.0,family-sponsored,yes
+female,19,associate's degree,52,76,70,none,5.3,self-funded,no
+male,24,associate's degree,57,54,56,arts,7.6,self-funded,yes
+female,20,some high school,81,97,96,none,5.5,family-sponsored,no
+male,19,bachelor's degree,83,82,84,multiple,5.9,self-funded,yes
+female,19,some college,71,76,70,arts,6.3,self-funded,no
+male,21,some college,50,48,53,none,7.3,scholarship,yes
+female,24,master's degree,64,63,66,sports,8.4,government-funded,no
+female,19,some college,45,73,70,none,6.2,self-funded,yes
+female,21,some college,42,55,54,arts,6.8,self-funded,yes
+male,25,high school,63,57,56,volunteering,8.8,family-sponsored,no
+male,19,associate's degree,81,82,82,none,5.4,self-funded,yes
+male,23,associate's degree,72,64,63,sports,7.5,self-funded,no
+female,21,associate's degree,84,95,92,sports,7.3,scholarship,no
+male,22,some high school,49,50,52,multiple,6.8,family-sponsored,yes
+female,19,high school,55,73,73,arts,5.5,family-sponsored,no
+male,24,some college,58,57,54,volunteering,7.6,family-sponsored,no
+female,21,some college,98,100,99,arts,6.5,self-funded,no
+female,22,bachelor's degree,65,81,81,arts,7.2,scholarship,yes
+female,19,master's degree,77,97,94,multiple,5.8,scholarship,yes
+female,24,some college,58,61,66,arts,8.5,self-funded,no
+female,24,associate's degree,57,74,76,none,8.5,family-sponsored,yes
+male,25,some college,63,63,60,none,8.5,family-sponsored,no
+female,19,some high school,97,100,100,multiple,5.3,self-funded,yes
+female,20,high school,62,64,64,sports,5.6,scholarship,no
+male,19,associate's degree,82,78,74,arts,6.3,government-funded,yes
+male,21,some college,35,28,27,none,6.8,family-sponsored,no
+female,21,some college,70,72,76,multiple,6.6,self-funded,yes
+male,21,some college,50,48,53,none,7.3,scholarship,yes
+male,20,bachelor's degree,39,42,38,multiple,5.8,self-funded,yes
+female,25,high school,69,76,74,none,8.8,family-sponsored,yes
+female,19,bachelor's degree,66,83,83,volunteering,5.9,government-funded,yes
+male,24,some college,60,62,60,multiple,7.9,self-funded,yes
+female,20,associate's degree,73,76,80,arts,5.7,scholarship,no
+male,21,some high school,78,83,80,arts,6.6,government-funded,yes
+female,22,associate's degree,71,83,78,none,7.0,self-funded,no
+female,23,high school,42,52,51,volunteering,8.3,government-funded,no
+female,21,bachelor's degree,65,73,75,multiple,7.2,government-funded,no
+female,20,some college,48,56,58,arts,6.3,government-funded,yes
+female,20,some college,49,58,60,sports,5.9,family-sponsored,no
+male,19,associate's degree,62,61,55,sports,5.2,government-funded,no
+male,19,some college,68,68,61,multiple,5.2,scholarship,no
+male,19,bachelor's degree,67,61,68,multiple,5.4,self-funded,yes
+male,21,high school,68,70,66,volunteering,7.3,family-sponsored,no
+female,21,master's degree,62,68,68,volunteering,7.1,family-sponsored,no
+male,23,master's degree,91,85,85,none,8.1,family-sponsored,yes
+female,22,some college,69,78,76,arts,6.7,self-funded,no
+male,23,some college,59,65,66,volunteering,8.4,scholarship,yes
+male,24,associate's degree,90,78,81,sports,8.1,family-sponsored,no
+male,20,bachelor's degree,54,49,47,volunteering,5.5,scholarship,no
+male,20,some high school,63,67,67,arts,6.4,self-funded,yes
+male,20,associate's degree,94,85,82,volunteering,6.0,scholarship,yes
+male,22,some high school,62,66,68,arts,6.6,self-funded,yes
+female,23,high school,39,52,46,none,7.7,government-funded,no
+male,25,some high school,63,60,57,volunteering,8.7,scholarship,yes
+male,24,associate's degree,76,71,67,arts,7.9,family-sponsored,no
+female,25,associate's degree,51,51,54,volunteering,8.8,government-funded,no
+female,22,associate's degree,61,86,87,multiple,7.0,self-funded,yes
+male,20,high school,54,52,52,arts,5.6,family-sponsored,no
+male,24,bachelor's degree,49,58,60,sports,8.5,scholarship,yes
+female,24,some college,65,81,77,none,8.6,government-funded,no
+female,24,high school,53,50,60,volunteering,7.9,self-funded,yes
+female,22,some college,59,71,70,sports,6.7,self-funded,no
+male,23,associate's degree,72,79,74,arts,8.1,scholarship,no
+male,25,bachelor's degree,74,79,75,volunteering,8.6,scholarship,yes
+male,19,bachelor's degree,91,81,79,volunteering,6.2,scholarship,yes
+female,19,associate's degree,54,65,65,volunteering,5.0,family-sponsored,no
+male,23,some college,87,74,70,sports,8.4,government-funded,yes
+male,19,associate's degree,81,82,82,none,5.4,self-funded,yes
+female,20,associate's degree,82,93,93,none,6.3,scholarship,no
+female,24,some college,79,89,86,multiple,8.0,family-sponsored,no
+male,19,some college,55,58,52,sports,5.3,family-sponsored,no
+female,21,some high school,24,38,27,arts,7.1,scholarship,no
+female,20,bachelor's degree,50,60,59,volunteering,5.9,family-sponsored,no

@@ -5,10 +5,15 @@ def featureEng(df):
     df['percentage'] = ((df['math score'] + df['reading score'] + df['writing score']) / 300)*100
     
     # Grade
-    df['grade'] = np.where(df['percentage'] >= 85, 'A',
-    np.where(df['percentage'] >= 75, 'B',
-    np.where(df['percentage'] >= 60, 'C',
-    np.where(df['percentage'] >= 50, 'D', 'F'))))
+    df['grade'] = np.where(df['percentage'] >= 90, 'A+',
+                np.where(df['percentage'] >= 85, 'A',
+                np.where(df['percentage'] >= 80, 'A-',
+                np.where(df['percentage'] >= 75, 'B+',
+                np.where(df['percentage'] >= 70, 'B-',
+                np.where(df['percentage'] >= 65, 'B-',
+                np.where(df['percentage'] >= 60, 'C+',
+                np.where(df['percentage'] >= 55, 'C',
+                np.where(df['percentage'] >= 50, 'C-','F')))))))))
     
     # Age
     df['age_group'] = np.where(df['age'] < 20, 'Below 20',

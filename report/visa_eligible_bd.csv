@@ -1,0 +1,1301 @@
+gender,age,parental level of education,math score,reading score,writing score,extracurricular activities,IELTS,financial sponsorship,visa eligible
+female,23.0,associate's degree,37.0,57.0,56.0,multiple,7.9,family-sponsored,no
+male,19.0,some high school,84.0,83.0,75.0,volunteering,5.4,family-sponsored,yes
+female,24.0,master's degree,55.0,64.0,70.0,sports,7.9,scholarship,no
+female,19.0,some college,58.0,63.0,73.0,volunteering,5.6,self-funded,yes
+female,23.0,associate's degree,68.0,67.0,73.0,volunteering,8.4,self-funded,yes
+female,19.0,some college,46.0,64.0,66.0,arts,5.4,family-sponsored,no
+male,19.0,some high school,68.0,51.0,57.0,sports,5.7,scholarship,yes
+female,19.0,high school,8.0,24.0,23.0,multiple,5.8,scholarship,no
+male,19.037627934076028,bachelor's degree,61.36801844911955,69.9920461323744,76.39112777767153,multiple,5.390646081097249,government-funded,yes
+female,19.0,some college,22.0,39.0,33.0,none,6.0,scholarship,no
+female,23.0,high school,77.0,88.0,85.0,volunteering,8.3,government-funded,yes
+female,20.011754485742397,high school,59.19538196284203,62.61778766692894,75.06941508581201,none,5.939060064443384,government-funded,yes
+female,19.0,some college,54.0,63.0,67.0,none,6.4,scholarship,no
+male,24.0,high school,82.0,84.0,82.0,multiple,8.6,family-sponsored,yes
+female,22.0,bachelor's degree,65.0,81.0,81.0,arts,7.2,scholarship,yes
+female,19.0,high school,61.0,73.0,63.0,sports,5.8,self-funded,no
+male,23.986675228477612,bachelor's degree,49.43356624528276,58.282044030545514,59.91042468499082,sports,8.494919492059976,scholarship,yes
+male,20.0,high school,72.0,73.0,74.0,arts,5.8,family-sponsored,yes
+male,21.0,bachelor's degree,64.0,60.0,58.0,volunteering,6.9,government-funded,no
+female,22.0,some high school,37.0,46.0,46.0,none,7.1,family-sponsored,no
+male,23.0,associate's degree,81.0,81.0,79.0,sports,8.2,government-funded,yes
+male,24.048509871691092,some high school,57.01296151509394,54.41644545364938,56.09862608478753,arts,7.589331866782619,self-funded,yes
+female,18.974587171953093,high school,56.80712640042068,75.17794110514394,72.61004878231677,none,5.223520051728461,self-funded,yes
+male,19.996015592067074,bachelor's degree,69.46786673358073,76.96065477724976,76.77856019624836,multiple,5.60432742099942,scholarship,yes
+female,25.0,some high school,60.0,70.0,74.0,arts,9.0,scholarship,yes
+male,19.0,associate's degree,62.0,61.0,55.0,sports,5.2,government-funded,no
+male,24.0,associate's degree,82.0,75.0,77.0,arts,7.5,family-sponsored,yes
+male,25.0,some high school,55.0,47.0,44.0,arts,8.6,family-sponsored,no
+female,19.0,master's degree,61.0,71.0,78.0,sports,5.5,self-funded,yes
+female,23.0,some high school,68.0,71.0,75.0,sports,8.0,family-sponsored,no
+female,24.013579075791363,high school,51.82962987000266,57.27695552758569,55.596431142519094,arts,7.716596561691411,government-funded,yes
+female,19.0,associate's degree,53.0,71.0,67.0,arts,5.0,family-sponsored,no
+female,19.996812598971406,high school,77.11216652460723,90.07499226552787,84.98911302688772,volunteering,6.325154407971684,family-sponsored,yes
+male,19.0,master's degree,71.0,67.0,67.0,sports,5.3,family-sponsored,no
+male,24.0,associate's degree,77.0,67.0,64.0,sports,8.5,government-funded,no
+male,23.980868006913465,some college,67.0060038097911,73.54314585825205,70.37405942915647,none,8.706475412988405,government-funded,yes
+female,19.0,some college,67.0,86.0,83.0,volunteering,6.1,family-sponsored,yes
+female,19.0,high school,23.0,44.0,36.0,multiple,5.1,government-funded,yes
+female,19.0,some college,88.0,95.0,92.0,volunteering,6.3,family-sponsored,yes
+male,18.985334572264907,high school,68.52012927656178,58.167953803409894,53.03810021851589,multiple,5.274998207677937,government-funded,yes
+male,22.0,associate's degree,78.0,81.0,82.0,arts,7.0,family-sponsored,yes
+female,25.0,master's degree,87.0,100.0,100.0,multiple,8.9,government-funded,no
+male,24.0,bachelor's degree,37.0,56.0,47.0,none,8.0,self-funded,no
+male,19.019183678189375,bachelor's degree,82.8643127932354,81.78989708621911,84.36284151127217,multiple,5.919181884547683,self-funded,yes
+female,23.96967536647623,associate's degree,64.93735127660462,84.01161147966432,83.9299655479351,multiple,8.327394947857123,scholarship,yes
+male,23.0,some college,79.0,73.0,67.0,multiple,8.4,government-funded,no
+female,25.0,some college,58.0,70.0,67.0,sports,9.0,scholarship,no
+female,19.0,some high school,80.0,92.0,88.0,multiple,5.0,family-sponsored,yes
+female,22.0,associate's degree,100.0,100.0,100.0,sports,7.0,self-funded,no
+male,19.0,bachelor's degree,62.0,72.0,65.0,arts,5.2,scholarship,no
+female,20.0,bachelor's degree,92.0,100.0,99.0,none,6.3,self-funded,yes
+female,21.98406073666693,bachelor's degree,64.95901893923335,81.16555007330771,80.81684153547421,arts,7.207418249885841,scholarship,yes
+female,20.971749960343704,bachelor's degree,96.08352922789531,100.02553732000777,100.42905145444772,arts,6.512251515637408,scholarship,yes
+male,23.0,high school,59.0,52.0,46.0,arts,8.4,government-funded,no
+male,19.0,high school,64.0,64.0,67.0,sports,5.0,family-sponsored,yes
+female,23.0,high school,60.0,64.0,74.0,multiple,7.6,family-sponsored,yes
+male,23.0,some college,63.0,55.0,63.0,sports,8.4,self-funded,yes
+female,22.0,some college,69.0,74.0,74.0,arts,6.8,family-sponsored,no
+female,24.0,some college,76.0,83.0,88.0,none,8.8,scholarship,no
+male,24.952907719685328,master's degree,63.156312464621216,60.13297926553878,57.12345646213396,volunteering,8.716804830353482,scholarship,yes
+male,24.0,high school,60.0,44.0,47.0,arts,7.9,family-sponsored,yes
+female,23.0,associate's degree,39.0,64.0,57.0,sports,7.9,self-funded,no
+female,22.984342375979672,high school,77.34321944366823,88.0001541456416,85.29299896557288,volunteering,8.313668670163866,government-funded,yes
+male,19.0,some high school,39.0,39.0,34.0,none,5.6,government-funded,no
+female,20.0,associate's degree,73.0,76.0,80.0,arts,5.7,scholarship,no
+female,21.0,high school,58.0,70.0,68.0,volunteering,7.1,family-sponsored,yes
+male,25.0,high school,69.0,75.0,71.0,arts,8.6,family-sponsored,no
+male,20.0,high school,53.0,58.0,44.0,volunteering,6.0,self-funded,no
+female,19.0,some high school,48.0,58.0,52.0,arts,5.0,government-funded,no
+male,21.95472344907985,associate's degree,90.94876164388897,73.33803454065473,80.25796192674464,arts,6.5062614028442995,government-funded,yes
+male,22.031114383612373,bachelor's degree,65.20348449789294,77.1119360565937,74.02417854390926,multiple,7.021966639291571,scholarship,yes
+female,24.0,high school,76.0,76.0,74.0,arts,8.7,self-funded,no
+female,19.0,some high school,70.0,64.0,72.0,multiple,5.0,self-funded,no
+female,21.0,some high school,24.0,38.0,27.0,arts,7.1,scholarship,no
+male,19.0,associate's degree,61.0,42.0,41.0,none,5.8,family-sponsored,no
+female,21.99472668448563,associate's degree,82.8403586091906,85.60743976894958,87.8158744293916,volunteering,7.396701880390371,self-funded,yes
+female,20.0,associate's degree,57.0,78.0,67.0,volunteering,5.7,scholarship,no
+male,22.0,high school,59.0,53.0,52.0,volunteering,7.0,government-funded,no
+female,22.925257742996045,associate's degree,75.05422008601643,90.00414536343996,87.71871589083236,multiple,8.073015848974437,self-funded,yes
+female,24.0,some high school,73.0,84.0,85.0,volunteering,8.2,family-sponsored,no
+male,21.0,master's degree,61.0,67.0,66.0,volunteering,6.7,scholarship,no
+female,20.0,high school,72.0,80.0,83.0,volunteering,5.6,self-funded,no
+male,21.0,associate's degree,62.0,65.0,58.0,multiple,7.1,self-funded,no
+male,21.0,some college,28.0,23.0,19.0,sports,7.3,family-sponsored,no
+female,24.0,some college,49.0,65.0,55.0,volunteering,8.0,scholarship,no
+female,24.0,associate's degree,68.0,76.0,67.0,arts,7.5,scholarship,no
+female,22.0,associate's degree,58.0,73.0,68.0,sports,6.5,self-funded,no
+female,21.0,associate's degree,96.0,96.0,99.0,multiple,7.4,self-funded,yes
+male,18.987060821080842,some college,50.913532369775766,54.136072757518384,41.62955756649434,arts,5.8951349471574,self-funded,yes
+female,22.0,some college,64.0,82.0,77.0,multiple,6.5,government-funded,yes
+female,25.0,some college,51.0,58.0,54.0,volunteering,8.6,self-funded,no
+male,19.926238956317434,master's degree,79.11605397567428,76.8040990604136,74.70880750420957,none,5.59694309957861,government-funded,yes
+female,19.0,high school,67.0,80.0,81.0,multiple,6.1,family-sponsored,yes
+male,22.0,associate's degree,61.0,48.0,46.0,volunteering,6.9,government-funded,no
+female,19.0,high school,35.0,53.0,46.0,none,5.3,family-sponsored,no
+female,23.051223748269802,some high school,40.53273478127621,65.32704068569787,63.62474545845864,arts,8.450213938935065,scholarship,yes
+male,19.0,bachelor's degree,50.0,42.0,48.0,none,5.1,government-funded,no
+female,24.0,associate's degree,94.0,87.0,92.0,volunteering,8.3,family-sponsored,yes
+female,19.0,associate's degree,73.0,75.0,80.0,none,5.0,family-sponsored,yes
+male,19.0,bachelor's degree,86.0,83.0,86.0,arts,6.4,scholarship,no
+female,24.0,associate's degree,73.0,83.0,76.0,volunteering,7.7,self-funded,no
+male,19.0,some college,71.0,75.0,70.0,arts,5.4,family-sponsored,yes
+male,19.0,some college,79.0,79.0,78.0,volunteering,6.1,family-sponsored,yes
+male,21.0,high school,76.0,62.0,60.0,sports,6.7,government-funded,yes
+male,24.0,some college,47.0,43.0,41.0,arts,7.7,government-funded,no
+male,20.0,some college,63.0,61.0,60.0,arts,6.3,scholarship,no
+male,24.979557900093997,high school,72.61613647250346,67.99361561286555,66.00575458841931,arts,8.499700191946156,self-funded,yes
+female,19.06128728257304,master's degree,76.78952610462291,97.51381736181244,94.1298508052404,multiple,5.83255202765959,scholarship,yes
+female,22.0,some high school,48.0,66.0,65.0,volunteering,7.1,family-sponsored,no
+female,23.0,bachelor's degree,59.0,70.0,73.0,volunteering,8.4,self-funded,no
+female,19.0,some college,80.0,90.0,89.0,volunteering,5.4,family-sponsored,no
+male,19.0,some high school,89.0,84.0,77.0,sports,5.3,scholarship,yes
+female,21.0,some college,98.0,100.0,99.0,arts,6.5,self-funded,no
+female,24.0,some college,69.0,65.0,74.0,arts,7.8,family-sponsored,no
+male,22.0,associate's degree,63.0,61.0,61.0,volunteering,7.2,government-funded,no
+female,22.0,associate's degree,47.0,49.0,50.0,volunteering,7.4,self-funded,no
+female,19.0,some college,70.0,78.0,78.0,sports,5.6,scholarship,yes
+male,24.037828262671738,high school,54.85694504155619,41.08234107073159,47.88979034663443,none,8.739127668398565,self-funded,yes
+female,24.92661346012807,associate's degree,88.2184580320518,92.4070131177062,94.73893351813452,arts,8.705724686721403,family-sponsored,yes
+male,19.01925807161719,some college,61.10423339953019,69.99161941707898,76.06430926807258,multiple,5.375482093106608,government-funded,yes
+male,23.046741189451534,some college,87.01039949526518,83.82904010158173,86.19414844649339,sports,7.711341481828122,self-funded,yes
+male,18.98434393346444,associate's degree,70.91090811315154,73.93418081434005,68.03175883798416,multiple,5.318349740636354,scholarship,yes
+male,19.0,some college,77.0,62.0,64.0,none,6.3,government-funded,no
+female,25.0,associate's degree,62.0,76.0,80.0,none,9.0,family-sponsored,yes
+female,23.0,high school,81.0,84.0,82.0,sports,8.4,self-funded,no
+female,21.0,some college,60.0,72.0,74.0,sports,7.3,scholarship,no
+female,22.0,high school,50.0,66.0,64.0,multiple,6.5,self-funded,yes
+male,21.0,high school,79.0,60.0,65.0,multiple,6.8,family-sponsored,no
+female,22.0,associate's degree,53.0,61.0,62.0,arts,6.9,self-funded,no
+female,21.0,some college,55.0,69.0,65.0,arts,7.3,family-sponsored,no
+male,19.0,associate's degree,61.0,55.0,52.0,multiple,5.2,self-funded,no
+female,21.06046154671394,bachelor's degree,95.97506506612133,100.5422111619866,99.50400147880929,arts,6.491479932775219,government-funded,yes
+male,22.0,associate's degree,90.0,87.0,85.0,multiple,7.4,scholarship,no
+male,24.0,some college,54.0,54.0,45.0,arts,8.9,family-sponsored,no
+male,24.067719789093136,bachelor's degree,62.81787049757052,64.48203593853046,66.09369390073797,volunteering,8.798158337076535,family-sponsored,yes
+male,20.0,some college,80.0,64.0,66.0,arts,6.3,family-sponsored,no
+female,23.0,high school,39.0,52.0,46.0,none,7.7,government-funded,no
+female,24.021391808159784,associate's degree,94.21885998945322,86.56064734566591,92.61531680127737,multiple,8.332800994540413,family-sponsored,yes
+male,24.0,associate's degree,69.0,77.0,69.0,volunteering,7.6,scholarship,no
+female,24.0,associate's degree,81.0,77.0,79.0,volunteering,8.8,family-sponsored,no
+female,19.0,associate's degree,46.0,56.0,57.0,none,5.8,government-funded,no
+male,22.0,some high school,56.0,54.0,52.0,volunteering,6.8,family-sponsored,no
+female,23.0,associate's degree,83.0,85.0,90.0,sports,7.7,government-funded,yes
+male,23.938956839457113,some college,66.76903815764773,74.02960893855044,70.3118713594269,none,8.71396266724247,government-funded,yes
+female,22.0,associate's degree,82.0,95.0,89.0,none,6.6,scholarship,no
+male,24.0,some high school,84.0,84.0,80.0,multiple,7.7,scholarship,no
+female,21.05785826395626,some college,69.94066889996797,71.8430743410408,75.73650748001297,multiple,6.568549759653277,self-funded,yes
+female,19.0,some college,45.0,73.0,70.0,none,6.2,self-funded,yes
+male,20.992453681183473,some high school,74.7794986144647,70.79533963291182,77.93785216859082,none,7.341269678147843,self-funded,yes
+female,20.0,some high school,50.0,64.0,59.0,none,6.3,government-funded,no
+male,20.0,some high school,65.0,59.0,53.0,none,6.2,scholarship,no
+female,19.0,high school,56.0,68.0,74.0,volunteering,5.2,government-funded,yes
+male,22.0,associate's degree,55.0,61.0,54.0,multiple,6.8,family-sponsored,no
+female,21.0,master's degree,40.0,59.0,54.0,none,6.5,family-sponsored,no
+female,22.086482688416012,associate's degree,57.03572877975665,77.72745916278886,79.12307093724549,arts,6.7063582210580535,scholarship,yes
+male,20.0,associate's degree,67.0,57.0,53.0,multiple,6.0,family-sponsored,no
+female,23.964728426409827,some college,74.81132001396394,88.2990430019901,84.7751634842398,none,8.688191576449954,scholarship,yes
+female,20.0,some college,79.0,86.0,92.0,sports,6.1,self-funded,no
+female,18.971905777608676,some college,87.95283392136811,94.95363512903475,92.36315910358135,volunteering,6.325848644383563,family-sponsored,yes
+male,20.0,some college,72.0,57.0,58.0,arts,6.0,government-funded,no
+female,22.972714448078868,associate's degree,75.38912223825793,89.9281969349474,88.09651921971255,multiple,8.121477614018357,self-funded,yes
+female,22.0,some high school,47.0,59.0,50.0,arts,6.7,government-funded,no
+male,24.0,associate's degree,65.0,65.0,63.0,sports,8.9,self-funded,yes
+female,19.0,associate's degree,85.0,89.0,95.0,none,5.9,scholarship,no
+male,23.0,some college,69.0,60.0,63.0,none,7.6,family-sponsored,yes
+male,25.0,associate's degree,61.0,71.0,73.0,multiple,8.5,self-funded,yes
+male,21.0,some high school,62.0,64.0,55.0,sports,7.4,self-funded,no
+male,24.0,some high school,45.0,37.0,37.0,multiple,8.3,self-funded,no
+female,23.0,some college,79.0,86.0,81.0,multiple,8.3,self-funded,no
+male,21.0,some college,59.0,51.0,43.0,multiple,6.8,government-funded,no
+female,19.0,bachelor's degree,89.0,100.0,100.0,sports,6.4,family-sponsored,no
+female,21.0,associate's degree,59.0,70.0,65.0,multiple,7.1,scholarship,no
+male,23.0,associate's degree,91.0,89.0,92.0,volunteering,8.2,family-sponsored,yes
+male,23.0,some college,84.0,87.0,81.0,multiple,7.5,government-funded,no
+female,22.0,bachelor's degree,92.0,100.0,100.0,arts,7.4,scholarship,yes
+male,22.98502049862583,associate's degree,79.696792231569,81.74069031270207,81.85312731929952,arts,7.739834958752468,scholarship,yes
+female,24.0,associate's degree,77.0,89.0,98.0,volunteering,8.6,family-sponsored,yes
+male,19.0,some college,49.0,57.0,46.0,none,5.3,self-funded,no
+male,19.0,some college,60.0,60.0,60.0,volunteering,5.0,scholarship,no
+female,20.0,some high school,44.0,64.0,58.0,none,5.8,self-funded,no
+female,23.00250020817022,high school,72.84779215845184,77.92840364110535,75.7676254715416,arts,7.573805337149295,self-funded,yes
+male,23.07076787768756,bachelor's degree,79.5799295079589,78.44440931256909,80.80351083535858,arts,8.031350697858546,self-funded,yes
+female,21.0,bachelor's degree,96.0,100.0,100.0,arts,6.5,scholarship,yes
+female,23.047995424699916,associate's degree,82.0412221790058,93.23436601363719,92.55191153917643,multiple,7.507398437428447,self-funded,yes
+male,22.92171311032497,associate's degree,51.54569269885217,60.486632091678736,58.099302568077675,none,7.84146991552141,family-sponsored,yes
+female,20.0,some college,48.0,56.0,58.0,arts,6.3,government-funded,yes
+male,20.0,some high school,73.0,66.0,62.0,arts,6.1,family-sponsored,no
+female,24.0,high school,76.0,85.0,82.0,none,8.2,scholarship,yes
+female,19.0,bachelor's degree,44.0,63.0,62.0,multiple,5.0,self-funded,no
+male,19.0,some college,74.0,77.0,76.0,sports,5.0,government-funded,yes
+male,22.0,bachelor's degree,75.0,73.0,74.0,none,7.3,self-funded,no
+female,19.0,some college,19.0,38.0,32.0,volunteering,6.2,self-funded,no
+female,21.0,high school,99.0,93.0,90.0,sports,6.8,government-funded,no
+male,23.046968599396024,high school,75.13925004220572,69.2104931242292,67.91346019646798,sports,8.126500548723643,family-sponsored,yes
+male,20.0,associate's degree,66.0,63.0,64.0,arts,5.8,self-funded,yes
+female,22.0,some college,82.0,90.0,94.0,multiple,7.4,self-funded,no
+female,24.0,some college,63.0,73.0,71.0,volunteering,7.6,scholarship,yes
+male,25.0,some high school,69.0,66.0,61.0,multiple,8.8,government-funded,no
+male,25.0,some college,93.0,84.0,90.0,volunteering,9.0,scholarship,yes
+male,19.0,bachelor's degree,69.0,63.0,61.0,arts,5.4,self-funded,no
+female,22.0,some college,61.0,64.0,62.0,arts,7.0,scholarship,no
+male,19.044857987490754,some high school,60.6931865353168,61.99263757970408,60.127857895016874,none,5.479198187820609,self-funded,yes
+male,20.0,bachelor's degree,48.0,51.0,46.0,arts,6.1,scholarship,no
+male,24.0,some college,88.0,77.0,77.0,multiple,7.6,government-funded,no
+male,21.0,some high school,49.0,49.0,41.0,volunteering,7.1,scholarship,no
+male,20.014278397712353,some college,69.11829536010418,76.59290085080364,77.11656096534327,sports,5.606511678592994,scholarship,yes
+male,24.0,associate's degree,64.0,56.0,52.0,volunteering,8.8,family-sponsored,no
+male,23.0,associate's degree,46.0,43.0,41.0,arts,7.5,government-funded,no
+male,21.0,some high school,30.0,26.0,22.0,none,6.7,government-funded,no
+female,24.0,bachelor's degree,47.0,62.0,66.0,volunteering,8.8,self-funded,yes
+male,20.0,high school,54.0,52.0,52.0,arts,5.6,family-sponsored,no
+male,24.0,master's degree,49.0,53.0,52.0,multiple,8.1,family-sponsored,no
+male,19.0,high school,48.0,45.0,41.0,none,5.4,self-funded,no
+male,24.0,some high school,65.0,66.0,62.0,none,8.5,government-funded,yes
+female,24.0,high school,51.0,66.0,62.0,none,8.4,scholarship,no
+male,24.0,some high school,45.0,52.0,49.0,none,8.4,scholarship,yes
+male,21.0,some college,61.0,51.0,52.0,multiple,6.8,government-funded,yes
+male,24.055858923030282,some college,60.419026520200696,61.800066643382266,60.01869505878756,multiple,7.883283108128021,government-funded,yes
+male,22.0,high school,84.0,73.0,69.0,sports,6.6,government-funded,no
+female,19.0,high school,74.0,72.0,72.0,sports,5.0,self-funded,no
+male,19.0,high school,57.0,51.0,54.0,arts,6.2,government-funded,no
+female,24.0,high school,52.0,57.0,56.0,arts,7.7,government-funded,yes
+male,22.991100358040903,some college,86.71628698488477,74.06826118854381,70.05815001155392,sports,8.371505478564327,government-funded,yes
+male,21.0,some high school,74.0,71.0,78.0,none,7.3,self-funded,yes
+female,24.0,bachelor's degree,45.0,59.0,64.0,none,7.6,government-funded,no
+female,25.0,master's degree,69.0,84.0,85.0,arts,8.8,scholarship,yes
+female,24.0,some college,52.0,59.0,65.0,none,8.4,self-funded,yes
+male,21.0,bachelor's degree,88.0,78.0,83.0,none,7.1,scholarship,no
+male,25.0,bachelor's degree,70.0,75.0,74.0,sports,8.7,self-funded,yes
+female,23.0,bachelor's degree,97.0,97.0,96.0,arts,8.4,scholarship,no
+male,21.0,some college,76.0,83.0,79.0,sports,6.7,family-sponsored,yes
+female,24.0,master's degree,73.0,78.0,74.0,sports,7.5,scholarship,no
+male,20.0,some high school,63.0,67.0,67.0,arts,6.4,self-funded,yes
+male,19.0,some high school,67.0,73.0,68.0,volunteering,6.3,self-funded,yes
+male,24.0,master's degree,72.0,66.0,72.0,volunteering,8.3,government-funded,yes
+female,19.0,associate's degree,77.0,77.0,73.0,multiple,5.9,government-funded,no
+female,19.0,some high school,44.0,51.0,55.0,arts,5.1,self-funded,yes
+female,18.99185510184145,some college,63.24869817924986,80.3957548847681,80.2398026445419,volunteering,6.448025153247906,self-funded,yes
+female,25.0,high school,69.0,77.0,78.0,arts,8.8,government-funded,yes
+male,24.0,some high school,59.0,42.0,41.0,sports,7.5,government-funded,no
+female,19.0,some high school,92.0,100.0,97.0,none,5.8,government-funded,yes
+male,19.0,bachelor's degree,66.0,64.0,62.0,volunteering,5.6,family-sponsored,no
+female,23.0,some college,88.0,93.0,93.0,volunteering,8.1,government-funded,yes
+female,23.0,high school,77.0,82.0,89.0,arts,7.7,scholarship,yes
+female,20.0,some college,49.0,58.0,60.0,sports,5.9,family-sponsored,no
+male,20.0,some college,61.0,61.0,62.0,arts,6.3,self-funded,no
+male,22.0,some college,65.0,77.0,74.0,multiple,7.0,scholarship,yes
+female,19.0,associate's degree,95.0,89.0,92.0,volunteering,6.3,family-sponsored,yes
+male,19.0,some high school,86.0,80.0,75.0,none,5.1,scholarship,no
+female,24.0,associate's degree,65.0,84.0,84.0,multiple,8.3,scholarship,yes
+female,20.0,some high school,81.0,97.0,96.0,none,5.5,family-sponsored,no
+male,19.0,high school,81.0,66.0,64.0,arts,6.1,self-funded,no
+male,20.956593293688552,high school,72.12532938018106,66.93622736701627,64.59723851573969,sports,6.4956922013610185,self-funded,yes
+female,23.0,high school,74.0,81.0,71.0,arts,8.4,scholarship,no
+male,23.0,some college,49.0,52.0,51.0,volunteering,8.2,family-sponsored,yes
+female,22.0,some college,84.0,87.0,91.0,arts,6.5,scholarship,no
+male,22.0,bachelor's degree,66.0,60.0,57.0,volunteering,6.9,self-funded,no
+male,19.0,some college,65.0,58.0,49.0,none,5.6,scholarship,no
+male,22.0,high school,70.0,56.0,51.0,volunteering,7.2,family-sponsored,no
+male,21.0,high school,73.0,69.0,68.0,volunteering,6.7,self-funded,yes
+female,22.0,master's degree,50.0,53.0,58.0,sports,6.9,scholarship,no
+female,23.0,bachelor's degree,67.0,86.0,83.0,arts,7.7,scholarship,no
+female,20.0,associate's degree,91.0,86.0,84.0,sports,5.9,self-funded,no
+female,22.0,some college,68.0,78.0,77.0,sports,7.4,scholarship,yes
+male,24.0,high school,68.0,64.0,66.0,none,7.6,government-funded,yes
+male,19.0,master's degree,54.0,59.0,50.0,sports,5.4,family-sponsored,no
+male,25.0,high school,73.0,71.0,68.0,sports,8.7,family-sponsored,yes
+male,20.0,associate's degree,58.0,55.0,53.0,none,5.6,scholarship,no
+male,24.0,some high school,68.0,54.0,53.0,volunteering,7.9,government-funded,no
+female,20.0,associate's degree,62.0,74.0,70.0,volunteering,5.5,government-funded,no
+male,23.0,high school,62.0,67.0,58.0,none,7.5,self-funded,no
+female,20.0,high school,42.0,62.0,60.0,multiple,5.5,government-funded,no
+female,19.0,high school,63.0,69.0,74.0,sports,5.0,self-funded,no
+male,25.0,high school,63.0,48.0,47.0,volunteering,8.8,government-funded,no
+female,23.0,high school,61.0,68.0,63.0,volunteering,7.8,government-funded,no
+male,20.0,some high school,47.0,49.0,49.0,volunteering,5.7,scholarship,yes
+female,19.0,some college,82.0,97.0,96.0,volunteering,5.3,self-funded,yes
+male,22.0,associate's degree,89.0,76.0,74.0,sports,7.3,family-sponsored,no
+female,22.0,some college,54.0,64.0,65.0,none,7.0,family-sponsored,no
+female,18.93500753932864,associate's degree,56.75679847719733,67.94372678181252,73.01790872732924,none,5.003459352581326,government-funded,yes
+male,21.038839882788917,some college,49.963204096672555,47.74456663841588,52.940683245426776,none,7.2965406948608065,scholarship,yes
+male,25.0,bachelor's degree,74.0,79.0,75.0,volunteering,8.6,scholarship,yes
+male,23.061746285429695,some high school,46.42265190884508,40.62270937833602,43.45485737418677,arts,7.830352586562869,scholarship,yes
+male,24.0,some high school,64.0,53.0,57.0,multiple,7.9,scholarship,yes
+male,24.0,some high school,51.0,56.0,53.0,volunteering,8.0,self-funded,yes
+female,24.0,associate's degree,59.0,66.0,67.0,sports,7.5,family-sponsored,no
+female,21.0,high school,36.0,53.0,43.0,sports,6.7,scholarship,no
+female,23.0,bachelor's degree,56.0,79.0,72.0,none,7.6,family-sponsored,yes
+female,23.979559873429125,associate's degree,93.84952661299539,87.00114875113294,92.25029958361546,volunteering,8.291189538340104,family-sponsored,yes
+male,24.0,associate's degree,52.0,57.0,50.0,volunteering,8.5,government-funded,no
+male,23.0,some high school,75.0,74.0,69.0,sports,7.7,self-funded,no
+male,23.0,some college,91.0,96.0,91.0,none,7.6,family-sponsored,yes
+male,23.034108592513277,associate's degree,91.13444471458298,89.35317381121239,92.14467903704225,volunteering,8.187664525892203,family-sponsored,yes
+female,19.0,master's degree,52.0,70.0,62.0,multiple,5.6,self-funded,yes
+male,23.0,some college,91.0,74.0,76.0,multiple,7.6,family-sponsored,no
+male,19.0,some high school,64.0,58.0,51.0,volunteering,5.4,government-funded,no
+male,24.0,high school,60.0,57.0,51.0,none,8.7,self-funded,no
+female,22.0,some high school,72.0,81.0,79.0,multiple,6.5,scholarship,no
+female,21.956971568852182,some high school,68.87561002093787,86.23982509851331,81.05173448631406,sports,6.922611730628565,scholarship,yes
+male,19.0,associate's degree,73.0,78.0,72.0,none,5.7,government-funded,yes
+male,23.0,associate's degree,72.0,79.0,74.0,arts,8.1,scholarship,no
+female,24.0,some college,69.0,77.0,77.0,none,7.9,government-funded,no
+male,20.93877628562362,high school,71.82104778300923,67.22770814515707,64.81678110541974,sports,6.495527123106325,self-funded,yes
+female,23.9608775501344,associate's degree,67.26760376019017,78.16904668370688,79.726817519378,arts,8.253533730676086,scholarship,yes
+male,19.0,some high school,61.0,62.0,61.0,none,5.5,self-funded,yes
+male,23.0,high school,94.0,73.0,71.0,none,7.5,self-funded,no
+female,21.0,some high school,48.0,56.0,51.0,none,7.3,government-funded,no
+female,23.0,some college,79.0,84.0,91.0,volunteering,7.6,family-sponsored,yes
+male,22.0,bachelor's degree,83.0,78.0,73.0,none,7.0,government-funded,no
+female,19.002173738803883,some college,45.06109717287335,72.98823374392857,69.92049670806662,none,6.185130247476367,self-funded,yes
+male,20.0,some college,69.0,77.0,77.0,multiple,5.6,scholarship,yes
+male,23.048036993534275,bachelor's degree,80.21531969508494,77.98080148387437,80.85059062194718,arts,8.05660532674744,self-funded,yes
+female,20.0,some college,100.0,92.0,97.0,sports,6.1,government-funded,no
+female,25.0,associate's degree,51.0,51.0,54.0,volunteering,8.8,government-funded,no
+female,21.975927225906343,associate's degree,74.79310706358436,82.41337451838466,89.83931418567774,arts,6.515435840957939,scholarship,yes
+male,24.0,associate's degree,80.0,63.0,63.0,volunteering,8.5,family-sponsored,no
+male,21.0,some college,81.0,74.0,71.0,volunteering,6.7,scholarship,yes
+male,25.0,some college,83.0,80.0,73.0,multiple,8.8,scholarship,no
+male,18.936706571341894,high school,56.65678160438457,56.528242715634256,54.20583839107675,multiple,5.201032964075066,self-funded,yes
+female,19.0,some high school,65.0,82.0,81.0,none,5.3,family-sponsored,no
+male,18.938207879087997,some college,60.719706659172715,71.33299641204347,77.97147577411202,sports,5.517374676988764,self-funded,yes
+male,21.0,high school,45.0,47.0,49.0,sports,7.1,scholarship,no
+female,21.0,associate's degree,67.0,84.0,86.0,none,7.1,family-sponsored,yes
+male,20.0,associate's degree,43.0,45.0,50.0,volunteering,6.3,self-funded,yes
+male,24.0,some high school,79.0,82.0,73.0,volunteering,7.8,family-sponsored,no
+male,25.0,associate's degree,75.0,66.0,73.0,sports,9.0,scholarship,no
+male,18.981740112187147,master's degree,67.94418492672239,50.41056747535423,57.023865142255374,sports,5.719714825170332,self-funded,yes
+female,18.970564275495246,associate's degree,56.831881788090726,76.8378093471201,80.16910099636395,multiple,5.122520197932825,government-funded,yes
+female,19.01242762064793,associate's degree,75.98015099387887,93.93188748038901,87.0449466344414,volunteering,5.320301098013855,scholarship,yes
+female,19.0,high school,54.0,59.0,62.0,arts,6.0,scholarship,no
+female,23.0,some high school,66.0,69.0,68.0,none,8.4,government-funded,no
+male,20.0,some high school,62.0,49.0,52.0,none,5.7,scholarship,no
+male,21.0,high school,49.0,45.0,45.0,sports,6.9,family-sponsored,no
+female,19.0,some high school,85.0,90.0,92.0,sports,5.3,self-funded,yes
+male,19.990291423442372,some college,88.33846925779648,85.18282307070747,76.26728608151288,volunteering,6.293012080009583,self-funded,yes
+female,21.02497291331187,associate's degree,96.28180795626616,96.06761653250187,98.63255856565058,multiple,7.415606935945222,self-funded,yes
+female,20.0,some college,66.0,74.0,73.0,volunteering,5.8,self-funded,yes
+female,22.0,bachelor's degree,77.0,94.0,95.0,multiple,6.8,family-sponsored,yes
+female,19.0,bachelor's degree,61.0,58.0,62.0,volunteering,5.3,self-funded,no
+male,21.0,high school,68.0,70.0,66.0,volunteering,7.3,family-sponsored,no
+female,24.0,associate's degree,59.0,62.0,69.0,multiple,7.7,family-sponsored,no
+male,22.0,bachelor's degree,96.0,90.0,92.0,volunteering,7.1,scholarship,yes
+male,19.0,high school,64.0,54.0,50.0,multiple,6.3,government-funded,no
+female,21.0,bachelor's degree,79.0,81.0,82.0,volunteering,6.8,self-funded,yes
+female,22.010997820149086,some high school,65.22492565247087,77.74700330794654,81.75638110507593,volunteering,6.724767099957664,family-sponsored,yes
+female,21.968557092402776,some college,68.99922569277746,79.25535259317543,81.37855665970407,multiple,6.882960865137803,self-funded,yes
+male,22.0,high school,87.0,91.0,81.0,arts,7.3,self-funded,yes
+male,23.0,associate's degree,67.0,72.0,67.0,none,7.9,government-funded,yes
+male,22.0,high school,89.0,87.0,79.0,multiple,6.7,family-sponsored,no
+male,20.0,some college,76.0,71.0,72.0,arts,6.3,scholarship,no
+female,25.0,some college,55.0,71.0,69.0,sports,9.0,government-funded,no
+male,23.96362493291843,some college,65.2278096367141,72.89441846659689,68.23188844853098,multiple,8.061872386440276,scholarship,yes
+male,24.0,high school,58.0,52.0,54.0,none,7.9,government-funded,yes
+female,22.0,bachelor's degree,75.0,85.0,82.0,sports,7.0,scholarship,no
+female,20.0,associate's degree,57.0,69.0,68.0,sports,5.9,government-funded,no
+female,22.0,associate's degree,83.0,86.0,88.0,volunteering,7.4,self-funded,yes
+female,21.04721875917144,high school,46.348952194337585,53.60819154915045,57.84012825502412,none,6.8033443403016145,self-funded,yes
+female,24.0,bachelor's degree,63.0,75.0,81.0,arts,9.0,self-funded,no
+male,22.0,master's degree,85.0,84.0,89.0,sports,7.2,government-funded,no
+female,24.0,high school,50.0,67.0,63.0,none,8.3,government-funded,no
+female,23.0,some college,62.0,70.0,72.0,sports,7.9,self-funded,no
+female,20.0,some high school,44.0,45.0,45.0,arts,6.4,government-funded,no
+female,24.006394971315196,some college,52.22512262312184,59.204327347904346,64.60916783861826,none,8.353269571089136,self-funded,yes
+male,23.033472854558344,associate's degree,51.21352310777223,60.090160033851944,58.50613300193285,none,7.782178801654312,family-sponsored,yes
+female,20.0,some high school,82.0,82.0,80.0,sports,6.2,self-funded,no
+male,21.0,master's degree,79.0,72.0,69.0,volunteering,6.5,scholarship,no
+male,23.0,associate's degree,87.0,85.0,73.0,sports,8.1,scholarship,no
+male,25.0,high school,47.0,46.0,42.0,none,8.6,scholarship,no
+female,19.96125604261944,some college,47.26954923031609,55.8926359084161,58.38773305537208,arts,6.27380598875606,government-funded,yes
+female,25.0,associate's degree,43.0,60.0,58.0,sports,8.6,self-funded,no
+female,25.0,master's degree,45.0,56.0,54.0,sports,8.7,self-funded,no
+male,19.068301743715043,some college,67.38466399939261,72.74433396504563,67.97197560378709,volunteering,6.3390074366784015,self-funded,yes
+female,21.0,some college,68.0,70.0,66.0,volunteering,7.4,self-funded,no
+female,19.0,some high school,35.0,55.0,60.0,volunteering,6.1,scholarship,yes
+female,19.0,some high school,55.0,65.0,62.0,sports,6.3,family-sponsored,no
+male,19.98181482478129,some high school,62.79681787369696,67.39667653527268,67.23350114757778,arts,6.374857626802719,self-funded,yes
+female,19.0,some high school,65.0,76.0,75.0,sports,5.4,scholarship,yes
+male,21.0,high school,75.0,74.0,66.0,multiple,7.3,scholarship,no
+female,24.0,some college,79.0,89.0,86.0,multiple,8.0,family-sponsored,no
+female,21.0,some college,62.0,67.0,62.0,none,7.1,government-funded,no
+female,19.0,some college,83.0,83.0,90.0,multiple,5.4,scholarship,no
+female,22.954362906495053,high school,76.69606668300841,81.64978656544527,89.0366814091402,arts,7.678764393524669,scholarship,yes
+female,24.0,high school,54.0,64.0,68.0,sports,8.6,self-funded,no
+male,23.0,some high school,82.0,67.0,61.0,none,7.7,family-sponsored,no
+male,24.0,high school,74.0,70.0,69.0,sports,8.4,self-funded,no
+female,19.0,some college,63.0,72.0,70.0,none,5.8,scholarship,yes
+male,24.0,associate's degree,40.0,55.0,53.0,sports,7.5,self-funded,yes
+male,23.0,bachelor's degree,100.0,100.0,100.0,multiple,7.9,scholarship,yes
+female,22.0,some high school,69.0,86.0,81.0,sports,6.9,scholarship,yes
+male,23.0,some high school,80.0,79.0,79.0,arts,8.4,self-funded,yes
+female,24.0,some high school,65.0,74.0,77.0,arts,8.6,scholarship,yes
+female,24.976081441368866,bachelor's degree,65.94323803100423,73.82706837587253,80.72908134968678,multiple,8.528268592566683,family-sponsored,yes
+female,22.0,high school,66.0,76.0,68.0,arts,7.4,family-sponsored,no
+female,24.0,master's degree,50.0,67.0,73.0,volunteering,7.5,self-funded,no
+male,24.0,some college,98.0,86.0,90.0,arts,8.6,family-sponsored,yes
+male,20.954537975053988,associate's degree,96.11403075660861,91.67283007005,86.26953683374411,arts,7.086880233660018,self-funded,yes
+female,25.0,some college,59.0,78.0,76.0,arts,8.6,government-funded,yes
+male,19.0,high school,78.0,77.0,80.0,volunteering,6.4,family-sponsored,yes
+male,21.0,some college,50.0,48.0,53.0,none,7.3,scholarship,yes
+female,21.0,associate's degree,65.0,85.0,76.0,arts,6.8,family-sponsored,no
+male,19.0,some high school,73.0,66.0,63.0,sports,5.0,government-funded,no
+female,25.0,some high school,85.0,92.0,93.0,volunteering,8.6,government-funded,yes
+male,24.0,some high school,78.0,72.0,69.0,sports,8.3,self-funded,yes
+female,23.0,some high school,73.0,79.0,79.0,arts,7.5,self-funded,no
+male,21.0,high school,88.0,78.0,75.0,arts,6.7,government-funded,no
+male,24.0,associate's degree,57.0,56.0,57.0,arts,7.7,scholarship,no
+male,22.0,some high school,74.0,74.0,72.0,arts,6.9,self-funded,no
+male,23.0,some college,87.0,74.0,70.0,sports,8.4,government-funded,yes
+female,23.0,associate's degree,42.0,61.0,58.0,sports,7.5,government-funded,yes
+female,20.0,high school,34.0,42.0,39.0,volunteering,5.8,scholarship,no
+female,23.0,some high school,59.0,67.0,61.0,arts,7.5,self-funded,no
+male,21.952767708945316,associate's degree,69.51452125029611,69.7472301159939,62.44248448005559,multiple,7.218758996918205,government-funded,yes
+female,24.0,some high school,65.0,82.0,78.0,multiple,7.5,government-funded,yes
+female,19.0,associate's degree,57.0,68.0,73.0,none,5.0,scholarship,yes
+male,23.025415308793637,high school,90.47382466962165,95.89267587247852,91.01887991536053,none,7.611417543992689,family-sponsored,yes
+female,23.033522633957887,high school,76.7495078063913,88.09466341238232,85.13904300944932,volunteering,8.333987226668857,government-funded,yes
+female,23.038377523167917,high school,68.32965613393014,80.32612156802864,76.00521724803106,multiple,7.492394323091247,family-sponsored,yes
+male,25.0,some college,76.0,78.0,75.0,sports,8.5,scholarship,no
+female,23.0,master's degree,81.0,92.0,91.0,arts,7.7,family-sponsored,no
+female,24.0,bachelor's degree,43.0,51.0,54.0,arts,7.9,self-funded,yes
+male,18.974182845418937,associate's degree,80.67844759694898,81.94806970529984,81.82190017548902,none,5.4307405110554825,self-funded,yes
+male,19.015770585595277,some college,71.33396083098668,75.07938540152861,69.7689067224098,arts,5.4042688023391525,family-sponsored,yes
+male,20.973742618766774,some college,49.38863241621601,48.06111081153502,52.60462188452123,none,7.278928978776693,scholarship,yes
+female,23.0,high school,68.0,80.0,76.0,multiple,7.5,family-sponsored,yes
+female,19.0,bachelor's degree,63.0,73.0,78.0,sports,5.0,government-funded,no
+male,22.042855842411996,associate's degree,77.15577739158819,68.93238063372036,68.155235089911,none,6.822633855735227,self-funded,yes
+male,22.0,some college,68.0,72.0,65.0,none,6.8,self-funded,no
+female,19.0,associate's degree,52.0,59.0,56.0,arts,6.1,scholarship,no
+female,24.084509523105176,some college,74.6254322392679,88.53670095763383,84.71349187574427,none,8.71285243031738,scholarship,yes
+male,24.0,some college,61.0,47.0,56.0,arts,7.8,self-funded,no
+male,19.000187677465608,high school,72.13615486955551,66.72903951548915,64.04907025340903,arts,5.612593342233959,self-funded,yes
+female,24.0,high school,67.0,78.0,79.0,arts,8.3,scholarship,yes
+male,22.0,some college,40.0,43.0,39.0,none,6.7,self-funded,no
+male,21.0,some college,88.0,73.0,78.0,arts,6.9,government-funded,no
+female,21.0,high school,50.0,53.0,55.0,sports,6.9,self-funded,no
+female,23.055780201273258,master's degree,77.41510944004499,82.49687173119455,90.4067983916346,none,8.033385753152613,family-sponsored,yes
+female,19.0,associate's degree,54.0,65.0,65.0,volunteering,5.0,family-sponsored,no
+female,22.0,bachelor's degree,52.0,61.0,66.0,arts,7.2,self-funded,yes
+female,19.0,some college,74.0,75.0,79.0,volunteering,5.7,family-sponsored,yes
+female,22.0,high school,64.0,62.0,68.0,multiple,7.4,scholarship,no
+female,21.0,some college,70.0,72.0,76.0,multiple,6.6,self-funded,yes
+female,23.988738480015538,high school,69.81787286249242,81.95030006374864,75.78710767908089,arts,8.896094870947971,government-funded,yes
+male,18.97831521616788,some high school,60.78097165114892,62.44496006006618,60.99538558526426,none,5.537126850328864,self-funded,yes
+female,24.0,some college,69.0,84.0,82.0,none,8.0,self-funded,no
+male,24.0,some college,66.0,57.0,52.0,volunteering,8.4,scholarship,no
+male,21.0,bachelor's degree,80.0,73.0,72.0,sports,7.1,family-sponsored,no
+female,24.0,master's degree,92.0,100.0,100.0,sports,7.9,self-funded,no
+male,19.0,some high school,77.0,76.0,77.0,none,6.3,government-funded,yes
+female,23.0,high school,41.0,45.0,40.0,none,7.5,self-funded,no
+female,25.0,some high school,73.0,86.0,82.0,volunteering,9.0,scholarship,no
+female,24.018233488820616,bachelor's degree,67.9451605804052,75.13702547223043,81.24592146575739,arts,7.609118117543569,family-sponsored,yes
+female,19.0,bachelor's degree,65.0,72.0,74.0,arts,5.2,government-funded,no
+female,24.924790401122927,some college,41.86346358227163,65.68311219188304,69.24006108366605,multiple,8.83578855683711,self-funded,yes
+female,19.0,some high school,41.0,55.0,51.0,sports,5.0,self-funded,no
+male,23.0,high school,88.0,89.0,86.0,sports,7.5,self-funded,no
+female,18.988000305610157,associate's degree,76.12449869724041,93.75236760170974,86.38582898839856,volunteering,5.246574392654072,scholarship,yes
+female,23.0,associate's degree,74.0,75.0,83.0,arts,8.4,government-funded,yes
+female,20.0,bachelor's degree,79.0,89.0,89.0,volunteering,5.5,government-funded,no
+male,24.0,some college,75.0,68.0,65.0,arts,7.6,self-funded,no
+female,19.0,some high school,74.0,90.0,88.0,volunteering,6.2,government-funded,yes
+female,24.035603117501093,associate's degree,62.96273714045232,73.34304839286868,71.12255885168594,volunteering,7.5811283197264,scholarship,yes
+female,19.0,some high school,59.0,54.0,67.0,multiple,5.4,self-funded,yes
+female,19.05383993770927,associate's degree,57.24663642324453,68.33543082567213,73.31600976086462,none,4.986936263851691,scholarship,yes
+male,19.0,associate's degree,82.0,78.0,74.0,arts,6.3,government-funded,yes
+female,18.99303409457036,associate's degree,65.41371505108667,75.19149008907728,76.8425678728458,volunteering,5.72788436404119,government-funded,yes
+female,19.0,some high school,48.0,58.0,54.0,arts,5.4,scholarship,no
+female,21.0,some college,56.0,58.0,64.0,arts,7.1,family-sponsored,no
+female,21.07773966655914,high school,46.125806674805055,53.484965660052374,57.996177145692435,none,6.773304240580157,self-funded,yes
+female,23.953697565012362,some high school,58.572921746050724,63.14562698329095,64.00402872354007,sports,7.923077823363418,scholarship,yes
+male,22.932505793406474,bachelor's degree,67.89484562994177,73.89457263130603,74.54515167414962,sports,8.197574314682628,scholarship,yes
+male,19.0,high school,57.0,56.0,54.0,multiple,5.2,self-funded,yes
+male,19.984353874711136,master's degree,45.83502745181087,42.55351439905751,45.83244610010507,multiple,5.535258225790637,scholarship,yes
+male,23.0,some college,41.0,39.0,34.0,volunteering,7.7,government-funded,no
+male,19.0,high school,70.0,70.0,70.0,arts,5.7,self-funded,no
+female,25.0,associate's degree,53.0,70.0,70.0,arts,8.7,scholarship,no
+male,24.0,some college,59.0,60.0,58.0,sports,7.5,scholarship,no
+male,18.98634599065352,some college,82.082379260657,78.0539352759493,74.2685553100078,arts,6.337108781510878,government-funded,yes
+male,19.0,bachelor's degree,61.0,70.0,76.0,multiple,5.4,government-funded,yes
+male,22.0,associate's degree,47.0,57.0,44.0,multiple,7.3,scholarship,no
+female,20.0,high school,38.0,60.0,50.0,arts,6.2,government-funded,no
+female,21.0,some college,53.0,62.0,56.0,multiple,7.2,scholarship,no
+male,24.0,associate's degree,80.0,68.0,72.0,none,8.1,family-sponsored,no
+female,20.037088981300638,high school,59.27772510648901,63.089443570967276,75.2873239275927,none,5.915646964810508,government-funded,yes
+female,20.0,bachelor's degree,71.0,76.0,83.0,multiple,6.1,scholarship,yes
+male,22.0,high school,36.0,29.0,27.0,none,6.7,scholarship,no
+male,22.0,some high school,62.0,66.0,68.0,arts,6.6,self-funded,yes
+male,20.0518003390596,some college,100.04295870986186,95.70053268154096,86.3009547968708,multiple,5.468192731896705,government-funded,yes
+female,22.0,bachelor's degree,83.0,93.0,95.0,arts,7.2,scholarship,no
+female,24.0,some high school,65.0,69.0,76.0,multiple,8.3,government-funded,no
+male,25.0,some college,77.0,62.0,62.0,multiple,8.6,government-funded,yes
+male,20.0,some college,97.0,87.0,82.0,multiple,5.9,government-funded,no
+male,20.0,associate's degree,81.0,72.0,77.0,arts,5.7,government-funded,yes
+female,24.021556803994304,high school,52.666537934053345,49.92027256790341,59.970332217937134,volunteering,7.8604672922350325,self-funded,yes
+female,22.0,associate's degree,70.0,84.0,81.0,none,6.6,scholarship,no
+male,25.0,high school,90.0,75.0,69.0,sports,8.6,scholarship,no
+female,19.0,high school,58.0,75.0,77.0,sports,6.0,scholarship,yes
+male,19.0,some college,82.0,82.0,88.0,none,5.2,self-funded,yes
+female,22.0,associate's degree,64.0,76.0,74.0,volunteering,7.0,self-funded,no
+male,19.0,some college,100.0,97.0,99.0,none,5.6,scholarship,yes
+male,20.020496761517226,some high school,76.017190937173,70.23728380320517,69.07219264809439,volunteering,6.321064920491933,scholarship,yes
+female,21.0,high school,62.0,67.0,64.0,multiple,7.4,government-funded,no
+female,24.986041065316794,associate's degree,87.7791868663012,92.01088115280032,95.23205541280036,multiple,8.706395128482928,family-sponsored,yes
+male,22.924630464283062,some college,84.10858521363708,83.69203513371758,77.73753007924145,none,8.435229642028554,family-sponsored,yes
+male,23.0,master's degree,73.0,70.0,75.0,none,8.1,self-funded,no
+male,21.0,some college,69.0,66.0,60.0,arts,6.6,scholarship,no
+female,23.0,master's degree,56.0,72.0,65.0,volunteering,8.4,family-sponsored,no
+female,22.0,bachelor's degree,86.0,92.0,87.0,none,6.9,self-funded,no
+female,23.0,high school,60.0,72.0,68.0,none,7.7,self-funded,no
+male,19.0,some high school,67.0,64.0,61.0,arts,5.0,scholarship,no
+male,19.0,high school,70.0,74.0,71.0,none,5.0,self-funded,no
+male,22.0,some high school,62.0,67.0,61.0,multiple,7.2,scholarship,no
+male,20.0,associate's degree,58.0,57.0,53.0,multiple,6.3,self-funded,yes
+male,21.0,associate's degree,44.0,41.0,38.0,arts,7.1,self-funded,no
+male,22.0,associate's degree,72.0,57.0,62.0,volunteering,7.2,family-sponsored,no
+male,19.0,associate's degree,47.0,37.0,35.0,multiple,5.0,self-funded,no
+female,23.0,bachelor's degree,77.0,88.0,87.0,none,8.4,scholarship,no
+male,19.0,high school,58.0,51.0,52.0,volunteering,5.4,family-sponsored,yes
+female,20.0,master's degree,81.0,86.0,87.0,none,5.8,government-funded,no
+female,23.0,bachelor's degree,65.0,67.0,62.0,sports,7.5,family-sponsored,no
+male,21.0,bachelor's degree,76.0,62.0,66.0,none,6.9,family-sponsored,yes
+female,20.0,associate's degree,69.0,80.0,71.0,volunteering,5.8,scholarship,no
+male,22.0,some high school,81.0,75.0,76.0,multiple,6.5,self-funded,yes
+male,24.0,master's degree,62.0,68.0,75.0,volunteering,8.8,scholarship,yes
+male,23.0,some college,59.0,65.0,66.0,volunteering,8.4,scholarship,yes
+female,22.0,some high school,32.0,51.0,44.0,multiple,7.4,scholarship,yes
+female,24.0,some college,62.0,72.0,70.0,volunteering,7.5,scholarship,no
+female,20.0,some college,71.0,71.0,80.0,arts,5.8,scholarship,yes
+female,23.022567756534016,bachelor's degree,98.74494120588659,100.03977860217228,100.05770074667424,multiple,7.713161295021996,government-funded,yes
+female,19.0,associate's degree,46.0,61.0,55.0,none,5.5,self-funded,no
+male,23.0,associate's degree,72.0,64.0,63.0,sports,7.5,self-funded,no
+female,23.0,bachelor's degree,51.0,49.0,51.0,arts,8.4,government-funded,no
+female,24.0,high school,71.0,87.0,82.0,arts,7.6,self-funded,no
+male,24.0,some college,69.0,67.0,69.0,volunteering,8.1,self-funded,no
+female,25.0,high school,61.0,72.0,70.0,multiple,8.5,self-funded,no
+male,21.0,associate's degree,53.0,45.0,40.0,sports,6.7,government-funded,no
+female,24.0,some college,73.0,76.0,78.0,multiple,9.0,government-funded,no
+male,23.0,high school,75.0,81.0,71.0,sports,7.5,family-sponsored,no
+female,19.0,some high school,67.0,84.0,84.0,volunteering,5.2,scholarship,no
+male,23.0,high school,45.0,48.0,46.0,volunteering,7.9,family-sponsored,no
+male,19.0,high school,52.0,53.0,49.0,volunteering,6.4,government-funded,no
+male,23.0,associate's degree,51.0,60.0,58.0,none,7.8,family-sponsored,yes
+male,24.0,associate's degree,97.0,82.0,88.0,sports,7.9,family-sponsored,yes
+female,23.0,high school,75.0,86.0,79.0,sports,7.8,family-sponsored,no
+female,24.02084050717571,some high school,64.94370977047767,73.95746652940244,76.79193572307688,arts,8.626820030377667,scholarship,yes
+male,23.0,associate's degree,78.0,74.0,72.0,arts,7.5,scholarship,yes
+female,19.0,associate's degree,68.0,67.0,69.0,volunteering,5.3,government-funded,yes
+female,19.0,some college,64.0,85.0,85.0,multiple,5.2,government-funded,yes
+male,18.99003723157675,some high school,72.99062781799495,67.65720352008034,59.168681288077174,arts,5.79343307887027,family-sponsored,yes
+male,19.0,bachelor's degree,55.0,46.0,44.0,multiple,6.4,scholarship,no
+female,24.0,bachelor's degree,73.0,79.0,84.0,none,8.6,government-funded,no
+male,24.0,high school,66.0,77.0,70.0,arts,8.0,scholarship,no
+female,25.0,associate's degree,88.0,92.0,95.0,multiple,8.7,family-sponsored,yes
+male,24.0,associate's degree,54.0,53.0,47.0,none,9.0,scholarship,no
+male,19.03113229695021,associate's degree,81.10869568901406,81.79243926466346,82.37892984002298,none,5.398596021475125,self-funded,yes
+female,24.0,associate's degree,66.0,77.0,73.0,arts,7.6,family-sponsored,no
+female,23.002051038042953,associate's degree,58.9557937901002,72.81577519980551,71.48910491496316,none,7.604565531916183,government-funded,yes
+male,22.0,some college,55.0,55.0,47.0,multiple,6.7,self-funded,no
+female,22.0,associate's degree,64.0,73.0,68.0,none,7.2,scholarship,no
+female,24.0,associate's degree,80.0,86.0,83.0,none,8.9,scholarship,no
+female,21.0,associate's degree,26.0,31.0,38.0,volunteering,7.1,scholarship,no
+female,19.0,associate's degree,76.0,94.0,87.0,volunteering,5.3,scholarship,yes
+male,21.0,some college,81.0,82.0,84.0,arts,6.5,family-sponsored,no
+male,20.0,bachelor's degree,55.0,59.0,54.0,none,6.4,scholarship,no
+female,21.0,some high school,76.0,72.0,71.0,volunteering,7.2,scholarship,no
+female,20.957100566138987,associate's degree,42.35655487981605,54.92729533323877,53.75613622635786,sports,6.793737482927505,self-funded,yes
+male,22.0,some high school,59.0,69.0,65.0,volunteering,7.2,government-funded,yes
+male,19.0,high school,52.0,49.0,46.0,multiple,5.4,family-sponsored,yes
+female,22.0,associate's degree,57.0,78.0,79.0,arts,6.7,scholarship,yes
+male,23.994326141134323,high school,54.19392967943297,41.08258539740632,47.90542126742814,none,8.808795355312448,self-funded,yes
+male,18.983583020710533,associate's degree,64.74646591741674,75.25194096463032,77.32611803643387,volunteering,5.735331469862547,scholarship,yes
+male,19.077841963619473,some high school,59.1431279400389,54.42499460600021,67.02167081451903,multiple,5.40407161142229,self-funded,yes
+male,24.0,bachelor's degree,53.0,58.0,55.0,arts,7.6,self-funded,no
+female,18.97533289905415,some high school,44.08447398170799,50.56330906120393,54.7262833464176,arts,5.056596480657666,self-funded,yes
+male,19.0,some high school,53.0,54.0,48.0,multiple,5.4,family-sponsored,no
+female,24.0,some college,52.0,58.0,58.0,multiple,9.0,self-funded,no
+female,19.0,bachelor's degree,71.0,70.0,70.0,volunteering,5.0,family-sponsored,yes
+male,19.0,associate's degree,79.0,82.0,80.0,none,5.4,scholarship,yes
+female,19.0,some college,77.0,90.0,91.0,none,5.0,scholarship,no
+female,24.0,some college,87.0,89.0,94.0,arts,8.5,government-funded,yes
+male,21.02472731493916,associate's degree,77.72036734302938,76.54129144798202,76.61203898429315,arts,6.6926593227372795,government-funded,yes
+male,24.0,master's degree,79.0,81.0,71.0,volunteering,8.5,family-sponsored,no
+male,23.0,bachelor's degree,87.0,84.0,87.0,none,7.7,scholarship,yes
+female,21.964477005439953,some college,69.26766349396918,78.79890250361903,81.01802614454468,multiple,6.9224931279318955,self-funded,yes
+female,19.0,some college,58.0,67.0,62.0,volunteering,5.3,self-funded,no
+male,22.0,bachelor's degree,58.0,55.0,48.0,sports,7.1,self-funded,no
+male,19.0674506442061,associate's degree,78.96384088133085,82.22336573765443,80.39996409426159,none,5.435534082975287,government-funded,yes
+female,22.0,associate's degree,53.0,58.0,65.0,arts,6.7,scholarship,no
+female,19.0,associate's degree,65.0,75.0,77.0,volunteering,5.7,government-funded,yes
+male,19.0,some college,93.0,90.0,83.0,multiple,5.9,government-funded,no
+male,23.0,high school,62.0,55.0,54.0,multiple,7.7,family-sponsored,no
+female,19.0,associate's degree,57.0,77.0,80.0,sports,5.1,government-funded,yes
+female,21.066931614481057,some high school,58.996623718436936,85.42702573291807,80.20383525529415,arts,6.556529268271527,scholarship,yes
+female,19.0,some high school,67.0,74.0,77.0,sports,5.5,self-funded,yes
+female,19.0,associate's degree,52.0,76.0,70.0,none,5.3,self-funded,no
+female,24.0,bachelor's degree,78.0,82.0,79.0,multiple,8.9,self-funded,no
+female,23.990298020964815,master's degree,62.13549414830124,68.37903976459218,74.75209972652098,volunteering,8.752334001886645,scholarship,yes
+male,23.0,high school,84.0,77.0,74.0,none,7.7,scholarship,no
+female,19.0,some college,63.0,64.0,67.0,arts,5.4,self-funded,no
+male,20.021834751470756,some college,99.72056564693573,95.49965007128891,85.81584904514317,multiple,5.480415963847431,government-funded,yes
+female,23.0,high school,74.0,79.0,80.0,none,7.5,scholarship,yes
+female,24.0,bachelor's degree,77.0,85.0,87.0,sports,7.8,family-sponsored,no
+female,24.997279340110772,high school,69.75495656991582,75.21184491635282,74.16933400049584,none,8.805063038993929,family-sponsored,yes
+female,18.978984409570838,master's degree,81.5495086429837,97.11950530830043,95.97491704304716,volunteering,5.299780714256872,self-funded,yes
+female,24.0,bachelor's degree,37.0,45.0,38.0,sports,8.2,scholarship,no
+female,18.993561452363505,associate's degree,71.31096145484665,77.4521816836619,76.80885078797903,none,6.1592478584411525,self-funded,yes
+female,19.0,some high school,97.0,100.0,100.0,multiple,5.3,self-funded,yes
+male,19.0,bachelor's degree,67.0,61.0,68.0,multiple,5.4,self-funded,yes
+male,25.0,bachelor's degree,77.0,67.0,68.0,none,8.7,scholarship,no
+female,24.0,associate's degree,91.0,95.0,94.0,none,9.0,family-sponsored,no
+female,19.0,associate's degree,71.0,77.0,77.0,none,6.2,self-funded,yes
+female,25.0,some college,73.0,80.0,82.0,sports,9.0,government-funded,no
+male,19.0,high school,61.0,56.0,55.0,none,5.6,self-funded,no
+male,19.0,high school,69.0,58.0,53.0,multiple,5.3,government-funded,yes
+male,23.0,bachelor's degree,61.0,66.0,61.0,multiple,7.5,family-sponsored,no
+male,24.0,some college,62.0,61.0,57.0,sports,8.8,government-funded,no
+male,19.0,some college,76.0,64.0,66.0,volunteering,6.1,government-funded,no
+male,22.05006052986671,bachelor's degree,95.4968882175932,90.38973066625427,91.97240462197315,volunteering,7.068749284652349,scholarship,yes
+female,24.0,master's degree,53.0,61.0,68.0,sports,8.3,scholarship,no
+male,19.0,high school,80.0,76.0,65.0,multiple,5.0,government-funded,no
+male,20.0,bachelor's degree,39.0,42.0,38.0,multiple,5.8,self-funded,yes
+female,25.0,some high school,38.0,49.0,45.0,sports,8.6,self-funded,no
+female,20.091285336530984,some high school,62.52858174342826,67.2375584234529,66.9658121679154,sports,6.4113685919594925,self-funded,yes
+female,25.0,high school,65.0,81.0,73.0,volunteering,8.5,self-funded,no
+female,22.0,associate's degree,49.0,53.0,53.0,multiple,6.9,family-sponsored,no
+female,20.0,high school,62.0,64.0,64.0,sports,5.6,scholarship,no
+male,21.0,high school,69.0,70.0,67.0,volunteering,7.1,government-funded,no
+female,23.0,high school,69.0,77.0,73.0,multiple,8.2,family-sponsored,no
+male,19.0,bachelor's degree,83.0,82.0,84.0,multiple,5.9,self-funded,yes
+female,23.008854395751385,high school,64.61471079739655,61.171714339922985,71.46353082683046,volunteering,8.083845981631388,family-sponsored,yes
+female,22.0,associate's degree,53.0,62.0,53.0,arts,7.3,self-funded,no
+male,23.0,some college,66.0,59.0,52.0,multiple,7.6,scholarship,no
+male,22.0034532417827,associate's degree,82.9715783843544,86.16286095901073,87.40240543509627,volunteering,7.39346803143697,scholarship,yes
+male,23.0,some high school,68.0,72.0,64.0,none,8.1,self-funded,no
+female,21.0,high school,66.0,72.0,70.0,arts,7.1,self-funded,no
+female,18.961367161985056,some college,88.59864379040165,94.69747880806919,91.40160704385497,volunteering,6.305777183638517,family-sponsored,yes
+male,22.0,some college,58.0,50.0,45.0,none,7.1,family-sponsored,no
+female,24.0,some college,65.0,70.0,71.0,arts,9.0,family-sponsored,no
+male,19.032919814527578,some college,99.54163818563931,87.13548714505022,80.80474145050488,sports,5.411443648363927,government-funded,yes
+female,19.0,master's degree,77.0,97.0,94.0,multiple,5.8,scholarship,yes
+male,19.0,some high school,53.0,37.0,40.0,none,5.1,family-sponsored,yes
+male,19.978971324968107,associate's degree,93.45699169465921,84.82999574888687,82.19093418195627,volunteering,6.026028375498121,scholarship,yes
+male,24.0,associate's degree,58.0,54.0,52.0,none,8.6,government-funded,no
+female,23.0,associate's degree,75.0,90.0,88.0,multiple,8.1,self-funded,yes
+male,19.999446349341017,associate's degree,84.80365324195927,65.98559532071633,71.05961312535948,none,5.520959714755979,scholarship,yes
+female,20.0,associate's degree,40.0,48.0,50.0,multiple,5.8,scholarship,no
+female,22.0,master's degree,74.0,79.0,82.0,arts,7.0,self-funded,no
+female,24.0,high school,53.0,50.0,60.0,volunteering,7.9,self-funded,yes
+male,20.0,some college,85.0,81.0,85.0,arts,5.7,family-sponsored,yes
+male,22.0,some college,76.0,67.0,67.0,volunteering,7.1,family-sponsored,no
+male,20.076504690726512,some high school,61.47351822403792,74.05701139709714,71.77251137675307,arts,6.306740364357173,self-funded,yes
+female,25.0,high school,81.0,91.0,89.0,sports,8.8,self-funded,no
+male,20.0,master's degree,79.0,77.0,75.0,none,5.6,government-funded,yes
+male,19.944634665548165,some college,68.7299619927233,76.24196919670142,77.28032308168977,multiple,5.622007121867127,scholarship,yes
+female,18.932886837321075,some college,81.8791295401161,96.98756108858733,95.82524856049284,volunteering,5.316475679034377,government-funded,yes
+male,22.0,some high school,51.0,31.0,36.0,volunteering,6.7,scholarship,no
+female,19.98386969296151,high school,58.62875480899668,63.46672708808253,75.02393264841713,none,5.868560020464449,government-funded,yes
+female,19.02446910085714,some high school,43.91294560651102,51.02370975372517,54.720840283656706,arts,5.096852600881556,self-funded,yes
+female,20.0,some high school,29.0,40.0,44.0,multiple,6.4,family-sponsored,yes
+female,23.977725209666247,high school,52.80481064748096,50.07803447914642,59.935764734661966,volunteering,7.893805366391481,self-funded,yes
+female,22.0,some college,69.0,78.0,76.0,arts,6.7,self-funded,no
+female,21.0,bachelor's degree,78.0,90.0,93.0,multiple,6.5,family-sponsored,no
+male,22.027871459998718,some high school,80.46562451583732,74.39311181380968,76.0139890441454,multiple,6.506518560192029,self-funded,yes
+female,20.0,bachelor's degree,52.0,65.0,69.0,none,6.3,government-funded,no
+female,19.0,associate's degree,46.0,58.0,57.0,none,5.5,family-sponsored,no
+female,19.017621312680888,associate's degree,73.91854805434636,74.68453139034413,79.8215514298029,none,5.005489823926205,family-sponsored,yes
+male,22.0,high school,71.0,60.0,61.0,arts,6.7,scholarship,no
+male,24.0,high school,62.0,55.0,49.0,none,8.3,family-sponsored,no
+male,20.0,some high school,92.0,87.0,78.0,none,5.5,family-sponsored,no
+male,19.090833343726526,associate's degree,65.1488957533377,66.97961476274095,64.95033691053514,none,5.380802382060729,scholarship,yes
+male,24.0,high school,55.0,41.0,48.0,none,8.8,self-funded,yes
+male,18.998246472292568,high school,57.075446363368314,55.89362513864061,54.101984965517914,multiple,5.190735376540034,self-funded,yes
+female,24.0,some college,58.0,61.0,66.0,arts,8.5,self-funded,no
+female,19.0,some college,72.0,79.0,82.0,sports,6.0,government-funded,yes
+male,24.0,bachelor's degree,62.0,63.0,56.0,volunteering,8.1,government-funded,no
+female,24.0,master's degree,70.0,71.0,74.0,arts,8.8,scholarship,yes
+male,21.0,associate's degree,68.0,65.0,61.0,arts,6.8,scholarship,no
+male,24.02668568796359,high school,67.86767694527227,64.29435031124495,66.27978036552449,none,7.609859945315434,government-funded,yes
+female,19.0,master's degree,77.0,90.0,84.0,arts,5.0,self-funded,no
+male,20.0,bachelor's degree,71.0,74.0,68.0,arts,6.4,government-funded,yes
+female,25.0,bachelor's degree,29.0,41.0,47.0,sports,8.7,family-sponsored,no
+female,19.0,high school,74.0,76.0,73.0,multiple,5.2,scholarship,no
+female,25.0,bachelor's degree,72.0,72.0,74.0,sports,9.0,family-sponsored,no
+female,24.0,some college,32.0,39.0,33.0,sports,7.9,scholarship,no
+female,22.0140293681025,bachelor's degree,77.41569849968832,94.42719093633889,95.22662382879304,multiple,6.77063739343388,family-sponsored,yes
+male,24.0,associate's degree,81.0,71.0,73.0,multiple,8.1,self-funded,no
+male,19.004000475986057,some college,99.94127303031102,96.63074870019403,98.56700514795591,arts,5.593957808675269,scholarship,yes
+male,19.0,bachelor's degree,70.0,68.0,72.0,arts,5.0,family-sponsored,yes
+female,19.0,some college,53.0,66.0,73.0,none,5.2,government-funded,yes
+female,24.0,master's degree,94.0,99.0,100.0,multiple,7.9,self-funded,yes
+male,22.0,some high school,61.0,56.0,56.0,volunteering,6.6,government-funded,yes
+female,24.0,high school,69.0,72.0,77.0,arts,8.0,self-funded,no
+female,24.0,associate's degree,73.0,76.0,78.0,volunteering,8.6,family-sponsored,no
+female,19.0,some college,45.0,53.0,55.0,sports,5.8,self-funded,no
+male,25.0,some high school,63.0,60.0,57.0,volunteering,8.7,scholarship,yes
+female,21.0,some high school,77.0,91.0,88.0,volunteering,7.4,family-sponsored,no
+male,19.0,some high school,72.0,68.0,67.0,none,5.0,government-funded,no
+male,19.974177418658144,bachelor's degree,39.37435647111359,41.71577339719832,37.20702120046002,multiple,5.822312391317589,self-funded,yes
+male,20.0,high school,53.0,52.0,42.0,none,6.2,scholarship,no
+female,25.0,some college,42.0,66.0,69.0,multiple,8.8,self-funded,yes
+female,19.0,high school,75.0,88.0,85.0,none,6.1,scholarship,no
+female,21.0,some high school,38.0,43.0,43.0,sports,7.4,self-funded,no
+male,21.0,high school,71.0,79.0,71.0,multiple,6.6,scholarship,no
+male,19.0,bachelor's degree,82.0,62.0,62.0,none,6.3,government-funded,no
+male,25.0,associate's degree,53.0,54.0,48.0,none,8.8,self-funded,no
+male,18.993501772283878,some high school,77.09139124774778,76.21956927258537,77.11386746024735,none,6.302640497487953,government-funded,yes
+female,24.0,some college,54.0,48.0,52.0,multiple,8.4,government-funded,no
+female,21.036819917424893,bachelor's degree,96.19509688416616,99.80954964970684,99.91133012931958,arts,6.47065499175257,scholarship,yes
+male,23.0,some high school,76.0,80.0,73.0,multiple,7.6,self-funded,yes
+male,23.0,some college,66.0,65.0,60.0,multiple,7.8,government-funded,no
+male,24.0,associate's degree,87.0,100.0,95.0,none,8.1,self-funded,yes
+female,25.0,some college,63.0,74.0,74.0,sports,8.7,scholarship,no
+male,23.0,some college,58.0,60.0,57.0,sports,7.8,self-funded,no
+female,23.973298773924206,associate's degree,94.02948435101709,87.01141840549148,92.03622520358297,none,8.298433693420703,family-sponsored,yes
+male,19.0,some high school,64.0,50.0,43.0,volunteering,5.4,government-funded,no
+male,19.0,high school,70.0,65.0,60.0,volunteering,5.2,scholarship,no
+female,19.0,some college,62.0,73.0,70.0,arts,5.2,scholarship,no
+female,19.0,associate's degree,74.0,81.0,83.0,sports,6.3,scholarship,no
+female,21.0,associate's degree,52.0,55.0,57.0,sports,6.7,scholarship,no
+male,25.0,associate's degree,80.0,76.0,64.0,multiple,8.6,scholarship,no
+female,20.06400990638772,bachelor's degree,71.04957799156522,75.9454444164706,82.7251555662772,multiple,6.112430291985276,scholarship,yes
+female,19.01388124500911,associate's degree,75.85631659964484,93.89624045057224,87.1837168682148,volunteering,5.268277160880904,scholarship,yes
+male,21.0,high school,76.0,73.0,68.0,none,6.8,government-funded,no
+female,21.0,some high school,52.0,67.0,72.0,sports,7.4,family-sponsored,yes
+female,20.0,associate's degree,55.0,65.0,62.0,arts,6.3,government-funded,yes
+female,19.0,some college,71.0,76.0,70.0,arts,6.3,self-funded,no
+female,22.0,some college,82.0,85.0,87.0,arts,6.6,scholarship,no
+female,22.07737715184772,high school,49.83042155884083,65.86645300111323,63.661354036054995,multiple,6.460991289697398,self-funded,yes
+male,20.029538963879226,bachelor's degree,39.20473639479609,41.59163274167314,37.884656550894775,multiple,5.832263132365911,self-funded,yes
+female,21.0,high school,62.0,62.0,63.0,none,6.9,family-sponsored,no
+male,24.0,some college,79.0,67.0,67.0,sports,8.4,family-sponsored,no
+female,18.9832864568525,bachelor's degree,63.659939393072015,84.73606128153597,85.12491469471705,multiple,5.190375248852418,government-funded,yes
+female,25.0,bachelor's degree,67.0,75.0,72.0,none,8.9,scholarship,no
+female,22.0,associate's degree,82.0,85.0,86.0,none,7.1,self-funded,yes
+female,20.0,high school,58.0,62.0,59.0,multiple,5.8,self-funded,no
+female,21.0,some high school,60.0,70.0,70.0,sports,6.8,government-funded,yes
+male,24.0,associate's degree,90.0,78.0,81.0,sports,8.1,family-sponsored,no
+male,19.0,master's degree,80.0,80.0,72.0,volunteering,5.0,scholarship,no
+female,20.0,some college,74.0,81.0,76.0,arts,6.2,self-funded,no
+female,20.0,some high school,77.0,90.0,85.0,volunteering,6.3,family-sponsored,yes
+female,22.981021236629438,master's degree,77.00501763992429,81.5887725700174,90.68002213769537,none,8.006970150792878,family-sponsored,yes
+female,23.041686647929218,associate's degree,82.78599472227874,84.62189430199444,89.80208435111376,sports,7.674379071869195,self-funded,yes
+female,23.0,some high school,67.0,89.0,82.0,multiple,8.0,scholarship,no
+male,25.0,associate's degree,52.0,55.0,49.0,volunteering,8.8,self-funded,no
+female,22.0,associate's degree,61.0,86.0,87.0,multiple,7.0,self-funded,yes
+male,24.0,associate's degree,66.0,62.0,64.0,arts,8.6,family-sponsored,no
+male,19.040241048074343,some high school,76.88270804867243,76.00408715885824,76.70062376286046,none,6.318242185417261,government-funded,yes
+male,22.0,some high school,57.0,61.0,54.0,sports,7.1,scholarship,no
+female,19.0,bachelor's degree,59.0,64.0,75.0,sports,6.3,government-funded,yes
+female,23.994654523054788,associate's degree,68.07458881595542,86.1028369562244,84.13557629284253,none,7.459070599220392,family-sponsored,yes
+female,19.034028871096478,some college,52.5461944539348,66.41919494377984,73.18256893204423,none,5.159256070070434,government-funded,yes
+male,22.0,some college,69.0,64.0,68.0,volunteering,6.6,government-funded,no
+female,25.0,high school,73.0,92.0,84.0,sports,8.6,government-funded,no
+female,20.0,some college,63.0,65.0,61.0,sports,5.6,family-sponsored,no
+male,20.0,master's degree,84.0,89.0,90.0,sports,6.4,scholarship,yes
+female,21.0,some high school,59.0,85.0,80.0,arts,6.6,scholarship,yes
+male,24.041576554003978,associate's degree,56.95791221773387,53.72966406316184,56.05402479082168,arts,7.63032815359679,self-funded,yes
+male,23.936760709892678,some high school,64.85779263722343,64.79404596759508,63.04773717263487,sports,8.924937741462099,self-funded,yes
+male,24.0,associate's degree,48.0,43.0,45.0,sports,8.8,government-funded,no
+male,24.0,some college,60.0,62.0,60.0,multiple,7.9,self-funded,yes
+female,24.964809564425988,some college,59.383192846872234,77.97799299477794,75.88058495013733,arts,8.634567204624945,government-funded,yes
+male,24.0,some college,58.0,57.0,54.0,volunteering,7.6,family-sponsored,no
+female,24.0,master's degree,65.0,81.0,81.0,volunteering,8.8,family-sponsored,yes
+male,24.0,high school,81.0,80.0,76.0,volunteering,9.0,family-sponsored,yes
+female,24.0,bachelor's degree,59.0,72.0,70.0,multiple,7.7,government-funded,no
+male,19.0,some college,53.0,43.0,43.0,arts,5.1,government-funded,no
+female,24.0,some high school,59.0,63.0,64.0,sports,7.9,scholarship,yes
+male,21.0,some college,59.0,62.0,61.0,none,7.0,government-funded,no
+male,19.0,high school,60.0,68.0,60.0,arts,5.3,self-funded,no
+male,21.0,some high school,75.0,72.0,62.0,volunteering,6.9,family-sponsored,no
+female,23.0,some college,85.0,86.0,98.0,volunteering,8.0,self-funded,yes
+female,23.0,associate's degree,47.0,53.0,58.0,multiple,8.4,government-funded,no
+male,20.0,master's degree,73.0,74.0,72.0,sports,5.5,scholarship,no
+male,22.960810723845807,associate's degree,74.22391449056181,88.64752260675019,89.76250326749057,none,7.652431928092258,self-funded,yes
+female,22.0,associate's degree,79.0,88.0,94.0,arts,7.1,family-sponsored,yes
+male,24.0,some high school,74.0,64.0,60.0,arts,7.7,government-funded,yes
+male,22.0,associate's degree,69.0,70.0,63.0,multiple,7.2,government-funded,yes
+male,25.0,high school,72.0,66.0,66.0,none,8.8,self-funded,no
+male,23.0,high school,42.0,39.0,34.0,multiple,8.0,government-funded,no
+male,23.0,some college,68.0,59.0,62.0,arts,7.5,family-sponsored,no
+male,18.99216195039517,bachelor's degree,90.89013124306437,81.63847742625019,79.00441120865256,volunteering,6.179472789607243,scholarship,yes
+male,23.0,some high school,68.0,63.0,54.0,sports,8.4,government-funded,no
+male,22.0,some high school,79.0,85.0,86.0,none,6.6,government-funded,yes
+female,24.0,some college,75.0,88.0,85.0,none,8.7,scholarship,yes
+male,20.0,bachelor's degree,68.0,68.0,67.0,sports,5.6,government-funded,no
+male,19.070038267233453,bachelor's degree,67.6732486456169,60.953357078349185,68.1178422236111,multiple,5.392610358922033,family-sponsored,yes
+female,24.0,high school,66.0,71.0,76.0,none,7.9,family-sponsored,no
+female,24.0,some high school,64.0,79.0,77.0,none,8.2,scholarship,yes
+male,20.0,bachelor's degree,70.0,64.0,70.0,volunteering,6.3,family-sponsored,yes
+female,23.908539685291743,some high school,71.23850559449798,83.64105469214769,87.04969274240305,arts,7.949980885859963,government-funded,yes
+female,20.98320591795541,associate's degree,96.51429866250103,96.05761493245483,98.7225983397032,multiple,7.402698196673239,self-funded,yes
+female,23.0,associate's degree,59.0,73.0,72.0,none,7.6,government-funded,yes
+male,21.0,associate's degree,80.0,75.0,69.0,arts,6.8,family-sponsored,no
+male,22.050588367214615,bachelor's degree,95.71280573441851,89.83479361959527,92.29311051753315,volunteering,7.087708182713114,scholarship,yes
+male,22.0,some high school,62.0,67.0,69.0,multiple,7.4,self-funded,yes
+male,20.0,some college,88.0,85.0,76.0,volunteering,6.3,government-funded,yes
+male,22.0,associate's degree,90.0,87.0,75.0,volunteering,6.8,self-funded,no
+female,22.0,some high school,57.0,67.0,72.0,none,6.6,scholarship,no
+female,25.0,some college,76.0,78.0,80.0,sports,8.8,government-funded,no
+female,23.0,bachelor's degree,79.0,92.0,89.0,none,7.8,family-sponsored,yes
+male,19.0,associate's degree,62.0,56.0,53.0,multiple,5.1,self-funded,yes
+female,23.010682767357814,high school,68.13034231923135,80.10403482477633,76.41049821911191,arts,7.485079494592037,scholarship,yes
+female,24.0,some high school,64.0,60.0,74.0,arts,9.0,family-sponsored,yes
+male,23.0,high school,41.0,52.0,51.0,arts,7.9,family-sponsored,no
+female,19.0,some high school,77.0,79.0,80.0,multiple,6.3,government-funded,no
+male,24.0,some college,67.0,64.0,70.0,none,7.7,family-sponsored,no
+female,19.0,associate's degree,85.0,91.0,89.0,multiple,5.1,scholarship,no
+female,22.025847523493752,associate's degree,79.05780869513103,88.07077138534594,94.03626039901843,arts,7.169489184289189,family-sponsored,yes
+male,22.00172352723209,some high school,66.04733999818869,67.98142037079326,64.32667773778854,sports,6.7076597620718985,self-funded,yes
+female,24.0,some high school,49.0,58.0,55.0,multiple,8.8,family-sponsored,no
+male,23.0,master's degree,91.0,85.0,85.0,none,8.1,family-sponsored,yes
+female,19.0,high school,45.0,63.0,59.0,multiple,5.8,scholarship,no
+female,21.0,associate's degree,63.0,67.0,70.0,sports,7.1,scholarship,no
+male,19.0,some college,86.0,76.0,74.0,volunteering,6.1,family-sponsored,no
+male,19.0,some college,70.0,63.0,58.0,multiple,5.4,family-sponsored,no
+female,19.0,master's degree,78.0,91.0,96.0,multiple,5.6,government-funded,no
+female,24.0,some college,75.0,77.0,83.0,arts,9.0,family-sponsored,yes
+female,19.0,high school,87.0,95.0,86.0,none,5.1,family-sponsored,no
+female,23.0,high school,65.0,61.0,71.0,volunteering,8.1,family-sponsored,yes
+male,19.045648806022186,some high school,60.929961795686495,61.75442962146292,60.96078568765679,none,5.490952786928778,self-funded,yes
+male,19.0,some college,99.0,87.0,81.0,sports,5.4,government-funded,yes
+female,23.0,bachelor's degree,62.0,78.0,79.0,sports,7.8,self-funded,no
+male,19.968879371193797,high school,71.796959547643,72.68219154474502,74.07616347081857,arts,5.827787536530803,family-sponsored,yes
+female,21.986049073055405,associate's degree,60.93406816979151,85.96061022511353,87.24244101096626,multiple,7.0095363832300395,self-funded,yes
+female,23.026318007886047,high school,75.39243125174251,68.62443395699512,67.9908923742846,sports,8.052609757732878,family-sponsored,yes
+female,22.0,some high school,69.0,75.0,78.0,arts,6.7,self-funded,no
+female,24.0,associate's degree,85.0,84.0,82.0,arts,8.9,scholarship,no
+male,21.0,some high school,77.0,68.0,69.0,none,7.2,self-funded,yes
+female,23.0,bachelor's degree,65.0,79.0,81.0,sports,7.5,scholarship,no
+female,21.0,some high school,0.0,17.0,10.0,sports,7.2,family-sponsored,no
+female,19.0,some high school,44.0,50.0,51.0,arts,5.2,self-funded,no
+male,24.0,high school,71.0,74.0,64.0,volunteering,7.8,scholarship,no
+male,19.0,high school,44.0,51.0,48.0,volunteering,5.1,self-funded,no
+female,24.0,some high school,63.0,73.0,68.0,multiple,9.0,self-funded,no
+male,19.0,associate's degree,82.0,84.0,78.0,multiple,5.0,scholarship,yes
+female,23.0,some college,62.0,67.0,67.0,sports,7.7,scholarship,no
+female,24.0,some college,70.0,89.0,88.0,multiple,8.4,family-sponsored,yes
+male,24.0,master's degree,90.0,85.0,84.0,volunteering,8.7,self-funded,no
+male,23.016889348254313,associate's degree,66.92710969822923,71.80460321747154,67.010304899823,none,7.91772663417858,government-funded,yes
+female,23.0,bachelor's degree,99.0,100.0,100.0,multiple,7.7,government-funded,yes
+female,20.0,associate's degree,59.0,70.0,66.0,multiple,6.4,self-funded,yes
+male,24.002983403931278,high school,81.81931821033113,84.21347339425785,82.08606210699803,multiple,8.591638241235204,family-sponsored,yes
+female,23.056683135458947,high school,76.75494287692379,88.13704649338523,85.22892931441434,volunteering,8.326863536426785,government-funded,yes
+female,19.0,high school,65.0,64.0,62.0,multiple,5.2,scholarship,no
+male,21.970266935510068,high school,52.792861033336926,50.64093260024385,51.55307864968919,none,7.194946146662659,scholarship,yes
+female,25.0,some college,77.0,68.0,77.0,sports,8.5,government-funded,no
+female,25.0,master's degree,88.0,99.0,95.0,none,8.7,scholarship,yes
+male,25.0,master's degree,79.0,78.0,77.0,volunteering,8.8,government-funded,no
+female,20.977618827166488,high school,58.181197351061584,70.1239087123947,67.93269908305435,volunteering,7.0772461495352115,family-sponsored,yes
+male,25.0,high school,66.0,69.0,63.0,multiple,8.6,family-sponsored,no
+male,21.0,some college,69.0,60.0,54.0,multiple,7.2,government-funded,no
+female,25.0,bachelor's degree,81.0,88.0,90.0,sports,8.8,government-funded,no
+male,19.0,some high school,85.0,84.0,78.0,arts,6.1,family-sponsored,yes
+female,24.0,associate's degree,54.0,61.0,58.0,multiple,7.9,scholarship,no
+male,24.002224832437143,high school,60.392156287850476,43.50747133470873,46.661754886592405,arts,7.909494391389638,family-sponsored,yes
+male,23.94114434497499,some high school,77.61142809999137,71.7736974245777,69.00521025050928,sports,8.3280732703837,self-funded,yes
+female,18.942368607581443,some college,44.80079566818464,72.96964182243543,69.8309498604709,none,6.205654294889491,self-funded,yes
+female,19.0,high school,72.0,80.0,75.0,volunteering,5.1,scholarship,no
+female,23.0,some high school,65.0,86.0,80.0,multiple,7.5,family-sponsored,no
+male,23.0,some college,87.0,84.0,86.0,sports,7.7,self-funded,yes
+male,24.0,high school,57.0,43.0,47.0,sports,8.4,self-funded,no
+male,21.0,bachelor's degree,87.0,90.0,88.0,multiple,7.1,family-sponsored,yes
+female,23.0,master's degree,77.0,82.0,91.0,none,8.0,family-sponsored,yes
+female,24.0,some college,64.0,74.0,75.0,sports,9.0,self-funded,no
+male,20.0,some high school,76.0,70.0,69.0,volunteering,6.3,scholarship,yes
+female,19.0,master's degree,62.0,70.0,75.0,sports,6.0,self-funded,no
+male,24.0,some high school,79.0,76.0,65.0,sports,8.6,scholarship,no
+male,21.0,associate's degree,78.0,77.0,77.0,arts,6.7,government-funded,yes
+female,20.114113044886036,bachelor's degree,91.71961181388534,99.86969006461709,98.92163517339668,none,6.274681971976571,self-funded,yes
+female,19.100009276610027,some high school,64.94042498877702,76.42903516633149,75.3466524811336,sports,5.408406270591378,scholarship,yes
+female,23.0,some high school,74.0,74.0,72.0,arts,8.4,self-funded,no
+male,22.98459715563696,bachelor's degree,68.13436081042636,73.98902392266285,73.6868453705676,sports,8.177110350981803,scholarship,yes
+female,24.0,some college,74.0,89.0,84.0,volunteering,7.8,self-funded,no
+male,24.0,some college,74.0,77.0,73.0,multiple,8.5,self-funded,no
+male,20.0,associate's degree,94.0,85.0,82.0,volunteering,6.0,scholarship,yes
+male,23.0,associate's degree,49.0,51.0,43.0,none,8.3,self-funded,no
+female,25.0,associate's degree,56.0,65.0,63.0,multiple,8.9,scholarship,no
+female,20.065879614170587,some high school,63.469603932697105,77.61563403857187,79.42284856230168,arts,5.657148376032886,government-funded,yes
+female,21.983110478183175,high school,82.83875830967354,85.58419401713147,87.9430863886483,volunteering,7.433800573824656,self-funded,yes
+male,19.0,master's degree,89.0,84.0,82.0,arts,5.0,family-sponsored,no
+female,22.0,high school,75.0,82.0,79.0,volunteering,6.5,government-funded,yes
+male,23.0,high school,27.0,34.0,36.0,multiple,8.0,self-funded,no
+female,23.982344661879335,some college,62.24051180075138,72.56643848786972,70.82432650438724,volunteering,7.604937523343098,scholarship,yes
+male,23.0,associate's degree,75.0,68.0,64.0,volunteering,8.3,scholarship,no
+male,22.0,high school,53.0,51.0,51.0,none,7.2,scholarship,yes
+female,22.0,some high school,51.0,63.0,61.0,arts,7.2,government-funded,no
+female,21.0,high school,65.0,69.0,67.0,none,6.9,self-funded,no
+female,19.0,associate's degree,56.0,68.0,70.0,volunteering,6.3,scholarship,yes
+female,23.0,bachelor's degree,80.0,83.0,83.0,sports,7.9,family-sponsored,no
+female,23.0,some college,58.0,67.0,72.0,none,8.4,scholarship,no
+male,20.977143812750295,bachelor's degree,86.99965247409979,90.33486759604357,87.87986377449506,multiple,7.093512372507893,family-sponsored,yes
+female,22.96134480909047,bachelor's degree,98.88156647042864,100.15085697386877,99.8920366324452,multiple,7.69840315621777,government-funded,yes
+female,23.0,associate's degree,82.0,93.0,93.0,multiple,7.5,self-funded,yes
+female,23.0,some high school,32.0,34.0,38.0,multiple,8.0,scholarship,no
+male,24.0,associate's degree,77.0,78.0,73.0,arts,8.7,government-funded,no
+female,21.0,high school,46.0,54.0,58.0,none,6.8,self-funded,yes
+male,19.0,some high school,86.0,73.0,70.0,volunteering,5.4,scholarship,no
+male,22.0,associate's degree,74.0,73.0,67.0,arts,6.6,family-sponsored,no
+male,23.043520300813913,some college,91.11428556593341,96.3747245961685,91.00946336137969,none,7.596081347358704,family-sponsored,yes
+female,22.0,associate's degree,75.0,82.0,90.0,arts,6.5,scholarship,yes
+female,24.0,some high school,27.0,34.0,32.0,sports,7.7,self-funded,no
+female,21.0,associate's degree,84.0,95.0,92.0,sports,7.3,scholarship,no
+female,23.95379779769106,bachelor's degree,43.224426490860374,50.779558764561806,54.23125060406956,arts,7.900329286579258,self-funded,yes
+male,24.0,associate's degree,97.0,93.0,91.0,arts,8.5,self-funded,no
+female,19.0,associate's degree,65.0,69.0,70.0,none,5.1,scholarship,no
+female,24.0,associate's degree,55.0,76.0,76.0,arts,8.8,family-sponsored,no
+female,22.0142627299175,some college,68.87729972222145,79.3671229341827,80.64745635297102,multiple,6.906140331542398,self-funded,yes
+male,21.0,high school,72.0,67.0,65.0,sports,6.5,self-funded,yes
+male,22.0,some college,81.0,78.0,81.0,volunteering,7.2,family-sponsored,yes
+female,23.0,high school,42.0,52.0,51.0,volunteering,8.3,government-funded,no
+female,19.0,some high school,74.0,75.0,82.0,arts,5.3,government-funded,no
+male,19.0,bachelor's degree,91.0,81.0,79.0,volunteering,6.2,scholarship,yes
+female,23.938625330654567,associate's degree,68.39188540145297,77.54025236737758,80.18198482717052,none,8.683560713884336,government-funded,yes
+male,19.0,some high school,71.0,69.0,68.0,volunteering,5.0,government-funded,yes
+female,25.004293815528808,master's degree,68.9852490617695,83.73771336813262,84.94127919487492,arts,8.817564890675927,scholarship,yes
+female,22.0,bachelor's degree,78.0,79.0,76.0,sports,6.6,scholarship,no
+female,23.0,high school,57.0,58.0,64.0,volunteering,8.3,scholarship,yes
+male,20.0,bachelor's degree,85.0,66.0,71.0,none,5.5,scholarship,yes
+female,24.0,high school,50.0,50.0,47.0,none,8.8,self-funded,no
+male,24.0,master's degree,67.0,57.0,59.0,volunteering,7.7,family-sponsored,no
+female,20.0,high school,59.0,63.0,75.0,none,5.9,government-funded,yes
+female,19.082387303302777,associate's degree,71.19111735781705,76.90021683799382,76.54345484240932,none,6.214998102582076,self-funded,yes
+female,21.0,master's degree,62.0,68.0,68.0,volunteering,7.1,family-sponsored,no
+female,23.0,high school,57.0,58.0,57.0,sports,7.9,self-funded,no
+female,23.0,bachelor's degree,51.0,72.0,79.0,arts,7.5,self-funded,yes
+male,21.0,associate's degree,97.0,92.0,86.0,arts,7.1,self-funded,yes
+male,19.0,some high school,48.0,52.0,45.0,multiple,5.0,scholarship,no
+female,24.0,some high school,71.0,84.0,87.0,arts,7.9,government-funded,yes
+female,24.059481560252337,bachelor's degree,49.20716931954999,57.84381750564824,60.52148340603138,sports,8.49211573289182,scholarship,yes
+male,23.0,bachelor's degree,68.0,74.0,74.0,sports,8.2,scholarship,yes
+male,20.0,bachelor's degree,54.0,49.0,47.0,volunteering,5.5,scholarship,no
+female,22.0,associate's degree,40.0,59.0,51.0,multiple,6.5,family-sponsored,no
+male,22.0,bachelor's degree,91.0,96.0,92.0,none,7.1,family-sponsored,no
+female,23.0,associate's degree,82.0,80.0,77.0,volunteering,8.3,scholarship,no
+male,22.0,associate's degree,77.0,69.0,68.0,none,6.8,family-sponsored,yes
+female,23.0,some high school,66.0,78.0,78.0,volunteering,7.9,family-sponsored,yes
+female,25.0,bachelor's degree,74.0,86.0,89.0,sports,8.8,self-funded,yes
+male,20.0,some high school,56.0,61.0,60.0,multiple,6.4,government-funded,yes
+male,23.97487576373125,high school,54.53369307332369,40.88295106471125,48.310910578081376,none,8.840648428621435,self-funded,yes
+female,23.0,some high school,59.0,58.0,59.0,multiple,7.7,government-funded,no
+female,19.0,some high school,47.0,54.0,53.0,sports,5.3,scholarship,no
+female,19.031494860838357,some college,81.8034283317403,96.86218502912178,96.13508045818796,volunteering,5.338260869402308,self-funded,yes
+female,24.0,some college,50.0,64.0,66.0,arts,8.1,family-sponsored,yes
+female,19.0,master's degree,85.0,95.0,100.0,multiple,5.3,self-funded,yes
+male,23.0,some high school,51.0,52.0,44.0,sports,8.3,family-sponsored,no
+male,21.0,some high school,88.0,84.0,75.0,multiple,6.5,government-funded,no
+female,22.0,associate's degree,71.0,83.0,78.0,none,7.0,self-funded,no
+female,20.0,some high school,48.0,54.0,53.0,multiple,6.0,government-funded,no
+female,22.0,high school,64.0,73.0,71.0,volunteering,7.4,family-sponsored,no
+female,25.0,associate's degree,41.0,51.0,48.0,sports,8.8,scholarship,no
+male,19.0,some high school,60.0,59.0,54.0,arts,6.3,government-funded,no
+male,21.00689728498574,high school,71.57144109510149,67.13571775790494,65.00058071564052,sports,6.5017563965029375,self-funded,yes
+female,19.0,high school,67.0,72.0,74.0,sports,5.0,family-sponsored,no
+male,18.97493147691006,bachelor's degree,90.79257439575787,80.78067487343226,78.94344849006565,volunteering,6.178791202990122,scholarship,yes
+male,19.0,associate's degree,87.0,84.0,85.0,multiple,5.4,government-funded,yes
+female,24.0,associate's degree,55.0,72.0,79.0,volunteering,8.4,scholarship,yes
+female,19.0,high school,59.0,71.0,65.0,none,5.2,family-sponsored,yes
+female,25.0,high school,66.0,74.0,78.0,multiple,8.6,scholarship,yes
+female,25.0,some college,71.0,70.0,76.0,volunteering,8.8,government-funded,no
+male,19.0,some college,71.0,49.0,52.0,none,5.3,scholarship,no
+female,19.011668105067603,some college,85.76815271232171,85.03433582760712,91.0082457439335,none,5.188305432933168,government-funded,yes
+male,24.0,associate's degree,76.0,71.0,67.0,arts,7.9,family-sponsored,no
+male,19.0,associate's degree,80.0,75.0,77.0,arts,5.0,scholarship,no
+male,22.0,high school,55.0,56.0,51.0,multiple,7.2,family-sponsored,no
+male,21.022827830352558,high school,71.93712837808552,67.28642596283413,64.79446139980547,sports,6.503916432741697,self-funded,yes
+male,19.0,high school,54.0,72.0,59.0,multiple,6.0,family-sponsored,no
+female,24.0,master's degree,58.0,76.0,78.0,sports,8.8,scholarship,yes
+male,24.0,some college,50.0,47.0,54.0,volunteering,7.5,family-sponsored,yes
+male,24.0,associate's degree,61.0,58.0,56.0,multiple,7.7,scholarship,no
+female,18.987873705885253,master's degree,47.532739880715624,57.99357331378199,66.25774637022948,arts,6.422470553476636,family-sponsored,yes
+male,20.0,associate's degree,67.0,54.0,63.0,sports,6.1,self-funded,yes
+female,23.0,some college,88.0,95.0,94.0,multiple,7.7,family-sponsored,yes
+male,19.0,high school,72.0,65.0,68.0,sports,5.4,scholarship,yes
+male,21.0,some high school,78.0,83.0,80.0,arts,6.6,government-funded,yes
+female,24.0,master's degree,64.0,63.0,66.0,sports,8.4,government-funded,no
+male,19.99075430999744,associate's degree,57.72601246784134,56.855165306598735,53.23669563321565,multiple,6.285075491882005,self-funded,yes
+female,24.0,some college,72.0,72.0,71.0,none,8.7,government-funded,no
+male,20.0,some high school,55.0,46.0,43.0,arts,5.7,family-sponsored,no
+male,19.0,some college,85.0,75.0,68.0,volunteering,5.9,family-sponsored,yes
+male,23.0,associate's degree,46.0,43.0,44.0,multiple,8.3,self-funded,yes
+female,24.0,associate's degree,57.0,74.0,76.0,none,8.5,family-sponsored,yes
+female,23.0,associate's degree,58.0,63.0,65.0,sports,7.7,self-funded,no
+male,19.0,high school,66.0,74.0,69.0,sports,5.4,government-funded,no
+male,19.03603541850575,high school,68.35239137373637,58.33212356922336,52.674051239578255,arts,5.278648830327285,self-funded,yes
+female,19.0,associate's degree,60.0,75.0,74.0,none,5.2,government-funded,no
+male,24.0,some college,69.0,54.0,55.0,none,8.4,scholarship,no
+male,24.0,some college,71.0,61.0,69.0,volunteering,8.6,scholarship,yes
+male,22.0,associate's degree,65.0,54.0,57.0,none,7.2,family-sponsored,no
+male,21.0,associate's degree,62.0,61.0,58.0,sports,6.5,family-sponsored,yes
+female,24.0,associate's degree,68.0,77.0,80.0,none,8.7,government-funded,yes
+female,20.0,some high school,72.0,79.0,77.0,sports,5.7,scholarship,no
+female,19.0,bachelor's degree,66.0,83.0,83.0,volunteering,5.9,government-funded,yes
+female,22.0085154932504,master's degree,53.410007877475266,64.58700401412156,66.5661571758414,sports,7.230703066178801,self-funded,yes
+female,24.0,high school,35.0,61.0,54.0,none,8.5,self-funded,no
+female,19.0,associate's degree,52.0,59.0,62.0,volunteering,5.6,family-sponsored,yes
+female,25.0,some high school,76.0,87.0,85.0,sports,8.8,scholarship,yes
+female,22.0,some college,69.0,79.0,81.0,multiple,6.9,self-funded,yes
+female,19.0,some college,61.0,60.0,57.0,multiple,5.9,family-sponsored,no
+female,23.0,high school,67.0,79.0,84.0,sports,8.1,scholarship,yes
+male,23.033456645827414,high school,39.782407711534844,45.90288846866501,49.98214173397265,sports,8.099375117658319,self-funded,yes
+male,23.02246018266346,associate's degree,77.74865241761688,74.11119866535344,71.9963396759453,arts,7.495777834036742,scholarship,yes
+male,20.0,some college,53.0,44.0,42.0,none,6.1,self-funded,no
+male,20.0,some college,58.0,49.0,42.0,multiple,5.6,family-sponsored,no
+female,24.0,some high school,80.0,90.0,82.0,multiple,8.4,family-sponsored,no
+male,23.0,associate's degree,79.0,82.0,82.0,arts,7.7,scholarship,yes
+female,21.946602180018793,some high school,65.01680612316352,77.78224700755428,81.80246914504099,none,6.718106727307001,family-sponsored,yes
+male,23.939034060008233,associate's degree,57.0811647906147,54.39836228493655,55.67420634876458,arts,7.656296147802883,self-funded,yes
+female,24.0051105538178,some high school,70.19294193874777,82.20055521940219,76.28196279394528,arts,8.913965878561067,government-funded,yes
+male,23.0,some college,84.0,83.0,78.0,none,8.4,family-sponsored,yes
+male,22.0,some high school,66.0,68.0,64.0,sports,6.7,self-funded,yes
+male,19.018058926680986,some high school,89.62505514275055,87.88846074287807,82.16446350213624,arts,4.992236018111849,scholarship,yes
+female,19.0,high school,53.0,72.0,64.0,volunteering,5.2,self-funded,no
+female,21.0,high school,56.0,52.0,55.0,volunteering,6.6,family-sponsored,no
+female,21.0,bachelor's degree,62.0,72.0,74.0,none,7.4,scholarship,no
+female,23.0,bachelor's degree,93.0,100.0,100.0,sports,7.8,government-funded,yes
+male,23.0,bachelor's degree,80.0,78.0,81.0,arts,8.0,self-funded,yes
+male,19.0,bachelor's degree,94.0,90.0,91.0,arts,5.8,family-sponsored,yes
+female,23.0,some high school,40.0,65.0,64.0,arts,8.4,scholarship,yes
+female,23.0,high school,78.0,81.0,80.0,sports,7.6,family-sponsored,no
+female,19.0,bachelor's degree,75.0,84.0,80.0,none,5.3,scholarship,no
+male,22.993053354518832,bachelor's degree,100.27113233944492,99.96597343487268,99.88649641293749,multiple,7.880119782523781,scholarship,yes
+female,21.0,some college,42.0,55.0,54.0,arts,6.8,self-funded,yes
+female,23.98100030981354,some college,63.005516114853044,72.68252730246525,71.02693090935556,volunteering,7.6654373008930206,scholarship,yes
+female,24.0,associate's degree,64.0,64.0,70.0,volunteering,8.1,family-sponsored,no
+female,21.0,some high school,59.0,72.0,80.0,arts,7.1,government-funded,no
+male,21.98921481242668,some high school,80.88167565804687,74.97682772763503,76.28706305627234,multiple,6.48015839251788,self-funded,yes
+female,24.0,some high school,69.0,73.0,73.0,none,7.5,government-funded,no
+female,24.0,some college,65.0,81.0,77.0,none,8.6,government-funded,no
+female,22.0,master's degree,54.0,64.0,67.0,sports,7.2,self-funded,yes
+male,22.0,some high school,49.0,50.0,52.0,multiple,6.8,family-sponsored,yes
+male,19.01493953190625,bachelor's degree,67.3286239340091,60.94503618808941,68.20928458574816,multiple,5.4004278950028475,self-funded,yes
+male,21.0,associate's degree,67.0,62.0,60.0,none,6.7,self-funded,no
+female,22.0,some college,78.0,87.0,91.0,sports,6.6,family-sponsored,yes
+male,21.034133499655113,some college,49.72137317640294,47.81353486796725,52.998320718377705,none,7.293002744588501,scholarship,yes
+female,25.0,high school,58.0,68.0,61.0,sports,8.9,government-funded,no
+male,19.0,bachelor's degree,73.0,56.0,57.0,arts,5.2,self-funded,no
+female,19.0,bachelor's degree,100.0,100.0,100.0,sports,6.1,scholarship,no
+male,20.0,high school,52.0,48.0,49.0,multiple,5.6,self-funded,no
+female,19.9529092830248,bachelor's degree,92.16372440075178,100.07272745580863,99.38924981921318,none,6.243202382359345,self-funded,yes
+female,22.998920011186826,high school,59.98912958934255,64.07610304128565,74.18760282054404,multiple,7.603990717891066,family-sponsored,yes
+female,24.0,associate's degree,87.0,94.0,95.0,none,8.7,self-funded,no
+male,19.0,high school,61.0,60.0,55.0,sports,5.3,scholarship,no
+male,19.0,associate's degree,85.0,76.0,71.0,multiple,5.1,self-funded,no
+male,20.0,some college,44.0,54.0,53.0,arts,5.7,self-funded,no
+female,19.0,high school,59.0,72.0,68.0,volunteering,5.2,scholarship,no
+male,22.0,some college,58.0,59.0,58.0,multiple,6.7,family-sponsored,yes
+female,21.00463514874215,master's degree,41.79490314589616,55.21626097531084,54.425629887900136,arts,6.779475168205052,self-funded,yes
+female,24.952271765091915,bachelor's degree,74.11648014063832,85.81433910300962,88.91110415769766,sports,8.78420926713725,self-funded,yes
+male,18.97632528375551,some high school,96.82123151140655,99.64638975922914,100.21433770426553,none,5.290392704464948,self-funded,yes
+female,22.0,some high school,65.0,78.0,82.0,volunteering,6.7,family-sponsored,yes
+male,21.979371714153373,bachelor's degree,95.63458958084182,90.38054440510598,91.65330170379177,volunteering,7.088901953800385,scholarship,yes
+male,24.0,some high school,73.0,66.0,66.0,multiple,8.6,family-sponsored,no
+male,23.0,high school,86.0,81.0,80.0,multiple,8.0,government-funded,yes
+male,19.0,associate's degree,87.0,74.0,76.0,sports,5.0,family-sponsored,no
+male,20.0,some college,40.0,42.0,38.0,sports,6.1,government-funded,no
+male,22.0,some college,73.0,74.0,61.0,volunteering,7.4,scholarship,no
+female,24.02013216821987,some college,65.27335371814608,84.66371378172593,83.5718794972058,multiple,8.248108171946619,scholarship,yes
+female,22.0,some college,59.0,71.0,70.0,sports,6.7,self-funded,no
+male,20.0,some college,53.0,55.0,48.0,multiple,5.7,scholarship,no
+male,23.0,high school,40.0,46.0,50.0,sports,8.1,self-funded,yes
+male,20.97041427131415,high school,76.12321666002578,62.681604716476365,60.37554110652285,sports,6.702449477518262,government-funded,yes
+male,23.0,some college,53.0,39.0,37.0,sports,7.7,self-funded,no
+female,19.963085377871685,associate's degree,59.144730983704285,69.93758094679026,66.18736641024675,sports,6.4351656889282225,self-funded,yes
+female,18.965226410168018,high school,57.084453671281835,74.85651032747022,73.03445045039902,none,5.225844665589881,family-sponsored,yes
+male,22.0,associate's degree,100.0,100.0,93.0,sports,6.7,family-sponsored,yes
+male,19.057681772136956,master's degree,66.79937880792296,60.96962942150693,67.70202545396774,multiple,5.376149329121097,family-sponsored,yes
+male,19.0,high school,63.0,63.0,62.0,arts,5.8,government-funded,no
+female,24.930064409351846,some high school,76.2307448567282,86.9619827633878,84.54430350252814,sports,8.805292503806491,scholarship,yes
+male,25.00025038218726,bachelor's degree,73.92643062991233,78.68034659123921,74.96783087588592,volunteering,8.615072730518142,self-funded,yes
+female,19.937832414347664,high school,58.48209388599277,62.68464200261573,74.81855653455506,none,5.943175190528258,government-funded,yes
+male,20.0,bachelor's degree,75.0,58.0,62.0,none,5.8,self-funded,yes
+male,20.0,high school,68.0,60.0,53.0,sports,5.8,scholarship,no
+male,19.0,some high school,88.0,74.0,75.0,multiple,5.5,self-funded,yes
+male,23.0,high school,53.0,52.0,49.0,arts,8.4,self-funded,yes
+male,25.000834352719277,bachelor's degree,74.28639665561,79.12094025556364,75.34266620600697,none,8.595759206453844,scholarship,yes
+female,23.0,some college,73.0,78.0,76.0,arts,7.6,self-funded,yes
+male,22.0,some high school,78.0,81.0,86.0,none,6.6,self-funded,yes
+male,24.0,associate's degree,84.0,80.0,80.0,none,8.5,scholarship,no
+male,19.06347427402723,some high school,67.11526083314428,60.54319442568124,67.93496679650028,multiple,5.415491791664873,self-funded,yes
+female,20.0,high school,48.0,62.0,60.0,multiple,5.9,government-funded,no
+male,23.976470579038423,some high school,78.72763913672141,71.78077650206959,69.43573763288069,sports,8.3404131566916,family-sponsored,yes
+male,20.0,associate's degree,73.0,68.0,66.0,sports,5.8,self-funded,no
+male,19.0,high school,57.0,48.0,51.0,volunteering,6.3,scholarship,no
+female,18.946533773262225,bachelor's degree,43.716812268095595,50.89510899514536,54.87070728199839,arts,5.09519574769746,self-funded,yes
+male,19.0,some high school,61.0,57.0,56.0,arts,5.6,government-funded,no
+male,22.0,some college,54.0,52.0,51.0,volunteering,6.6,government-funded,no
+female,19.0,high school,60.0,68.0,72.0,arts,5.0,scholarship,no
+female,23.0,high school,41.0,46.0,43.0,arts,8.4,government-funded,no
+male,22.990566494157374,associate's degree,51.54147513027293,59.88317589527613,57.65695260996133,none,7.7864938740658936,family-sponsored,yes
+male,21.0,associate's degree,40.0,52.0,43.0,sports,7.0,scholarship,no
+female,19.019323833366116,some college,81.99425415183586,97.06009927246534,96.09073916147709,volunteering,5.276577967358521,self-funded,yes
+female,19.045574346661514,some college,88.26588648642523,95.01254866983238,92.44777081964334,volunteering,6.2782417798743415,family-sponsored,yes
+female,23.0,some high school,49.0,63.0,56.0,sports,7.6,scholarship,no
+female,23.0,bachelor's degree,64.0,73.0,70.0,none,8.3,government-funded,no
+male,22.0,associate's degree,91.0,73.0,80.0,arts,6.5,government-funded,yes
+male,19.01348837736195,associate's degree,82.26193871924191,77.84881402168577,74.5627237990421,arts,6.357964178257956,government-funded,yes
+male,24.0,some college,62.0,66.0,68.0,multiple,8.6,scholarship,yes
+female,19.084330915259788,master's degree,60.79183603026646,70.6952848545238,78.56598161416551,sports,5.475882560802805,government-funded,yes
+male,25.0,some college,63.0,63.0,60.0,none,8.5,family-sponsored,no
+male,24.0,some college,68.0,60.0,59.0,arts,7.5,scholarship,no
+male,19.01391698758113,high school,58.16516108613891,50.56339781018962,51.88301046212806,volunteering,5.38751976407544,family-sponsored,yes
+male,25.0,some high school,74.0,63.0,57.0,multiple,8.7,scholarship,no
+male,20.0,bachelor's degree,63.0,66.0,67.0,sports,5.9,family-sponsored,no
+female,23.0,some college,53.0,58.0,57.0,multiple,8.2,self-funded,no
+male,23.0,high school,62.0,55.0,55.0,none,8.0,self-funded,no
+female,24.004102523201702,associate's degree,68.01866118830115,86.164213658834,84.08872840687845,none,7.544854544175298,family-sponsored,yes
+female,23.928340804416713,master's degree,93.78277171482955,98.87501698887525,100.0881881346373,multiple,7.901867701583259,self-funded,yes
+female,20.0,some college,87.0,85.0,93.0,none,5.8,government-funded,no
+male,20.0,some high school,87.0,84.0,76.0,none,6.3,government-funded,yes
+male,19.0,some college,55.0,58.0,52.0,sports,5.3,family-sponsored,no
+female,23.9850329622351,associate's degree,65.03563747138219,83.8976031817814,83.92042751769932,multiple,8.311952941829166,scholarship,yes
+male,21.0,associate's degree,46.0,43.0,42.0,sports,6.5,family-sponsored,no
+female,20.0,associate's degree,82.0,93.0,93.0,none,6.3,scholarship,no
+female,20.0,associate's degree,93.0,100.0,95.0,multiple,6.0,scholarship,yes
+female,25.017275816044876,bachelor's degree,74.20101148192575,86.41039259967651,88.32872265473208,sports,8.778096393743581,self-funded,yes
+male,22.0,bachelor's degree,79.0,74.0,72.0,sports,7.1,scholarship,yes
+male,21.0,master's degree,81.0,81.0,84.0,sports,6.5,scholarship,no
+male,24.0,bachelor's degree,88.0,75.0,76.0,arts,8.3,family-sponsored,no
+male,19.0,high school,82.0,82.0,80.0,arts,5.3,family-sponsored,no
+male,25.0,high school,57.0,50.0,54.0,arts,8.5,scholarship,no
+female,24.0,associate's degree,67.0,84.0,81.0,volunteering,7.7,family-sponsored,yes
+female,19.0,high school,57.0,75.0,73.0,none,5.2,self-funded,yes
+female,23.0,high school,49.0,57.0,52.0,arts,8.1,scholarship,no
+female,25.0,bachelor's degree,66.0,74.0,81.0,multiple,8.5,family-sponsored,yes
+male,24.0,associate's degree,64.0,66.0,59.0,volunteering,7.8,self-funded,no
+male,19.0,associate's degree,81.0,73.0,72.0,multiple,5.5,self-funded,no
+female,24.999427547089482,high school,69.43135975801171,77.14269184221882,78.07168642410231,arts,8.831833069809576,government-funded,yes
+female,19.0,some college,58.0,59.0,66.0,sports,5.6,family-sponsored,no
+female,23.0,some high school,62.0,64.0,66.0,multiple,8.0,government-funded,no
+male,19.0,bachelor's degree,63.0,71.0,69.0,multiple,5.9,government-funded,no
+male,19.0,high school,72.0,67.0,64.0,arts,5.6,self-funded,yes
+female,19.0,some high school,71.0,83.0,77.0,multiple,5.2,scholarship,no
+female,19.009195889200537,some college,75.94941432794694,94.36357746879203,87.06231353600964,none,5.305775649919103,scholarship,yes
+female,25.042142092326383,some high school,84.74950109657966,91.75493336502619,92.9389682927584,multiple,8.594376653178962,government-funded,yes
+male,19.0,some high school,71.0,62.0,50.0,none,6.1,family-sponsored,no
+male,24.0,associate's degree,65.0,73.0,68.0,sports,8.1,scholarship,yes
+male,23.0,high school,58.0,61.0,52.0,multiple,7.9,family-sponsored,no
+female,24.0,some college,77.0,86.0,86.0,arts,7.9,family-sponsored,no
+female,20.0,master's degree,90.0,95.0,93.0,none,6.1,scholarship,no
+male,19.0,some high school,94.0,88.0,78.0,none,5.0,self-funded,no
+female,24.0,high school,68.0,83.0,78.0,volunteering,7.8,self-funded,yes
+male,23.988582965819276,bachelor's degree,49.008907768673005,57.82922251553005,60.0562598203342,sports,8.478298051487059,scholarship,yes
+male,24.0,bachelor's degree,63.0,64.0,66.0,volunteering,8.8,family-sponsored,yes
+female,22.940792018986475,some college,88.32370141024388,93.55065547519558,92.81915745879989,volunteering,8.09886190471569,government-funded,yes
+female,18.988075943835725,some high school,35.12249045537306,55.35870697622602,60.34655039135599,volunteering,6.092266151770054,scholarship,yes
+male,24.0,associate's degree,81.0,75.0,78.0,arts,8.7,self-funded,no
+male,18.987374410181307,some college,85.02528860807413,74.92129940770391,67.8011286593745,volunteering,5.9053982280250175,family-sponsored,yes
+female,20.0,some high school,61.0,74.0,72.0,arts,6.3,self-funded,yes
+male,23.02199311893374,high school,52.94217469515766,51.62255005489183,48.996103303851044,arts,8.388364796418475,family-sponsored,yes
+female,19.0,associate's degree,49.0,52.0,54.0,none,5.4,government-funded,no
+male,24.0,bachelor's degree,74.0,71.0,80.0,sports,8.8,government-funded,yes
+male,19.0,associate's degree,65.0,67.0,65.0,none,5.4,self-funded,yes
+male,24.0,some college,67.0,74.0,70.0,none,8.7,government-funded,yes
+female,22.0,some college,49.0,65.0,61.0,multiple,7.1,government-funded,no
+male,19.0,some high school,81.0,78.0,78.0,none,5.0,government-funded,no
+female,20.002668869622173,bachelor's degree,91.40609383717789,99.94042581325607,98.5296743746993,none,6.335026276830352,self-funded,yes
+male,19.013382678042834,bachelor's degree,66.54994690737784,60.6850916406567,67.80141771165836,multiple,5.409788351687089,self-funded,yes
+female,21.0,some college,67.0,81.0,79.0,sports,6.7,government-funded,yes
+male,24.0,some college,78.0,72.0,70.0,sports,7.9,scholarship,yes
+female,19.006819597357563,some college,69.98590677487257,77.31217455163852,77.79592873441975,sports,5.605146996752987,scholarship,yes
+male,23.0,associate's degree,87.0,73.0,72.0,arts,8.4,government-funded,no
+female,22.0,some college,75.0,81.0,84.0,sports,6.9,self-funded,yes
+female,24.0,associate's degree,85.0,92.0,85.0,multiple,8.5,self-funded,no
+male,24.044050942081203,some high school,73.7210206297968,64.14781601031798,60.62298171543904,arts,7.724812221210272,government-funded,yes
+male,24.0,bachelor's degree,59.0,54.0,51.0,sports,7.5,self-funded,no
+female,24.96062207820371,high school,65.90993652932292,74.02157306991889,78.09478981799975,multiple,8.587612775127795,scholarship,yes
+male,24.0,high school,73.0,64.0,57.0,none,9.0,government-funded,no
+male,19.0,associate's degree,71.0,74.0,68.0,multiple,5.3,scholarship,yes
+female,18.945609328100662,high school,66.62543604512688,79.9819327342451,80.65894729002561,multiple,6.062710236153812,family-sponsored,yes
+female,20.0,bachelor's degree,50.0,60.0,59.0,volunteering,5.9,family-sponsored,no
+male,19.0,high school,70.0,55.0,56.0,volunteering,5.0,scholarship,no
+male,20.969145398123594,some high school,77.64772051724539,82.63666305789084,80.52740857037004,arts,6.590910978981828,government-funded,yes
+male,22.0,high school,59.0,58.0,47.0,sports,7.1,government-funded,no
+male,19.0,associate's degree,81.0,82.0,82.0,none,5.4,self-funded,yes
+female,23.0,associate's degree,74.0,88.0,90.0,none,7.6,self-funded,yes
+female,24.0,some high school,80.0,85.0,85.0,volunteering,8.3,family-sponsored,yes
+female,22.940523720530297,bachelor's degree,93.00927719888303,99.86929960920229,100.658664678411,sports,7.769236750997418,government-funded,yes
+female,22.0,some high school,43.0,53.0,53.0,arts,7.3,family-sponsored,no
+female,25.0,high school,29.0,29.0,30.0,none,9.0,scholarship,no
+male,19.0,some high school,89.0,88.0,82.0,arts,5.0,scholarship,yes
+female,23.0,associate's degree,65.0,70.0,74.0,multiple,8.2,scholarship,yes
+female,24.0,master's degree,40.0,58.0,54.0,arts,7.7,family-sponsored,no
+female,19.0,some college,63.0,78.0,80.0,multiple,5.0,self-funded,yes
+female,19.95724044854813,some high school,77.20498275846748,90.437679676039,84.87102013875821,volunteering,6.334070342903678,family-sponsored,yes
+female,23.929630552960234,some college,69.94309051069696,89.0717652824048,88.27346008023501,multiple,8.395907178748857,family-sponsored,yes
+female,22.0,some college,69.0,90.0,88.0,volunteering,6.7,self-funded,yes
+female,24.0,some college,62.0,69.0,69.0,multiple,8.4,family-sponsored,no
+female,20.0,high school,34.0,48.0,41.0,arts,6.3,government-funded,yes
+female,22.0,associate's degree,52.0,66.0,73.0,volunteering,7.4,self-funded,yes
+male,19.0,some high school,51.0,54.0,41.0,arts,5.9,self-funded,yes
+female,23.0,some college,59.0,62.0,64.0,volunteering,7.7,family-sponsored,no
+female,24.0,associate's degree,68.0,86.0,84.0,none,7.5,family-sponsored,yes
+male,20.0,master's degree,95.0,81.0,84.0,multiple,6.2,scholarship,no
+female,21.0,some college,35.0,44.0,43.0,sports,6.6,scholarship,no
+female,22.039605981522072,some college,77.70239654053415,87.05026541134437,90.98362326255922,sports,6.585221341891755,family-sponsored,yes
+male,22.85314693573304,associate's degree,91.2396913923324,89.12133648338182,92.0929162274102,volunteering,8.237645835800059,family-sponsored,yes
+male,24.0,some high school,94.0,86.0,87.0,multiple,8.5,government-funded,yes
+female,24.0,high school,88.0,99.0,100.0,sports,8.8,scholarship,yes
+male,23.0,high school,71.0,66.0,65.0,multiple,7.9,scholarship,no
+male,21.0,some college,35.0,28.0,27.0,none,6.8,family-sponsored,no
+female,23.96007735262475,high school,53.45968617717751,50.20904386728098,60.02236293376306,volunteering,7.885338411625765,scholarship,yes
+female,23.0,high school,33.0,41.0,43.0,multiple,7.5,scholarship,no
+male,20.952923055368117,some college,81.43018208920282,73.9426604545044,70.9002861986295,volunteering,6.709265487201498,scholarship,yes
+female,21.0,bachelor's degree,61.0,72.0,70.0,volunteering,7.3,government-funded,no
+female,24.0,associate's degree,65.0,76.0,76.0,volunteering,8.6,scholarship,no
+female,22.0,some high school,59.0,73.0,69.0,sports,6.6,family-sponsored,no
+female,23.0,associate's degree,76.0,74.0,73.0,sports,8.0,family-sponsored,no
+female,19.0,master's degree,54.0,60.0,63.0,multiple,6.4,government-funded,no
+female,25.0,high school,44.0,61.0,52.0,sports,8.5,scholarship,no
+female,18.993884152036017,high school,56.791181797471054,74.72867278538763,72.8405388339547,none,5.229672240509511,self-funded,yes
+male,20.043346509622445,bachelor's degree,84.8948499470577,65.9615464691654,71.46847635626096,none,5.516813245991331,scholarship,yes
+female,23.0,some college,65.0,75.0,70.0,none,8.2,scholarship,yes
+male,18.980704046277197,some high school,66.72327719593682,73.30988329859414,68.03516083527644,sports,6.328816112512993,self-funded,yes
+male,23.0,some college,75.0,81.0,74.0,none,8.3,family-sponsored,no
+female,23.0,associate's degree,71.0,71.0,74.0,none,7.8,government-funded,no
+female,20.0,associate's degree,54.0,58.0,61.0,volunteering,6.3,family-sponsored,no
+male,22.97354198557359,associate's degree,77.43267546338429,74.29797141870633,72.29740933497652,arts,7.495927233977667,scholarship,yes
+male,24.087856385342036,bachelor's degree,62.66848647626165,63.99489241597368,66.21241229687494,volunteering,8.778238001330697,family-sponsored,yes
+male,19.0,some college,60.0,63.0,59.0,none,5.0,family-sponsored,no
+female,19.0,high school,55.0,73.0,73.0,arts,5.5,family-sponsored,no
+male,23.0,associate's degree,76.0,70.0,68.0,none,8.4,self-funded,no
+female,25.0,high school,69.0,76.0,74.0,none,8.8,family-sponsored,yes
+female,20.0,some college,61.0,68.0,66.0,arts,6.4,government-funded,no
+female,19.0,master's degree,47.0,58.0,67.0,arts,6.4,family-sponsored,yes
+male,22.9498150450788,high school,74.83586490508641,68.91709089733331,68.11588782942431,sports,8.058449021628482,family-sponsored,yes
+female,24.0,some high school,70.0,82.0,76.0,arts,8.9,government-funded,yes
+male,22.0,some college,76.0,71.0,73.0,multiple,6.5,family-sponsored,no
+male,25.0,associate's degree,60.0,51.0,56.0,arts,8.6,self-funded,yes
+female,20.0,associate's degree,65.0,77.0,74.0,multiple,5.8,government-funded,no
+male,19.051383422890158,associate's degree,82.26751241994134,84.20148943798438,78.2210958441415,multiple,5.02370010834085,scholarship,yes
+male,20.0,high school,66.0,66.0,59.0,sports,6.0,family-sponsored,no
+female,22.0,some high school,54.0,61.0,62.0,volunteering,7.2,family-sponsored,yes
+male,21.0,associate's degree,71.0,66.0,60.0,volunteering,7.0,scholarship,no
+male,19.0,high school,86.0,81.0,75.0,arts,5.4,government-funded,yes
+male,21.0,associate's degree,83.0,72.0,78.0,multiple,7.4,scholarship,no
+female,23.0,some college,71.0,83.0,83.0,none,7.5,family-sponsored,no
+male,25.0,high school,73.0,68.0,66.0,arts,8.5,self-funded,yes
+female,20.0,associate's degree,65.0,77.0,74.0,sports,5.6,scholarship,no
+female,24.0,master's degree,81.0,91.0,87.0,volunteering,8.4,government-funded,yes
+female,24.017051921392813,some high school,71.18661691427072,84.13314883069916,87.20881642091122,arts,7.8988173498889305,government-funded,yes
+female,19.0,bachelor's degree,43.0,62.0,61.0,arts,5.0,government-funded,no
+male,20.086075019077676,associate's degree,93.96882276090008,85.40231915048325,81.55703531131103,volunteering,5.999547055542734,scholarship,yes
+male,18.979436253047684,associate's degree,73.08136327380383,78.37008537979659,71.97979858188563,none,5.667540971508709,government-funded,yes
+female,23.999354218263925,some college,63.583457228858165,72.86703744248923,70.76958267630467,volunteering,7.598258695894768,scholarship,yes
+female,19.0,some college,71.0,81.0,80.0,none,5.5,self-funded,no
+female,21.0,associate's degree,50.0,56.0,54.0,volunteering,7.4,self-funded,no
+male,19.0,some high school,73.0,67.0,59.0,arts,5.8,family-sponsored,yes
+female,19.0,master's degree,52.0,65.0,61.0,sports,5.0,scholarship,no
+male,19.0095002759256,some college,98.76368432647898,86.6848683484718,81.13837611392901,volunteering,5.384712558601549,government-funded,yes
+male,22.0,master's degree,82.0,82.0,74.0,none,6.9,government-funded,no
+male,22.0,some high school,55.0,59.0,59.0,sports,7.3,scholarship,yes
+male,22.0,associate's degree,90.0,90.0,82.0,sports,6.8,family-sponsored,no
+male,24.0,associate's degree,57.0,54.0,56.0,arts,7.6,self-funded,yes
+male,24.0,some college,84.0,77.0,71.0,volunteering,8.3,scholarship,no
+female,24.0,some high school,18.0,32.0,28.0,multiple,7.9,self-funded,no
+male,19.0,some college,68.0,68.0,61.0,multiple,5.2,scholarship,no
+male,25.0,some college,62.0,57.0,62.0,none,8.8,scholarship,no
+male,20.0,high school,30.0,24.0,15.0,arts,6.4,government-funded,no
+female,24.0,some college,70.0,75.0,78.0,volunteering,7.9,scholarship,no
+female,19.0,some college,63.0,80.0,80.0,volunteering,6.4,self-funded,yes
+female,24.0,bachelor's degree,67.0,69.0,75.0,volunteering,9.0,scholarship,no
+male,20.0,master's degree,46.0,42.0,46.0,multiple,5.5,scholarship,yes
+male,24.03104709838342,high school,67.82032829650818,64.07254089856191,66.0756440814002,none,7.600795818448667,government-funded,yes
+male,23.0,high school,75.0,69.0,68.0,sports,8.1,family-sponsored,yes
+male,19.0,associate's degree,49.0,51.0,51.0,sports,6.3,government-funded,no
+male,19.96201552256388,bachelor's degree,39.77293235826063,41.61458788972681,38.205393885821636,multiple,5.774730347871462,self-funded,yes
+female,24.0,bachelor's degree,68.0,75.0,81.0,arts,7.6,family-sponsored,yes
+female,20.0,some high school,63.0,78.0,79.0,arts,5.7,government-funded,yes
+female,21.0,bachelor's degree,65.0,73.0,75.0,multiple,7.2,government-funded,no
+male,24.0,associate's degree,98.0,87.0,90.0,none,7.5,government-funded,yes
+female,24.0,some college,67.0,75.0,70.0,volunteering,7.9,self-funded,yes
+female,22.0,some college,60.0,66.0,70.0,sports,7.3,self-funded,no
+female,23.998578574195953,some college,75.03382271551783,88.39489193067206,85.00284528992222,none,8.661906880656199,scholarship,yes
+male,20.0,associate's degree,92.0,79.0,84.0,volunteering,6.1,scholarship,no
+male,20.0,some college,100.0,96.0,86.0,multiple,5.5,government-funded,yes
+male,23.0,some high school,46.0,41.0,43.0,arts,7.8,scholarship,yes
+female,24.0,some college,67.0,76.0,75.0,arts,7.8,self-funded,no
+male,19.0,high school,70.0,70.0,65.0,arts,5.2,scholarship,no
+male,19.0,high school,46.0,34.0,36.0,multiple,5.4,scholarship,no
+male,18.996047361928433,some high school,88.60459062045216,73.78574455459797,75.1152448477236,multiple,5.471593469005256,self-funded,yes
+male,23.0,some high school,69.0,71.0,65.0,arts,7.9,self-funded,no
+female,19.0,some college,86.0,85.0,91.0,none,5.2,government-funded,yes
+female,24.057210106877925,bachelor's degree,46.89046515602133,61.48151078523855,66.14367116202862,volunteering,8.811910456118571,self-funded,yes
+male,23.0,bachelor's degree,68.0,68.0,64.0,none,7.6,family-sponsored,no
+female,21.0,associate's degree,90.0,90.0,91.0,none,6.8,self-funded,yes
+male,24.0,bachelor's degree,69.0,58.0,57.0,none,8.2,government-funded,no
+male,24.0,bachelor's degree,49.0,58.0,60.0,sports,8.5,scholarship,yes
+male,22.0,some college,59.0,41.0,42.0,sports,7.4,government-funded,no
+female,25.0,some high school,50.0,60.0,60.0,none,8.7,family-sponsored,yes
+female,19.014090159373097,some high school,73.67846597431793,89.73804306860119,88.39957149484725,volunteering,6.217367328436894,government-funded,yes
+male,25.0,high school,63.0,57.0,56.0,volunteering,8.8,family-sponsored,no
+male,21.0,some college,63.0,61.0,54.0,volunteering,7.0,self-funded,no
+female,23.00352277614049,some high school,81.59317921598134,92.69301735416536,92.73945246661786,multiple,7.537828996584517,self-funded,yes
+male,24.0,high school,50.0,48.0,42.0,sports,8.8,scholarship,no
+female,23.0,associate's degree,66.0,65.0,69.0,sports,8.2,scholarship,no
+male,25.040625095418754,high school,72.90647340171962,71.43369185438121,68.13989264133426,sports,8.691346419647845,family-sponsored,yes
+male,21.9509903693085,some high school,66.20828083693065,67.45179488309384,64.08270394711039,sports,6.662078202227635,self-funded,yes
+female,24.077806479246814,high school,53.2388485555874,50.35759887180439,60.10579362509332,volunteering,7.894258785155763,self-funded,yes
+male,20.027460488310396,bachelor's degree,38.87759623710128,42.21281564528491,37.795345668681136,multiple,5.811910332407259,self-funded,yes
+female,21.0,bachelor's degree,66.0,74.0,81.0,arts,6.9,self-funded,yes
+male,21.95323247510574,associate's degree,91.00965042568725,73.57777033234171,80.11823720677239,arts,6.447633980407751,government-funded,yes

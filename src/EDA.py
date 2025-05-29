@@ -8,7 +8,6 @@ from sklearn.preprocessing import LabelEncoder
 
 def EDA(a):
     ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage','IELTS','age']) #dropping unnecessary columns
-    ch_data= ch_data.drop_duplicates() #dropping duplicates
     ch_data= ch_data.dropna() 
     
     
@@ -16,9 +15,8 @@ def EDA(a):
     print("\n",ch_data.info())       #showing the info of the data
     print("\n",ch_data.nunique())
     print("\n",ch_data.isnull().sum()) 
-    
-    
     print("\n",ch_data.describe()) #showing the description of the data
+    
     
     temp = input("Do you want to see the Visualization of the data? (y/n): ")
     if(temp == 'y' or temp == 'Y'):    
