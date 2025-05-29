@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 # import pandas_profiling
 
 def EDA(a):
-    ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage','IELTS','age']) #dropping unnecessary columns
+    ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage']) #dropping unnecessary columns
     ch_data= ch_data.dropna() 
     
     
