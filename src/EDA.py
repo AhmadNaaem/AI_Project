@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 # import pandas_profiling
 
 def EDA(a):
-    ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage','age','IELTS']) #dropping unnecessary columns
+    ch_data = a.drop(columns=['math score', 'reading score', 'writing score','percentage','IELTS']) #dropping unnecessary columns
     ch_data= ch_data.dropna() 
 
 # Detect outliers using IQR for all numeric columns
@@ -58,9 +58,8 @@ def EDA(a):
         if col in ch_data.columns:
             le = LabelEncoder()
             ch_data[col] = le.fit_transform(ch_data[col])
-            label_encoders[col] = le
-
-
+            label_encoders[col] = le 
+    
     plt.figure(figsize=(13,8))
     sns.heatmap(ch_data.corr(), annot=True, fmt=".2f", cmap='coolwarm')
     plt.title('Feature Correlation Heatmap')

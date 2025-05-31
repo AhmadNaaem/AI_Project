@@ -16,6 +16,7 @@ def tree_model(df, label_encoders):
     )
 
     dt = DecisionTreeClassifier(random_state=42)
+    # dt = DecisionTreeClassifier(max_depth=7,min_samples_split=20,min_samples_leaf=10,class_weight='balanced',random_state=42)
 
     # Train the model
     dt.fit(X_train, y_train)
