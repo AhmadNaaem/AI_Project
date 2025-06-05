@@ -37,10 +37,7 @@ def launch_gui(accuracy, y_test, y_pred, X_test, label_encoders, rf, ch_data, or
 
     # --- Show EDA Visualization (as in encode) ---
     def show_eda_visualization():
-        # Categorical distributions
-        print(original_data.head())
         graphs(original_data)
-        # Heatmap
         heatMap(ch_data)
 
     # --- Show Model Evaluation Report ---
