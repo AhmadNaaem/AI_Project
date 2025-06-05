@@ -10,7 +10,7 @@ from sklearn.metrics import classification_report, confusion_matrix, ConfusionMa
 def launch_gui(accuracy, y_test, y_pred, X_test, label_encoders, rf, ch_data, original_data):
     root = tk.Tk()
     root.title("Visa Eligibility Predictor")
-    root.geometry("600x400")
+    root.geometry("400x200")
 
     acc_label = tk.Label(root, text=f"Accuracy: {accuracy:.2f}%", anchor='e')
     acc_label.place(relx=1.0, rely=0.0, anchor='ne')
